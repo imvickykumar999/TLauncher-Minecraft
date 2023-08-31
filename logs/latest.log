@@ -1,10 +1,10 @@
-[20:42:08] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
-[20:42:08] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
-[20:42:08] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
-[20:42:09] [main/INFO]: Launching wrapped minecraft [net.minecraft.client.main.Main]
-[20:42:17] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 573 milliseconds
-[20:42:19] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:42:20] [Render thread/ERROR]: Failed to verify authentication
+[21:10:56] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+[21:10:56] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+[21:10:56] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+[21:10:57] [main/INFO]: Launching wrapped minecraft [net.minecraft.client.main.Main]
+[21:11:07] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 562 milliseconds
+[21:11:10] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:11:11] [Render thread/ERROR]: Failed to verify authentication
 com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
 	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-4.0.43.1.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:147) ~[authlib-4.0.43.1.jar:?]
@@ -24,44 +24,40 @@ Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 4
 	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.1.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:122) ~[authlib-4.0.43.1.jar:?]
 	... 11 more
-[20:42:20] [Render thread/INFO]: Setting user: vicky
-[20:42:20] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
-[20:42:23] [Render thread/WARN]: Missing metadata in pack file/Halloween-V1.17.zip
-[20:42:24] [Render thread/INFO]: Reloading ResourceManager: vanilla, file/redstone.zip
-[20:42:24] [Worker-Main-4/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
-[20:42:25] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[20:42:28] [Worker-Main-3/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=east:
+[21:11:11] [Render thread/INFO]: Setting user: vicky
+[21:11:11] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[21:11:15] [Render thread/WARN]: Missing metadata in pack file/Halloween-V1.17.zip
+[21:11:16] [Render thread/INFO]: Reloading ResourceManager: vanilla, file/redstone.zip
+[21:11:17] [Worker-Main-8/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[21:11:17] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[21:11:23] [Worker-Main-1/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=east:
     minecraft:textures/atlas/blocks.png:minecraft:break/hopper
-[20:42:28] [Worker-Main-3/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=north:
+[21:11:23] [Worker-Main-1/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=north:
     minecraft:textures/atlas/blocks.png:minecraft:break/hopper
-[20:42:28] [Worker-Main-3/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=south:
+[21:11:23] [Worker-Main-1/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=south:
     minecraft:textures/atlas/blocks.png:minecraft:break/hopper
-[20:42:28] [Worker-Main-3/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=down:
+[21:11:23] [Worker-Main-1/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=down:
     minecraft:textures/atlas/blocks.png:minecraft:break/hopper
-[20:42:28] [Worker-Main-3/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=west:
+[21:11:23] [Worker-Main-1/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=west:
     minecraft:textures/atlas/blocks.png:minecraft:break/hopper
-[20:42:28] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
-[20:42:28] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[20:42:28] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Airdopes 141)
-[20:42:28] [Render thread/INFO]: Sound engine started
-[20:42:28] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[20:42:28] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[20:42:28] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[20:42:28] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[20:42:28] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[20:42:28] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[20:42:28] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[20:42:28] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[20:42:28] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[20:42:29] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[20:42:29] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[20:42:29] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[20:42:29] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[20:42:34] [Server Pinger #3/ERROR]: Can't ping mbs.blossomcraft.org/19132: Unknown host
-[20:42:34] [Server Pinger #2/ERROR]: Can't ping play.BendersMC.co/19132: Unknown host
-[20:42:44] [Render thread/INFO]: Connecting to play.BendersMC.co, 25565
-[20:42:53] [Render thread/INFO]: Connecting to minewave.net, 25565
-[20:43:24] [Worker-Main-7/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+[21:11:23] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[21:11:23] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[21:11:23] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Airdopes 141)
+[21:11:23] [Render thread/INFO]: Sound engine started
+[21:11:23] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[21:11:23] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[21:11:23] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:11:23] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:11:23] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[21:11:23] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:11:23] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:11:23] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:11:23] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:11:23] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[21:11:24] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:11:24] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:11:24] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:11:28] [Worker-Main-2/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
 java.util.zip.ZipException: Not in GZIP format
 	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165) ~[?:?]
 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79) ~[?:?]
@@ -80,7 +76,7 @@ java.util.zip.ZipException: Not in GZIP format
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[20:43:24] [Worker-Main-7/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+[21:11:28] [Worker-Main-2/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
 java.util.zip.ZipException: Not in GZIP format
 	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165) ~[?:?]
 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79) ~[?:?]
@@ -99,142 +95,141 @@ java.util.zip.ZipException: Not in GZIP format
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[20:44:27] [Worker-Main-4/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
-java.util.zip.ZipException: Not in GZIP format
-	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165) ~[?:?]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79) ~[?:?]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91) ~[?:?]
-	at rb.b(SourceFile:31) ~[rb.class:?]
-	at rb.a(SourceFile:47) ~[rb.class:?]
-	at rb.a(SourceFile:42) ~[rb.class:?]
-	at dyy.c(SourceFile:340) ~[dyy.class:?]
-	at dyy.a(SourceFile:297) ~[dyy.class:?]
-	at dyy.a(SourceFile:234) ~[dyy.class:?]
-	at dyy.a(SourceFile:195) ~[dyy.class:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[20:44:27] [Worker-Main-4/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
-java.util.zip.ZipException: Not in GZIP format
-	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165) ~[?:?]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79) ~[?:?]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91) ~[?:?]
-	at rb.b(SourceFile:31) ~[rb.class:?]
-	at rb.a(SourceFile:47) ~[rb.class:?]
-	at rb.a(SourceFile:42) ~[rb.class:?]
-	at dyy.c(SourceFile:340) ~[dyy.class:?]
-	at dyy.a(SourceFile:297) ~[dyy.class:?]
-	at dyy.a(SourceFile:242) ~[dyy.class:?]
-	at dyy.a(SourceFile:195) ~[dyy.class:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[20:46:36] [Worker-Main-6/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
-java.util.zip.ZipException: Not in GZIP format
-	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165) ~[?:?]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79) ~[?:?]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91) ~[?:?]
-	at rb.b(SourceFile:31) ~[rb.class:?]
-	at rb.a(SourceFile:47) ~[rb.class:?]
-	at rb.a(SourceFile:42) ~[rb.class:?]
-	at dyy.c(SourceFile:340) ~[dyy.class:?]
-	at dyy.a(SourceFile:297) ~[dyy.class:?]
-	at dyy.a(SourceFile:234) ~[dyy.class:?]
-	at dyy.a(SourceFile:195) ~[dyy.class:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[20:46:36] [Worker-Main-6/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
-java.util.zip.ZipException: Not in GZIP format
-	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165) ~[?:?]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79) ~[?:?]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91) ~[?:?]
-	at rb.b(SourceFile:31) ~[rb.class:?]
-	at rb.a(SourceFile:47) ~[rb.class:?]
-	at rb.a(SourceFile:42) ~[rb.class:?]
-	at dyy.c(SourceFile:340) ~[dyy.class:?]
-	at dyy.a(SourceFile:297) ~[dyy.class:?]
-	at dyy.a(SourceFile:242) ~[dyy.class:?]
-	at dyy.a(SourceFile:195) ~[dyy.class:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[20:46:41] [Render thread/INFO]: Loaded 7 recipes
-[20:46:41] [Render thread/INFO]: Loaded 1271 advancements
-[20:46:42] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
-[20:46:42] [Server thread/INFO]: Generating keypair
-[20:46:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:52] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:53] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:53] [Render thread/INFO]: Preparing spawn area: 0%
-[20:46:54] [Render thread/INFO]: Preparing spawn area: 8%
-[20:46:54] [Render thread/INFO]: Preparing spawn area: 27%
-[20:46:55] [Render thread/INFO]: Preparing spawn area: 67%
-[20:46:55] [Render thread/INFO]: Time elapsed: 10415 ms
-[20:46:56] [Server thread/INFO]: Changing view distance to 12, from 10
-[20:46:56] [Server thread/INFO]: Changing simulation distance to 12, from 0
-[20:46:56] [Server thread/INFO]: vicky[local:E:efab06f0] logged in with entity id 262 at (-93.30743801446624, 47.0, 58.72457702905841)
-[20:46:56] [Server thread/INFO]: vicky joined the game
-[20:46:58] [Render thread/INFO]: Loaded 2 advancements
-[20:47:03] [Server thread/INFO]: Saving and pausing game...
-[20:47:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
-[20:47:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
-[20:47:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
-[20:47:05] [Render thread/INFO]: Using default channel type
-[20:47:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3584ms or 71 ticks behind
-[20:47:05] [Render thread/INFO]: Started serving on 61094
-[20:47:06] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [61094]
-[20:47:10] [Server thread/INFO]: [vicky: Set own game mode to Spectator Mode]
-[20:47:10] [Render thread/INFO]: [System] [CHAT] Set own game mode to Spectator Mode
-[20:50:15] [Render thread/INFO]: [System] [CHAT] Unknown or incomplete command, see below for error
-[20:50:15] [Render thread/INFO]: [System] [CHAT] gamemode<--[HERE]
-[20:50:25] [Server thread/INFO]: [vicky: Set own game mode to Creative Mode]
-[20:50:25] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
-[20:50:43] [Render thread/INFO]: Loaded 11 advancements
-[20:51:43] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
-[20:54:28] [Render thread/INFO]: Loaded 22 advancements
-[20:57:57] [Server thread/INFO]: vicky lost connection: Disconnected
-[20:57:57] [Server thread/INFO]: vicky left the game
-[20:57:57] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[20:57:57] [Server thread/INFO]: Stopping server
-[20:57:57] [Server thread/INFO]: Saving players
-[20:57:57] [Server thread/INFO]: Saving worlds
-[20:58:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
-[20:58:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
-[20:58:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
-[20:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
-[20:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20:59:23] [Render thread/INFO]: Stopping!
+[21:11:36] [Render thread/INFO]: Loaded 7 recipes
+[21:11:36] [Render thread/INFO]: Loaded 1271 advancements
+[21:12:12] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[21:12:12] [Server thread/INFO]: Generating keypair
+[21:12:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:12:21] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:21] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:21] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:21] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:22] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:22] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:23] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:23] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:24] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:24] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:25] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:25] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:26] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:26] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:27] [Render thread/INFO]: Preparing spawn area: 0%
+[21:12:27] [Render thread/INFO]: Preparing spawn area: 1%
+[21:12:28] [Render thread/INFO]: Preparing spawn area: 1%
+[21:12:28] [Render thread/INFO]: Preparing spawn area: 1%
+[21:12:29] [Render thread/INFO]: Preparing spawn area: 2%
+[21:12:29] [Render thread/INFO]: Preparing spawn area: 3%
+[21:12:30] [Render thread/INFO]: Preparing spawn area: 4%
+[21:12:30] [Render thread/INFO]: Preparing spawn area: 4%
+[21:12:31] [Render thread/INFO]: Preparing spawn area: 5%
+[21:12:31] [Render thread/INFO]: Preparing spawn area: 6%
+[21:12:32] [Render thread/INFO]: Preparing spawn area: 7%
+[21:12:32] [Render thread/INFO]: Preparing spawn area: 7%
+[21:12:33] [Render thread/INFO]: Preparing spawn area: 9%
+[21:12:33] [Render thread/INFO]: Preparing spawn area: 9%
+[21:12:34] [Render thread/INFO]: Preparing spawn area: 10%
+[21:12:34] [Render thread/INFO]: Preparing spawn area: 11%
+[21:12:35] [Render thread/INFO]: Preparing spawn area: 12%
+[21:12:35] [Render thread/INFO]: Preparing spawn area: 13%
+[21:12:36] [Render thread/INFO]: Preparing spawn area: 14%
+[21:12:36] [Render thread/INFO]: Preparing spawn area: 15%
+[21:12:37] [Render thread/INFO]: Preparing spawn area: 15%
+[21:12:37] [Render thread/INFO]: Preparing spawn area: 16%
+[21:12:38] [Render thread/INFO]: Preparing spawn area: 16%
+[21:12:38] [Render thread/INFO]: Preparing spawn area: 16%
+[21:12:39] [Render thread/INFO]: Preparing spawn area: 18%
+[21:12:39] [Render thread/INFO]: Preparing spawn area: 18%
+[21:12:40] [Render thread/INFO]: Preparing spawn area: 18%
+[21:12:40] [Render thread/INFO]: Preparing spawn area: 19%
+[21:12:41] [Render thread/INFO]: Preparing spawn area: 19%
+[21:12:41] [Render thread/INFO]: Preparing spawn area: 20%
+[21:12:42] [Render thread/INFO]: Preparing spawn area: 22%
+[21:12:42] [Render thread/INFO]: Preparing spawn area: 23%
+[21:12:43] [Render thread/INFO]: Preparing spawn area: 23%
+[21:12:43] [Render thread/INFO]: Preparing spawn area: 24%
+[21:12:44] [Render thread/INFO]: Preparing spawn area: 24%
+[21:12:44] [Render thread/INFO]: Preparing spawn area: 25%
+[21:12:45] [Render thread/INFO]: Preparing spawn area: 26%
+[21:12:45] [Render thread/INFO]: Preparing spawn area: 27%
+[21:12:46] [Render thread/INFO]: Preparing spawn area: 29%
+[21:12:46] [Render thread/INFO]: Preparing spawn area: 30%
+[21:12:47] [Render thread/INFO]: Preparing spawn area: 31%
+[21:12:47] [Render thread/INFO]: Preparing spawn area: 33%
+[21:12:48] [Render thread/INFO]: Preparing spawn area: 33%
+[21:12:48] [Render thread/INFO]: Preparing spawn area: 34%
+[21:12:49] [Render thread/INFO]: Preparing spawn area: 35%
+[21:12:49] [Render thread/INFO]: Preparing spawn area: 37%
+[21:12:50] [Render thread/INFO]: Preparing spawn area: 40%
+[21:12:50] [Render thread/INFO]: Preparing spawn area: 42%
+[21:12:51] [Render thread/INFO]: Preparing spawn area: 43%
+[21:12:51] [Render thread/INFO]: Preparing spawn area: 43%
+[21:12:52] [Render thread/INFO]: Preparing spawn area: 44%
+[21:12:52] [Render thread/INFO]: Preparing spawn area: 47%
+[21:12:53] [Render thread/INFO]: Preparing spawn area: 49%
+[21:12:53] [Render thread/INFO]: Preparing spawn area: 51%
+[21:12:54] [Render thread/INFO]: Preparing spawn area: 54%
+[21:12:54] [Render thread/INFO]: Preparing spawn area: 55%
+[21:12:55] [Render thread/INFO]: Preparing spawn area: 57%
+[21:12:55] [Render thread/INFO]: Preparing spawn area: 58%
+[21:12:56] [Render thread/INFO]: Preparing spawn area: 61%
+[21:12:56] [Render thread/INFO]: Preparing spawn area: 64%
+[21:12:57] [Render thread/INFO]: Preparing spawn area: 66%
+[21:12:57] [Render thread/INFO]: Preparing spawn area: 68%
+[21:12:58] [Render thread/INFO]: Preparing spawn area: 70%
+[21:12:58] [Render thread/INFO]: Preparing spawn area: 72%
+[21:12:59] [Render thread/INFO]: Preparing spawn area: 75%
+[21:12:59] [Render thread/INFO]: Preparing spawn area: 76%
+[21:13:00] [Render thread/INFO]: Preparing spawn area: 79%
+[21:13:00] [Render thread/INFO]: Preparing spawn area: 82%
+[21:13:01] [Render thread/INFO]: Preparing spawn area: 84%
+[21:13:01] [Render thread/INFO]: Preparing spawn area: 85%
+[21:13:02] [Render thread/INFO]: Preparing spawn area: 88%
+[21:13:02] [Render thread/INFO]: Preparing spawn area: 90%
+[21:13:03] [Render thread/INFO]: Preparing spawn area: 93%
+[21:13:03] [Render thread/INFO]: Preparing spawn area: 96%
+[21:13:03] [Render thread/INFO]: Time elapsed: 43960 ms
+[21:13:04] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:13:04] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[21:13:06] [Server thread/INFO]: vicky[local:E:f324c6b5] logged in with entity id 255 at (62.5, 69.0, -101.5)
+[21:13:07] [Server thread/INFO]: vicky joined the game
+[21:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
+[21:13:08] [Render thread/INFO]: Loaded 2 advancements
+[21:13:08] [Render thread/INFO]: textures 'cape_test_272' was added, skin: false,cape: true, max waiting: 21 ,during : 130953 
+[21:13:08] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 8.333333333333334
+[21:13:09] [Server thread/INFO]: Saving and pausing game...
+[21:13:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:overworld
+[21:13:09] [Render thread/INFO]: can use texture size:TEXTURE_272, middle time: 6.8
+[21:13:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:the_end
+[21:13:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:the_nether
+[21:13:18] [Server thread/INFO]: Saving and pausing game...
+[21:13:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:overworld
+[21:13:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:the_end
+[21:13:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:the_nether
+[21:13:21] [Render thread/INFO]: Using default channel type
+[21:13:21] [Render thread/INFO]: Started serving on 55406
+[21:13:21] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [55406]
+[21:13:46] [Server thread/INFO]: [vicky: Teleported vicky to 11980.500000, 100.000000, 1400.500000]
+[21:13:46] [Render thread/INFO]: [System] [CHAT] Teleported vicky to 11980.500000, 100.000000, 1400.500000
+[21:13:58] [Server thread/INFO]: [vicky: Set own game mode to Spectator Mode]
+[21:13:58] [Render thread/INFO]: [System] [CHAT] Set own game mode to Spectator Mode
+[21:15:15] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-08-31_21.15.14.png
+[21:17:08] [Server thread/INFO]: [vicky: Set own game mode to Creative Mode]
+[21:17:08] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[21:17:12] [Render thread/INFO]: Loaded 11 advancements
+[21:19:22] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-08-31_21.19.22.png
+[21:20:19] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[21:22:11] [Server thread/INFO]: vicky lost connection: Disconnected
+[21:22:11] [Server thread/INFO]: vicky left the game
+[21:22:11] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:22:11] [Server thread/INFO]: Stopping server
+[21:22:11] [Server thread/INFO]: Saving players
+[21:22:11] [Server thread/INFO]: Saving worlds
+[21:22:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:overworld
+[21:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:the_end
+[21:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:the_nether
+[21:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (Cherry Grove seed): All chunks are saved
+[21:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:22:20] [Render thread/INFO]: Stopping!
