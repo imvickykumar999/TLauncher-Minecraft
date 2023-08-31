@@ -8,18 +8,28 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-08-31 16:57:55 +0530",
+      "minecraft:taiga": "2023-08-31 20:03:39 +0530",
       "minecraft:cherry_grove": "2023-08-31 19:47:33 +0530",
       "minecraft:birch_forest": "2023-08-31 19:26:03 +0530",
+      "minecraft:badlands": "2023-08-31 20:03:15 +0530",
       "minecraft:beach": "2023-08-31 19:48:11 +0530",
       "minecraft:dark_forest": "2023-08-31 19:26:17 +0530",
       "minecraft:river": "2023-08-31 19:22:39 +0530",
+      "minecraft:stony_shore": "2023-08-31 19:56:06 +0530",
       "minecraft:dripstone_caves": "2023-08-31 16:58:35 +0530",
       "minecraft:grove": "2023-08-31 16:56:57 +0530",
       "minecraft:jagged_peaks": "2023-08-31 16:57:59 +0530",
       "minecraft:forest": "2023-08-31 16:50:33 +0530",
+      "minecraft:lush_caves": "2023-08-31 20:07:28 +0530",
+      "minecraft:desert": "2023-08-31 20:03:44 +0530",
+      "minecraft:windswept_forest": "2023-08-31 20:08:48 +0530",
+      "minecraft:ocean": "2023-08-31 19:56:09 +0530",
+      "minecraft:warm_ocean": "2023-08-31 20:06:30 +0530",
       "minecraft:frozen_peaks": "2023-08-31 16:57:03 +0530",
+      "minecraft:old_growth_birch_forest": "2023-08-31 19:56:04 +0530",
       "minecraft:deep_dark": "2023-08-31 16:58:48 +0530",
       "minecraft:meadow": "2023-08-31 16:51:06 +0530",
+      "minecraft:savanna": "2023-08-31 20:10:08 +0530",
       "minecraft:plains": "2023-08-31 16:57:29 +0530"
     },
     "done": false
@@ -81,6 +91,102 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2023-08-31 19:39:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-08-31 20:14:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2023-08-31 20:14:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2023-08-31 20:05:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2023-08-31 20:05:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-08-31 20:12:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2023-08-31 20:05:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-08-31 20:14:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-08-31 20:14:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-08-31 20:14:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2023-08-31 20:05:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2023-08-31 20:12:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-08-31 20:14:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-08-31 20:14:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-08-31 20:14:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-08-31 20:14:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2023-08-31 20:05:15 +0530"
     },
     "done": true
   },
