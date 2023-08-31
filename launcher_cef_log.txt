@@ -1,0 +1,5 @@
+[0831/153035.052:INFO:main_context.cpp(136)] CEF initialized successfully.
+[0831/153035.053:INFO:main_context.cpp(138)] CEF version: 99.2.14+g3f796b8+chromium-99.0.4844.84
+[0831/153042.469:INFO:CONSOLE(2)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://mojang/launcher/static/js/app.69876942.bundle.js (2)
+[0831/153144.276:INFO:CONSOLE(0)] "Uncaught (in promise) LauncherError: Failure during store query", source: https://mojang/launcher/index.html (0)
+[0831/153235.814:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 

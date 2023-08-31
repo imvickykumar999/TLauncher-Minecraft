@@ -1,0 +1,15 @@
+{
+  "clientToken": "04666ec5-fb55-4680-b92b-d03a4f28fe47",
+  "accounts": {
+    "c48adad9ff484785a2308b4897b05b78": {
+      "username": "imvickykumar999",
+      "userID": "c48adad9ff484785a2308b4897b05b78",
+      "displayName": "imvickykumar999",
+      "uuid": "c48adad9ff484785a2308b4897b05b78",
+      "type": "free",
+      "skinType": "tlauncher",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "c48adad9ff484785a2308b4897b05b78"
+}
