@@ -1,15 +1,15 @@
 {
   "clientToken": "04666ec5-fb55-4680-b92b-d03a4f28fe47",
   "accounts": {
-    "c48adad9ff484785a2308b4897b05b78": {
-      "username": "imvickykumar999",
-      "userID": "c48adad9ff484785a2308b4897b05b78",
-      "displayName": "imvickykumar999",
-      "uuid": "c48adad9ff484785a2308b4897b05b78",
+    "bf479af4248443d594f76aad0e047f40": {
+      "username": "vicky",
+      "userID": "bf479af4248443d594f76aad0e047f40",
+      "displayName": "vicky",
+      "uuid": "bf479af4248443d594f76aad0e047f40",
       "type": "free",
       "skinType": "tlauncher",
-      "premiumAccount": false
+      "premiumAccount": true
     }
   },
-  "selectedAccountUUID": "c48adad9ff484785a2308b4897b05b78"
+  "selectedAccountUUID": "bf479af4248443d594f76aad0e047f40"
 }

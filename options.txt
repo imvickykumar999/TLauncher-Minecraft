@@ -44,7 +44,7 @@ biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","file/redstone.zip"]
 incompatibleResourcePacks:["file/redstone.zip"]
-lastServer:mbs.blossomcraft.org/19132
+lastServer:play.BendersMC.co
 lang:en
 soundDevice:""
 chatVisibility:0
