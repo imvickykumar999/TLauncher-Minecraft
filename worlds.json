@@ -1,0 +1,18 @@
+{
+  "worlds": [
+    {
+      "name": "New World",
+      "source": "C:\\Users\\Vicky\\AppData\\Roaming\\.minecraft\\saves\\New World",
+      "destination": "C:\\Users\\Vicky\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\New World",
+      "lastChanged": "2023-08-31T17:00:50",
+      "backup": false
+    },
+    {
+      "name": "ZW7wZAVgAQA\u003d",
+      "source": "C:\\Users\\Vicky\\AppData\\Roaming\\.minecraft\\saves\\ZW7wZAVgAQA\u003d",
+      "destination": "C:\\Users\\Vicky\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\ZW7wZAVgAQA\u003d",
+      "lastChanged": "2023-08-31T18:57:09",
+      "backup": false
+    }
+  ]
+}

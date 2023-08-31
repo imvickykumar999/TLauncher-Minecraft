@@ -1,0 +1,65 @@
+[{
+  "xml_type": "template_102",
+  "name": "mbridge_reward_layer_floor_v1.xml",
+  "ext_template": [{
+    "xml_type": "template_popup",
+    "name": "mbridge_popup_layout.xml",
+    "layout": {
+      "index": 3,
+      "visibility": 8
+    }
+  }]
+},
+  {
+    "xml_type": "template_202",
+    "name": "mbridge_reward_layer_floor_v1.xml",
+    "ext_template": [{
+      "xml_type": "template_popup",
+      "name": "mbridge_popup_layout.xml",
+      "layout": {
+        "index": 3,
+        "visibility": 8
+      }
+    }]
+  },
+  {
+    "xml_type": "template_302",
+    "name": "mbridge_reward_layer_floor_302_v1.xml",
+    "ext_template": [{
+      "xml_type": "template_popup",
+      "name": "mbridge_popup_layout.xml",
+      "layout": {
+"index": 8,
+        "visibility": 8
+      }
+    }]
+  },
+  {
+    "xml_type": "template_802",
+    "name": "mbridge_reward_layer_floor_802_v1.xml",
+    "ext_template": [{
+      "xml_type": "template_popup",
+      "name": "mbridge_popup_layout.xml",
+      "layout": {
+"index": 3,
+        "visibility": 8
+      }
+    }]
+  },
+  {
+    "xml_type": "template_904",
+    "name": "mbridge_reward_layer_floor_904_v1.xml",
+    "ext_template": [{
+      "xml_type": "template_popup",
+      "name": "mbridge_popup_layout.xml",
+      "layout": {
+        "parent_id": "",
+        "index": 3,
+        "below": "",
+        "to_left_of": "",
+        "to_right_of": "",
+        "visibility": 8
+      }
+    }]
+  }
+]

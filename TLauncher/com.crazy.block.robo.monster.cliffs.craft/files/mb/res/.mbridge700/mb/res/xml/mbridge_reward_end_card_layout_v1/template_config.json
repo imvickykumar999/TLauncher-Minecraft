@@ -1,0 +1,16 @@
+[{
+  "xml_type": "template_cn_2",
+  "name":"mbridge_reward_end_card_layout_landscape_cn_v1.xml"
+  },
+  {
+  "xml_type": "template_cn_1",
+  "name":"mbridge_reward_end_card_layout_portrait_cn_v1.xml"
+  },
+  {
+  "xml_type": "template_en_2",
+  "name":"mbridge_reward_end_card_layout_landscape_v1.xml"
+  },
+  {
+  "xml_type": "template_en_1",
+  "name":"mbridge_reward_end_card_layout_portrait_v1.xml"
+  }]
