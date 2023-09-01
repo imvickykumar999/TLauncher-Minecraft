@@ -6978,4 +6978,1365 @@ java.util.zip.ZipException: Not in GZIP format
 [17:39:09] [Server thread/INFO]: Generating keypair
 [17:39:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
 [17:39:60] [Render thread/INFO]: Preparing spawn area: 0%
-[17:39:63] [Render
+[17:39:63] [Render thread/INFO]: Preparing spawn area: 0%
+[17:39:63] [Render thread/INFO]: Preparing spawn area: 0%
+[17:39:63] [Render thread/INFO]: Preparing spawn area: 0%
+[17:39:63] [Render thread/INFO]: Preparing spawn area: 0%
+[17:39:73] [Render thread/INFO]: Preparing spawn area: 0%
+[17:39:23] [Render thread/INFO]: Preparing spawn area: 0%
+[17:39:97] [Render thread/INFO]: Preparing spawn area: 0%
+[17:40:26] [Render thread/INFO]: Preparing spawn area: 0%
+[17:40:76] [Render thread/INFO]: Preparing spawn area: 0%
+[17:40:26] [Render thread/INFO]: Preparing spawn area: 0%
+[17:40:53] [Render thread/INFO]: Preparing spawn area: 5%
+[17:40:53] [Render thread/INFO]: Preparing spawn area: 5%
+[17:40:53] [Render thread/INFO]: Preparing spawn area: 5%
+[17:40:53] [Render thread/INFO]: Preparing spawn area: 5%
+[17:40:92] [Render thread/INFO]: Preparing spawn area: 9%
+[17:40:29] [Render thread/INFO]: Preparing spawn area: 16%
+[17:40:79] [Render thread/INFO]: Preparing spawn area: 18%
+[17:40:26] [Render thread/INFO]: Preparing spawn area: 21%
+[17:40:76] [Render thread/INFO]: Preparing spawn area: 24%
+[17:40:26] [Render thread/INFO]: Preparing spawn area: 31%
+[17:40:75] [Render thread/INFO]: Preparing spawn area: 32%
+[17:40:25] [Render thread/INFO]: Preparing spawn area: 36%
+[17:40:75] [Render thread/INFO]: Preparing spawn area: 41%
+[17:40:25] [Render thread/INFO]: Preparing spawn area: 43%
+[17:40:75] [Render thread/INFO]: Preparing spawn area: 43%
+[17:40:25] [Render thread/INFO]: Preparing spawn area: 48%
+[17:40:75] [Render thread/INFO]: Preparing spawn area: 54%
+[17:40:24] [Render thread/INFO]: Preparing spawn area: 55%
+[17:40:74] [Render thread/INFO]: Preparing spawn area: 57%
+[17:40:24] [Render thread/INFO]: Preparing spawn area: 65%
+[17:40:74] [Render thread/INFO]: Preparing spawn area: 68%
+[17:40:24] [Render thread/INFO]: Preparing spawn area: 69%
+[17:40:75] [Render thread/INFO]: Preparing spawn area: 75%
+[17:40:24] [Render thread/INFO]: Preparing spawn area: 79%
+[17:40:76] [Render thread/INFO]: Preparing spawn area: 82%
+[17:40:26] [Render thread/INFO]: Preparing spawn area: 83%
+[17:40:76] [Render thread/INFO]: Preparing spawn area: 84%
+[17:40:26] [Render thread/INFO]: Preparing spawn area: 93%
+[17:40:79] [Render thread/INFO]: Preparing spawn area: 98%
+[17:40:26] [Render thread/INFO]: Preparing spawn area: 99%
+[17:40:26] [Render thread/INFO]: Time elapsed: 20033 ms
+[17:40:28] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:40:29] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[17:40:55] [Server thread/INFO]: vicky[local:E:dfccd4eb] logged in with entity id 57583 at (15.566359447572099, 100.11650136792812, 21.530261022165895)
+[17:40:56] [Server thread/INFO]: vicky joined the game
+[17:40:07] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[17:40:19] [Render thread/WARN]: Received passengers for unknown entity
+[17:40:43] [Render thread/INFO]: Loaded 187 advancements
+[17:41:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[17:42:74] [Render thread/INFO]: Loaded 188 advancements
+[17:42:71] [Server thread/INFO]: Saving and pausing game...
+[17:42:75] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[17:42:77] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[17:42:78] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[17:43:92] [Render thread/INFO]: Loaded 192 advancements
+[17:44:77] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[17:44:19] [Server thread/INFO]: Saving and pausing game...
+[17:44:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[17:44:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[17:44:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[17:46:42] [Server thread/INFO]: Saving and pausing game...
+[17:46:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[17:46:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[17:46:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[17:47:41] [Server thread/INFO]: Saving and pausing game...
+[17:47:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[17:47:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[17:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[17:47:30] [Server thread/INFO]: Saving and pausing game...
+[17:47:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[17:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[17:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[17:47:93] [Render thread/INFO]: Using default channel type
+[17:47:93] [Render thread/INFO]: Started serving on 55854
+[17:47:95] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [55854]
+[17:47:49] [Server thread/INFO]: [vicky: Set the time to 6000]
+[17:47:50] [Render thread/INFO]: [System] [CHAT] Set the time to 6000
+[17:47:44] [Server thread/INFO]: [vicky: Set the time to 13000]
+[17:47:46] [Render thread/INFO]: [System] [CHAT] Set the time to 13000
+[17:47:84] [Server thread/INFO]: [vicky: Set the time to 2000]
+[17:47:85] [Render thread/INFO]: [System] [CHAT] Set the time to 2000
+[17:47:56] [Server thread/INFO]: [vicky: Set the time to 20000]
+[17:47:59] [Render thread/INFO]: [System] [CHAT] Set the time to 20000
+[17:48:94] [Server thread/INFO]: [vicky: Set the time to 12000]
+[17:48:96] [Render thread/INFO]: [System] [CHAT] Set the time to 12000
+[17:48:09] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-09-01_17.48.28.png
+[17:48:93] [Server thread/INFO]: vicky lost connection: Disconnected
+[17:48:93] [Server thread/INFO]: vicky left the game
+[17:48:99] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[17:48:03] [Server thread/INFO]: Stopping server
+[17:48:03] [Server thread/INFO]: Saving players
+[17:48:03] [Server thread/INFO]: Saving worlds
+[17:48:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[17:48:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[17:48:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[17:48:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[17:48:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:48:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:48:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:52:61] [Worker-Main-166/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[17:52:64] [Worker-Main-166/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[17:52:56] [Render thread/INFO]: Loaded 7 recipes
+[17:52:61] [Render thread/INFO]: Loaded 1271 advancements
+[17:52:25] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[17:52:25] [Server thread/INFO]: Generating keypair
+[17:52:78] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:52:00] [Render thread/INFO]: Preparing spawn area: 0%
+[17:52:00] [Render thread/INFO]: Preparing spawn area: 0%
+[17:52:03] [Render thread/INFO]: Preparing spawn area: 0%
+[17:52:03] [Render thread/INFO]: Preparing spawn area: 0%
+[17:52:03] [Render thread/INFO]: Preparing spawn area: 0%
+[17:52:33] [Render thread/INFO]: Preparing spawn area: 0%
+[17:52:84] [Render thread/INFO]: Preparing spawn area: 0%
+[17:52:34] [Render thread/INFO]: Preparing spawn area: 0%
+[17:52:81] [Render thread/INFO]: Preparing spawn area: 0%
+[17:52:31] [Render thread/INFO]: Preparing spawn area: 0%
+[17:52:81] [Render thread/INFO]: Preparing spawn area: 1%
+[17:52:31] [Render thread/INFO]: Preparing spawn area: 1%
+[17:52:37] [Render thread/INFO]: Preparing spawn area: 8%
+[17:52:37] [Render thread/INFO]: Preparing spawn area: 8%
+[17:52:37] [Render thread/INFO]: Preparing spawn area: 8%
+[17:52:37] [Render thread/INFO]: Preparing spawn area: 8%
+[17:52:37] [Render thread/INFO]: Preparing spawn area: 8%
+[17:52:37] [Render thread/INFO]: Preparing spawn area: 8%
+[17:52:83] [Render thread/INFO]: Preparing spawn area: 17%
+[17:52:34] [Render thread/INFO]: Preparing spawn area: 21%
+[17:52:83] [Render thread/INFO]: Preparing spawn area: 22%
+[17:52:33] [Render thread/INFO]: Preparing spawn area: 29%
+[17:52:83] [Render thread/INFO]: Preparing spawn area: 29%
+[17:52:31] [Render thread/INFO]: Preparing spawn area: 36%
+[17:52:81] [Render thread/INFO]: Preparing spawn area: 37%
+[17:52:31] [Render thread/INFO]: Preparing spawn area: 43%
+[17:52:90] [Render thread/INFO]: Preparing spawn area: 43%
+[17:52:40] [Render thread/INFO]: Preparing spawn area: 48%
+[17:52:83] [Render thread/INFO]: Preparing spawn area: 48%
+[17:52:33] [Render thread/INFO]: Preparing spawn area: 49%
+[17:52:86] [Render thread/INFO]: Preparing spawn area: 55%
+[17:52:36] [Render thread/INFO]: Preparing spawn area: 57%
+[17:52:82] [Render thread/INFO]: Preparing spawn area: 58%
+[17:52:33] [Render thread/INFO]: Preparing spawn area: 61%
+[17:52:85] [Render thread/INFO]: Preparing spawn area: 68%
+[17:52:32] [Render thread/INFO]: Preparing spawn area: 70%
+[17:52:82] [Render thread/INFO]: Preparing spawn area: 71%
+[17:52:41] [Render thread/INFO]: Preparing spawn area: 82%
+[17:52:81] [Render thread/INFO]: Preparing spawn area: 82%
+[17:52:31] [Render thread/INFO]: Preparing spawn area: 85%
+[17:52:81] [Render thread/INFO]: Preparing spawn area: 86%
+[17:52:34] [Render thread/INFO]: Preparing spawn area: 97%
+[17:52:87] [Render thread/INFO]: Preparing spawn area: 97%
+[17:52:34] [Render thread/INFO]: Preparing spawn area: 99%
+[17:52:37] [Render thread/INFO]: Time elapsed: 21560 ms
+[17:52:39] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:52:39] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[17:52:57] [Server thread/INFO]: vicky[local:E:5694cfcb] logged in with entity id 60501 at (17.69999998807907, 70.0, -5.699999988079071)
+[17:52:58] [Server thread/INFO]: vicky joined the game
+[17:52:00] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[17:52:31] [Render thread/INFO]: Loaded 192 advancements
+[17:53:69] [Server thread/INFO]: Saving and pausing game...
+[17:53:72] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[17:53:89] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[17:53:89] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[17:56:12] [Server thread/INFO]: vicky lost connection: Disconnected
+[17:56:12] [Server thread/INFO]: vicky left the game
+[17:56:17] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[17:56:19] [Server thread/INFO]: Stopping server
+[17:56:19] [Server thread/INFO]: Saving players
+[17:56:19] [Server thread/INFO]: Saving worlds
+[17:56:64] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[17:56:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[17:56:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[17:56:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[17:56:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:56:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:56:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:57:13] [Worker-Main-196/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[17:57:13] [Worker-Main-196/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[17:57:08] [Render thread/INFO]: Loaded 7 recipes
+[17:57:12] [Render thread/INFO]: Loaded 1271 advancements
+[17:57:64] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[17:57:64] [Server thread/INFO]: Generating keypair
+[17:57:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:57:53] [Render thread/INFO]: Preparing spawn area: 0%
+[17:57:53] [Render thread/INFO]: Preparing spawn area: 0%
+[17:57:53] [Render thread/INFO]: Preparing spawn area: 0%
+[17:57:57] [Render thread/INFO]: Preparing spawn area: 0%
+[17:57:57] [Render thread/INFO]: Preparing spawn area: 0%
+[17:57:80] [Render thread/INFO]: Preparing spawn area: 0%
+[17:57:30] [Render thread/INFO]: Preparing spawn area: 0%
+[17:57:79] [Render thread/INFO]: Preparing spawn area: 0%
+[17:57:29] [Render thread/INFO]: Preparing spawn area: 0%
+[17:57:83] [Render thread/INFO]: Preparing spawn area: 1%
+[17:57:06] [Render thread/INFO]: Preparing spawn area: 5%
+[17:57:06] [Render thread/INFO]: Preparing spawn area: 5%
+[17:57:06] [Render thread/INFO]: Preparing spawn area: 5%
+[17:57:06] [Render thread/INFO]: Preparing spawn area: 5%
+[17:57:31] [Render thread/INFO]: Preparing spawn area: 12%
+[17:57:84] [Render thread/INFO]: Preparing spawn area: 18%
+[17:57:31] [Render thread/INFO]: Preparing spawn area: 20%
+[17:57:81] [Render thread/INFO]: Preparing spawn area: 28%
+[17:57:29] [Render thread/INFO]: Preparing spawn area: 29%
+[17:57:79] [Render thread/INFO]: Preparing spawn area: 31%
+[17:57:36] [Render thread/INFO]: Preparing spawn area: 36%
+[17:57:79] [Render thread/INFO]: Preparing spawn area: 40%
+[17:57:30] [Render thread/INFO]: Preparing spawn area: 41%
+[17:57:79] [Render thread/INFO]: Preparing spawn area: 49%
+[17:57:39] [Render thread/INFO]: Preparing spawn area: 52%
+[17:57:79] [Render thread/INFO]: Preparing spawn area: 52%
+[17:57:29] [Render thread/INFO]: Preparing spawn area: 57%
+[17:57:79] [Render thread/INFO]: Preparing spawn area: 60%
+[17:57:33] [Render thread/INFO]: Preparing spawn area: 62%
+[17:57:81] [Render thread/INFO]: Preparing spawn area: 68%
+[17:57:35] [Render thread/INFO]: Preparing spawn area: 72%
+[17:57:88] [Render thread/INFO]: Preparing spawn area: 77%
+[17:57:28] [Render thread/INFO]: Preparing spawn area: 77%
+[17:57:81] [Render thread/INFO]: Preparing spawn area: 78%
+[17:57:33] [Render thread/INFO]: Preparing spawn area: 82%
+[17:57:81] [Render thread/INFO]: Preparing spawn area: 89%
+[17:57:31] [Render thread/INFO]: Preparing spawn area: 89%
+[17:57:82] [Render thread/INFO]: Preparing spawn area: 91%
+[17:57:35] [Render thread/INFO]: Preparing spawn area: 96%
+[17:57:48] [Render thread/INFO]: Time elapsed: 19200 ms
+[17:57:48] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:57:49] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[17:57:77] [Server thread/INFO]: vicky[local:E:18456847] logged in with entity id 61871 at (6.995040285516007, 66.05612872505883, 19.8258386452698)
+[17:57:78] [Server thread/INFO]: vicky joined the game
+[17:57:16] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[17:57:50] [Render thread/INFO]: Loaded 192 advancements
+[17:58:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[17:58:11] [Server thread/INFO]: Saving and pausing game...
+[17:58:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[17:58:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[17:58:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[17:58:42] [Server thread/INFO]: vicky lost connection: Disconnected
+[17:58:42] [Server thread/INFO]: vicky left the game
+[17:58:46] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[17:58:49] [Server thread/INFO]: Stopping server
+[17:58:49] [Server thread/INFO]: Saving players
+[17:58:49] [Server thread/INFO]: Saving worlds
+[17:58:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[17:58:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[17:58:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[17:58:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[17:58:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:58:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:58:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:59:47] [Worker-Main-195/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[17:59:47] [Worker-Main-195/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:01:27] [Render thread/INFO]: Loaded 7 recipes
+[18:01:31] [Render thread/INFO]: Loaded 1271 advancements
+[18:01:91] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[18:01:91] [Server thread/INFO]: Generating keypair
+[18:01:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:01:15] [Render thread/INFO]: Preparing spawn area: 0%
+[18:01:15] [Render thread/INFO]: Preparing spawn area: 0%
+[18:01:15] [Render thread/INFO]: Preparing spawn area: 0%
+[18:01:15] [Render thread/INFO]: Preparing spawn area: 0%
+[18:01:15] [Render thread/INFO]: Preparing spawn area: 0%
+[18:01:18] [Render thread/INFO]: Preparing spawn area: 0%
+[18:01:51] [Render thread/INFO]: Preparing spawn area: 0%
+[18:01:01] [Render thread/INFO]: Preparing spawn area: 0%
+[18:01:49] [Render thread/INFO]: Preparing spawn area: 0%
+[18:01:99] [Render thread/INFO]: Preparing spawn area: 0%
+[18:01:49] [Render thread/INFO]: Preparing spawn area: 0%
+[18:01:23] [Render thread/INFO]: Preparing spawn area: 4%
+[18:01:23] [Render thread/INFO]: Preparing spawn area: 4%
+[18:01:23] [Render thread/INFO]: Preparing spawn area: 4%
+[18:01:23] [Render thread/INFO]: Preparing spawn area: 4%
+[18:01:23] [Render thread/INFO]: Preparing spawn area: 4%
+[18:01:49] [Render thread/INFO]: Preparing spawn area: 9%
+[18:01:99] [Render thread/INFO]: Preparing spawn area: 15%
+[18:01:48] [Render thread/INFO]: Preparing spawn area: 16%
+[18:01:98] [Render thread/INFO]: Preparing spawn area: 22%
+[18:01:48] [Render thread/INFO]: Preparing spawn area: 24%
+[18:01:08] [Render thread/INFO]: Preparing spawn area: 28%
+[18:01:48] [Render thread/INFO]: Preparing spawn area: 32%
+[18:01:99] [Render thread/INFO]: Preparing spawn area: 37%
+[18:02:49] [Render thread/INFO]: Preparing spawn area: 42%
+[18:02:99] [Render thread/INFO]: Preparing spawn area: 42%
+[18:02:48] [Render thread/INFO]: Preparing spawn area: 48%
+[18:02:01] [Render thread/INFO]: Preparing spawn area: 48%
+[18:02:52] [Render thread/INFO]: Preparing spawn area: 54%
+[18:02:01] [Render thread/INFO]: Preparing spawn area: 63%
+[18:02:50] [Render thread/INFO]: Preparing spawn area: 64%
+[18:02:00] [Render thread/INFO]: Preparing spawn area: 67%
+[18:02:79] [Render thread/INFO]: Preparing spawn area: 68%
+[18:02:04] [Render thread/INFO]: Preparing spawn area: 68%
+[18:02:51] [Render thread/INFO]: Preparing spawn area: 73%
+[18:02:01] [Render thread/INFO]: Preparing spawn area: 80%
+[18:02:51] [Render thread/INFO]: Preparing spawn area: 82%
+[18:02:01] [Render thread/INFO]: Preparing spawn area: 83%
+[18:02:51] [Render thread/INFO]: Preparing spawn area: 86%
+[18:02:01] [Render thread/INFO]: Preparing spawn area: 93%
+[18:02:51] [Render thread/INFO]: Preparing spawn area: 98%
+[18:02:01] [Render thread/INFO]: Preparing spawn area: 99%
+[18:02:03] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:02:03] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[18:02:04] [Render thread/INFO]: Time elapsed: 20559 ms
+[18:02:22] [Server thread/INFO]: vicky[local:E:117a65b2] logged in with entity id 63438 at (21.294054039877793, 102.49314158323425, 18.62231907860344)
+[18:02:23] [Server thread/INFO]: vicky joined the game
+[18:02:73] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[18:02:89] [Render thread/INFO]: Loaded 192 advancements
+[18:02:50] [Server thread/INFO]: Saving and pausing game...
+[18:02:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:02:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:02:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[18:03:59] [Server thread/INFO]: Saving and pausing game...
+[18:03:64] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:03:70] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:03:70] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:03:19] [Server thread/INFO]: vicky lost connection: Disconnected
+[18:03:20] [Server thread/INFO]: vicky left the game
+[18:03:24] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:03:26] [Server thread/INFO]: Stopping server
+[18:03:27] [Server thread/INFO]: Saving players
+[18:03:27] [Server thread/INFO]: Saving worlds
+[18:04:91] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:04:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:04:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:04:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[18:04:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:04:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:04:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:05:55] [Worker-Main-166/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:05:55] [Worker-Main-166/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:05:84] [Render thread/INFO]: Loaded 7 recipes
+[18:05:87] [Render thread/INFO]: Loaded 1271 advancements
+[18:05:48] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[18:05:48] [Server thread/INFO]: Generating keypair
+[18:05:75] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:28] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:97] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:26] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:76] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:83] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:83] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:83] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:83] [Render thread/INFO]: Preparing spawn area: 0%
+[18:05:33] [Render thread/INFO]: Preparing spawn area: 1%
+[18:05:78] [Render thread/INFO]: Preparing spawn area: 13%
+[18:05:42] [Render thread/INFO]: Preparing spawn area: 15%
+[18:05:78] [Render thread/INFO]: Preparing spawn area: 16%
+[18:05:28] [Render thread/INFO]: Preparing spawn area: 22%
+[18:05:77] [Render thread/INFO]: Preparing spawn area: 24%
+[18:05:27] [Render thread/INFO]: Preparing spawn area: 31%
+[18:05:77] [Render thread/INFO]: Preparing spawn area: 32%
+[18:05:31] [Render thread/INFO]: Preparing spawn area: 33%
+[18:05:78] [Render thread/INFO]: Preparing spawn area: 41%
+[18:05:28] [Render thread/INFO]: Preparing spawn area: 43%
+[18:05:78] [Render thread/INFO]: Preparing spawn area: 43%
+[18:05:28] [Render thread/INFO]: Preparing spawn area: 46%
+[18:05:82] [Render thread/INFO]: Preparing spawn area: 54%
+[18:05:29] [Render thread/INFO]: Preparing spawn area: 55%
+[18:05:79] [Render thread/INFO]: Preparing spawn area: 56%
+[18:05:28] [Render thread/INFO]: Preparing spawn area: 67%
+[18:05:79] [Render thread/INFO]: Preparing spawn area: 68%
+[18:05:29] [Render thread/INFO]: Preparing spawn area: 68%
+[18:05:78] [Render thread/INFO]: Preparing spawn area: 68%
+[18:05:28] [Render thread/INFO]: Preparing spawn area: 69%
+[18:05:81] [Render thread/INFO]: Preparing spawn area: 82%
+[18:05:27] [Render thread/INFO]: Preparing spawn area: 83%
+[18:05:81] [Render thread/INFO]: Preparing spawn area: 83%
+[18:05:27] [Render thread/INFO]: Preparing spawn area: 85%
+[18:05:77] [Render thread/INFO]: Preparing spawn area: 88%
+[18:05:27] [Render thread/INFO]: Preparing spawn area: 89%
+[18:05:43] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:05:43] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[18:05:44] [Render thread/INFO]: Time elapsed: 19682 ms
+[18:05:68] [Server thread/INFO]: vicky[local:E:b068c051] logged in with entity id 65023 at (11.463788468600526, 104.38816904193169, 15.011782451046608)
+[18:05:68] [Server thread/INFO]: vicky joined the game
+[18:05:10] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[18:05:42] [Render thread/INFO]: Loaded 192 advancements
+[18:06:22] [Server thread/INFO]: Saving and pausing game...
+[18:06:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:06:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:06:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:07:99] [Server thread/INFO]: vicky lost connection: Disconnected
+[18:07:99] [Server thread/INFO]: vicky left the game
+[18:07:05] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:07:08] [Server thread/INFO]: Stopping server
+[18:07:08] [Server thread/INFO]: Saving players
+[18:07:08] [Server thread/INFO]: Saving worlds
+[18:07:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:07:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:07:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:07:61] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[18:07:61] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:07:61] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:07:61] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:09:57] [Worker-Main-215/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:09:57] [Worker-Main-215/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:09:75] [Render thread/INFO]: Loaded 7 recipes
+[18:09:78] [Render thread/INFO]: Loaded 1271 advancements
+[18:09:35] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[18:09:35] [Server thread/INFO]: Generating keypair
+[18:09:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:09:11] [Render thread/INFO]: Preparing spawn area: 0%
+[18:09:11] [Render thread/INFO]: Preparing spawn area: 0%
+[18:09:11] [Render thread/INFO]: Preparing spawn area: 0%
+[18:09:11] [Render thread/INFO]: Preparing spawn area: 0%
+[18:09:11] [Render thread/INFO]: Preparing spawn area: 0%
+[18:09:11] [Render thread/INFO]: Preparing spawn area: 0%
+[18:09:58] [Render thread/INFO]: Preparing spawn area: 0%
+[18:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[18:09:49] [Render thread/INFO]: Preparing spawn area: 0%
+[18:09:99] [Render thread/INFO]: Preparing spawn area: 0%
+[18:09:09] [Render thread/INFO]: Preparing spawn area: 7%
+[18:09:09] [Render thread/INFO]: Preparing spawn area: 7%
+[18:09:52] [Render thread/INFO]: Preparing spawn area: 7%
+[18:09:52] [Render thread/INFO]: Preparing spawn area: 7%
+[18:09:52] [Render thread/INFO]: Preparing spawn area: 7%
+[18:09:00] [Render thread/INFO]: Preparing spawn area: 15%
+[18:09:53] [Render thread/INFO]: Preparing spawn area: 19%
+[18:09:99] [Render thread/INFO]: Preparing spawn area: 22%
+[18:09:49] [Render thread/INFO]: Preparing spawn area: 27%
+[18:09:99] [Render thread/INFO]: Preparing spawn area: 28%
+[18:09:49] [Render thread/INFO]: Preparing spawn area: 29%
+[18:09:99] [Render thread/INFO]: Preparing spawn area: 36%
+[18:09:53] [Render thread/INFO]: Preparing spawn area: 37%
+[18:09:99] [Render thread/INFO]: Preparing spawn area: 43%
+[18:09:49] [Render thread/INFO]: Preparing spawn area: 45%
+[18:09:98] [Render thread/INFO]: Preparing spawn area: 48%
+[18:09:48] [Render thread/INFO]: Preparing spawn area: 53%
+[18:09:98] [Render thread/INFO]: Preparing spawn area: 57%
+[18:09:61] [Render thread/INFO]: Preparing spawn area: 58%
+[18:09:04] [Render thread/INFO]: Preparing spawn area: 58%
+[18:09:54] [Render thread/INFO]: Preparing spawn area: 58%
+[18:09:01] [Render thread/INFO]: Preparing spawn area: 68%
+[18:09:48] [Render thread/INFO]: Preparing spawn area: 71%
+[18:10:05] [Render thread/INFO]: Preparing spawn area: 72%
+[18:10:49] [Render thread/INFO]: Preparing spawn area: 80%
+[18:10:02] [Render thread/INFO]: Preparing spawn area: 81%
+[18:10:49] [Render thread/INFO]: Preparing spawn area: 83%
+[18:10:99] [Render thread/INFO]: Preparing spawn area: 87%
+[18:10:49] [Render thread/INFO]: Preparing spawn area: 88%
+[18:10:99] [Render thread/INFO]: Preparing spawn area: 93%
+[18:10:50] [Render thread/INFO]: Preparing spawn area: 94%
+[18:10:00] [Render thread/INFO]: Preparing spawn area: 99%
+[18:10:00] [Render thread/INFO]: Time elapsed: 20527 ms
+[18:10:02] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:10:02] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[18:10:29] [Server thread/INFO]: vicky[local:E:fff1c8bd] logged in with entity id 66326 at (4.008151619768234, 93.0, 2.1710318677871623)
+[18:10:29] [Server thread/INFO]: vicky joined the game
+[18:10:73] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[18:10:14] [Render thread/INFO]: Loaded 192 advancements
+[18:11:95] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:14:30] [Server thread/INFO]: Saving and pausing game...
+[18:14:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:14:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:14:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:17:74] [Server thread/INFO]: Saving and pausing game...
+[18:17:77] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:17:90] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:17:90] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:18:87] [Server thread/INFO]: vicky lost connection: Disconnected
+[18:18:87] [Server thread/INFO]: vicky left the game
+[18:18:94] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:18:96] [Server thread/INFO]: Stopping server
+[18:18:97] [Server thread/INFO]: Saving players
+[18:18:97] [Server thread/INFO]: Saving worlds
+[18:18:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:18:82] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:18:82] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:18:84] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[18:18:84] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:18:84] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:18:84] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:18:94] [Worker-Main-188/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:18:95] [Worker-Main-188/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:18:49] [Render thread/INFO]: Loaded 7 recipes
+[18:18:52] [Render thread/INFO]: Loaded 1271 advancements
+[18:18:40] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[18:18:40] [Server thread/INFO]: Generating keypair
+[18:18:93] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:18:67] [Render thread/INFO]: Preparing spawn area: 0%
+[18:18:67] [Render thread/INFO]: Preparing spawn area: 0%
+[18:18:67] [Render thread/INFO]: Preparing spawn area: 0%
+[18:18:67] [Render thread/INFO]: Preparing spawn area: 0%
+[18:18:94] [Render thread/INFO]: Preparing spawn area: 0%
+[18:18:45] [Render thread/INFO]: Preparing spawn area: 0%
+[18:18:95] [Render thread/INFO]: Preparing spawn area: 0%
+[18:18:57] [Render thread/INFO]: Preparing spawn area: 5%
+[18:18:57] [Render thread/INFO]: Preparing spawn area: 5%
+[18:18:57] [Render thread/INFO]: Preparing spawn area: 5%
+[18:18:94] [Render thread/INFO]: Preparing spawn area: 13%
+[18:18:45] [Render thread/INFO]: Preparing spawn area: 19%
+[18:18:94] [Render thread/INFO]: Preparing spawn area: 28%
+[18:18:51] [Render thread/INFO]: Preparing spawn area: 34%
+[18:18:98] [Render thread/INFO]: Preparing spawn area: 40%
+[18:18:47] [Render thread/INFO]: Preparing spawn area: 41%
+[18:18:94] [Render thread/INFO]: Preparing spawn area: 42%
+[18:18:46] [Render thread/INFO]: Preparing spawn area: 51%
+[18:18:95] [Render thread/INFO]: Preparing spawn area: 55%
+[18:18:45] [Render thread/INFO]: Preparing spawn area: 63%
+[18:18:94] [Render thread/INFO]: Preparing spawn area: 64%
+[18:18:44] [Render thread/INFO]: Preparing spawn area: 75%
+[18:18:95] [Render thread/INFO]: Preparing spawn area: 77%
+[18:18:45] [Render thread/INFO]: Preparing spawn area: 79%
+[18:18:94] [Render thread/INFO]: Preparing spawn area: 90%
+[18:18:48] [Render thread/INFO]: Preparing spawn area: 93%
+[18:18:95] [Render thread/INFO]: Preparing spawn area: 98%
+[18:18:12] [Render thread/INFO]: Time elapsed: 13182 ms
+[18:18:12] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:18:12] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[18:18:28] [Server thread/INFO]: vicky[local:E:23ec19a7] logged in with entity id 69919 at (-10.056467015663637, 104.24957633346627, 13.978516562555171)
+[18:18:29] [Server thread/INFO]: vicky joined the game
+[18:18:52] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[18:18:58] [Render thread/WARN]: Received passengers for unknown entity
+[18:18:77] [Render thread/INFO]: Loaded 192 advancements
+[18:19:11] [Server thread/INFO]: Saving and pausing game...
+[18:19:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:19:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:19:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:21:51] [Server thread/INFO]: vicky lost connection: Disconnected
+[18:21:51] [Server thread/INFO]: vicky left the game
+[18:21:56] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:21:59] [Server thread/INFO]: Stopping server
+[18:21:59] [Server thread/INFO]: Saving players
+[18:21:59] [Server thread/INFO]: Saving worlds
+[18:21:88] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:21:71] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:21:71] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:21:74] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[18:21:74] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:21:74] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:21:74] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:21:85] [Worker-Main-188/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:21:85] [Worker-Main-188/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:21:50] [Render thread/INFO]: Loaded 7 recipes
+[18:21:51] [Render thread/INFO]: Loaded 1271 advancements
+[18:21:10] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[18:21:10] [Server thread/INFO]: Generating keypair
+[18:21:74] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:22:92] [Render thread/INFO]: Preparing spawn area: 0%
+[18:22:94] [Render thread/INFO]: Preparing spawn area: 0%
+[18:22:94] [Render thread/INFO]: Preparing spawn area: 0%
+[18:22:94] [Render thread/INFO]: Preparing spawn area: 0%
+[18:22:96] [Render thread/INFO]: Preparing spawn area: 0%
+[18:22:26] [Render thread/INFO]: Preparing spawn area: 0%
+[18:22:78] [Render thread/INFO]: Preparing spawn area: 0%
+[18:22:22] [Render thread/INFO]: Preparing spawn area: 0%
+[18:22:22] [Render thread/INFO]: Preparing spawn area: 0%
+[18:22:26] [Render thread/INFO]: Preparing spawn area: 0%
+[18:22:82] [Render thread/INFO]: Preparing spawn area: 13%
+[18:22:27] [Render thread/INFO]: Preparing spawn area: 17%
+[18:22:80] [Render thread/INFO]: Preparing spawn area: 26%
+[18:22:33] [Render thread/INFO]: Preparing spawn area: 31%
+[18:22:77] [Render thread/INFO]: Preparing spawn area: 34%
+[18:22:28] [Render thread/INFO]: Preparing spawn area: 46%
+[18:22:78] [Render thread/INFO]: Preparing spawn area: 48%
+[18:22:28] [Render thread/INFO]: Preparing spawn area: 58%
+[18:22:76] [Render thread/INFO]: Preparing spawn area: 62%
+[18:22:27] [Render thread/INFO]: Preparing spawn area: 69%
+[18:22:78] [Render thread/INFO]: Preparing spawn area: 71%
+[18:22:30] [Render thread/INFO]: Preparing spawn area: 73%
+[18:22:76] [Render thread/INFO]: Preparing spawn area: 85%
+[18:22:28] [Render thread/INFO]: Preparing spawn area: 90%
+[18:22:78] [Render thread/INFO]: Preparing spawn area: 90%
+[18:22:32] [Render thread/INFO]: Preparing spawn area: 98%
+[18:22:71] [Render thread/INFO]: Time elapsed: 12952 ms
+[18:22:72] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:22:72] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[18:22:87] [Server thread/INFO]: vicky[local:E:4bee26e9] logged in with entity id 71243 at (1.300000011920929, -62.0, 1.300000011920929)
+[18:22:87] [Server thread/INFO]: vicky joined the game
+[18:22:12] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[18:22:27] [Render thread/INFO]: Loaded 192 advancements
+[18:23:62] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18:24:88] [Render thread/INFO]: Loaded 192 advancements
+[18:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18:24:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2387ms or 47 ticks behind
+[18:26:67] [Render thread/INFO]: Loaded 192 advancements
+[18:27:48] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-09-01_18.27.28.png
+[18:33:32] [Render thread/INFO]: Loaded 192 advancements
+[18:35:94] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-09-01_18.35.19.png
+[18:36:92] [Render thread/INFO]: Loaded 199 advancements
+[18:40:86] [Server thread/INFO]: Saving and pausing game...
+[18:40:89] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:40:92] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:40:92] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[ALSOFT] (EE) Failed to get padding: 0x88890004
+[18:41:99] [Render thread/INFO]: Audio device was lost!
+[18:41:99] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[18:41:99] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[18:41:94] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[18:41:94] [Render thread/INFO]: Sound engine started
+[18:41:97] [IO-Worker-255/INFO]: System default audio device has changed!
+[18:41:98] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[18:41:98] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[18:41:57] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[18:41:57] [Render thread/INFO]: Sound engine started
+[18:41:35] [IO-Worker-255/INFO]: System default audio device has changed!
+[18:41:38] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[18:41:38] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[18:41:47] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Airdopes 141)
+[18:41:47] [Render thread/INFO]: Sound engine started
+[18:41:63] [Render thread/INFO]: Loaded 199 advancements
+[18:48:56] [Server thread/INFO]: Saving and pausing game...
+[18:48:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:48:60] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:48:60] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:48:73] [Server thread/INFO]: vicky lost connection: Disconnected
+[18:48:73] [Server thread/INFO]: vicky left the game
+[18:48:75] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:48:76] [Server thread/INFO]: Stopping server
+[18:48:76] [Server thread/INFO]: Saving players
+[18:48:76] [Server thread/INFO]: Saving worlds
+[18:48:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:48:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:48:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:48:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[18:48:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:48:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:48:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:49:69] [Worker-Main-219/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:49:69] [Worker-Main-219/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:49:05] [Render thread/INFO]: Loaded 7 recipes
+[18:49:07] [Render thread/INFO]: Loaded 1271 advancements
+[18:49:75] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[18:49:75] [Server thread/INFO]: Generating keypair
+[18:49:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:49:98] [Render thread/INFO]: Preparing spawn area: 0%
+[18:49:98] [Render thread/INFO]: Preparing spawn area: 0%
+[18:49:06] [Render thread/INFO]: Preparing spawn area: 0%
+[18:49:06] [Render thread/INFO]: Preparing spawn area: 0%
+[18:49:28] [Render thread/INFO]: Preparing spawn area: 0%
+[18:49:89] [Render thread/INFO]: Preparing spawn area: 0%
+[18:49:27] [Render thread/INFO]: Preparing spawn area: 4%
+[18:49:21] [Render thread/INFO]: Preparing spawn area: 8%
+[18:49:29] [Render thread/INFO]: Preparing spawn area: 13%
+[18:49:77] [Render thread/INFO]: Preparing spawn area: 21%
+[18:49:28] [Render thread/INFO]: Preparing spawn area: 29%
+[18:49:78] [Render thread/INFO]: Preparing spawn area: 41%
+[18:49:29] [Render thread/INFO]: Preparing spawn area: 42%
+[18:49:78] [Render thread/INFO]: Preparing spawn area: 51%
+[18:49:28] [Render thread/INFO]: Preparing spawn area: 54%
+[18:49:78] [Render thread/INFO]: Preparing spawn area: 69%
+[18:49:29] [Render thread/INFO]: Preparing spawn area: 74%
+[18:49:79] [Render thread/INFO]: Preparing spawn area: 83%
+[18:49:28] [Render thread/INFO]: Preparing spawn area: 89%
+[18:49:79] [Render thread/INFO]: Preparing spawn area: 91%
+[18:49:27] [Render thread/INFO]: Preparing spawn area: 99%
+[18:49:27] [Render thread/INFO]: Time elapsed: 10003 ms
+[18:49:28] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:49:28] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[18:49:42] [Server thread/INFO]: vicky[local:E:74d993a4] logged in with entity id 82714 at (14.55384851333605, 58.0, 12.380145596403022)
+[18:49:42] [Server thread/INFO]: vicky joined the game
+[18:49:60] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[18:49:72] [Render thread/INFO]: Loaded 199 advancements
+[ALSOFT] (EE) Failed to get padding: 0x88890004
+[18:52:21] [Render thread/INFO]: Audio device was lost!
+[18:52:21] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[18:52:21] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[18:52:66] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[18:52:66] [Render thread/INFO]: Sound engine started
+[18:52:78] [IO-Worker-264/INFO]: System default audio device has changed!
+[18:52:84] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[18:52:84] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[18:52:19] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[18:52:19] [Render thread/INFO]: Sound engine started
+[18:52:47] [Server thread/INFO]: Saving and pausing game...
+[18:52:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:52:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:52:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:52:01] [Render thread/INFO]: Using default channel type
+[18:52:01] [Render thread/INFO]: Started serving on 56239
+[18:52:02] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [56239]
+[18:52:09] [Server thread/INFO]: [vicky: Set the time to 1000]
+[18:52:09] [Render thread/INFO]: [System] [CHAT] Set the time to 1000
+[18:54:59] [Server thread/INFO]: [vicky: Set the weather to clear]
+[18:54:59] [Render thread/INFO]: [System] [CHAT] Set the weather to clear
+[18:56:75] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-09-01_18.56.28.png
+[18:58:58] [Server thread/INFO]: vicky lost connection: Disconnected
+[18:58:58] [Server thread/INFO]: vicky left the game
+[18:58:61] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:58:62] [Server thread/INFO]: Stopping server
+[18:58:62] [Server thread/INFO]: Saving players
+[18:58:62] [Server thread/INFO]: Saving worlds
+[18:58:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[18:58:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[18:58:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[18:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[18:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:59:99] [Worker-Main-251/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:59:99] [Worker-Main-251/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[18:59:61] [Render thread/INFO]: Loaded 7 recipes
+[18:59:62] [Render thread/INFO]: Loaded 1271 advancements
+[18:59:18] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[18:59:18] [Server thread/INFO]: Generating keypair
+[18:59:69] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:59:09] [Render thread/INFO]: Preparing spawn area: 0%
+[18:59:09] [Render thread/INFO]: Preparing spawn area: 0%
+[18:59:09] [Render thread/INFO]: Preparing spawn area: 0%
+[18:59:24] [Render thread/INFO]: Preparing spawn area: 0%
+[18:59:70] [Render thread/INFO]: Preparing spawn area: 0%
+[18:59:20] [Render thread/INFO]: Preparing spawn area: 2%
+[18:59:35] [Render thread/INFO]: Preparing spawn area: 11%
+[18:59:35] [Render thread/INFO]: Preparing spawn area: 11%
+[18:59:74] [Render thread/INFO]: Preparing spawn area: 22%
+[18:59:23] [Render thread/INFO]: Preparing spawn area: 32%
+[18:59:71] [Render thread/INFO]: Preparing spawn area: 38%
+[18:59:20] [Render thread/INFO]: Preparing spawn area: 48%
+[18:59:71] [Render thread/INFO]: Preparing spawn area: 54%
+[18:59:20] [Render thread/INFO]: Preparing spawn area: 59%
+[18:59:69] [Render thread/INFO]: Preparing spawn area: 70%
+[18:59:20] [Render thread/INFO]: Preparing spawn area: 72%
+[18:59:71] [Render thread/INFO]: Preparing spawn area: 86%
+[18:59:20] [Render thread/INFO]: Preparing spawn area: 94%
+[18:59:61] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:59:61] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[18:59:62] [Render thread/INFO]: Time elapsed: 8926 ms
+[18:59:74] [Server thread/INFO]: vicky[local:E:7bcac03f] logged in with entity id 87416 at (1.347591816732224, -67.06538232873469, 3.158812714828893)
+[18:59:74] [Server thread/INFO]: vicky joined the game
+[18:59:96] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[18:59:11] [Render thread/INFO]: Loaded 199 advancements
+[19:01:00] [Server thread/INFO]: Saving and pausing game...
+[19:01:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[19:01:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[19:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[19:01:50] [Server thread/INFO]: vicky lost connection: Disconnected
+[19:01:50] [Server thread/INFO]: vicky left the game
+[19:01:52] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[19:01:53] [Server thread/INFO]: Stopping server
+[19:01:53] [Server thread/INFO]: Saving players
+[19:01:53] [Server thread/INFO]: Saving worlds
+[19:01:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[19:01:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[19:01:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[19:01:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[19:01:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:01:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:01:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:03:82] [Worker-Main-247/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[19:03:83] [Worker-Main-247/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[19:03:93] [Render thread/INFO]: Loaded 7 recipes
+[19:03:94] [Render thread/INFO]: Loaded 1271 advancements
+[19:03:50] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[19:03:50] [Server thread/INFO]: Generating keypair
+[19:03:97] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:03:96] [Render thread/INFO]: Preparing spawn area: 0%
+[19:03:96] [Render thread/INFO]: Preparing spawn area: 0%
+[19:03:00] [Render thread/INFO]: Preparing spawn area: 0%
+[19:03:50] [Render thread/INFO]: Preparing spawn area: 0%
+[19:03:00] [Render thread/INFO]: Preparing spawn area: 0%
+[19:03:49] [Render thread/INFO]: Preparing spawn area: 0%
+[19:03:60] [Render thread/INFO]: Preparing spawn area: 5%
+[19:03:60] [Render thread/INFO]: Preparing spawn area: 5%
+[19:03:00] [Render thread/INFO]: Preparing spawn area: 17%
+[19:03:56] [Render thread/INFO]: Preparing spawn area: 26%
+[19:03:99] [Render thread/INFO]: Preparing spawn area: 35%
+[19:03:50] [Render thread/INFO]: Preparing spawn area: 37%
+[19:03:99] [Render thread/INFO]: Preparing spawn area: 46%
+[19:03:50] [Render thread/INFO]: Preparing spawn area: 58%
+[19:03:99] [Render thread/INFO]: Preparing spawn area: 65%
+[19:03:49] [Render thread/INFO]: Preparing spawn area: 79%
+[19:03:01] [Render thread/INFO]: Preparing spawn area: 82%
+[19:03:49] [Render thread/INFO]: Preparing spawn area: 95%
+[19:03:00] [Render thread/INFO]: Preparing spawn area: 97%
+[19:03:21] [Render thread/INFO]: Time elapsed: 9223 ms
+[19:03:21] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:03:21] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[19:03:35] [Server thread/INFO]: vicky[local:E:2e74f18f] logged in with entity id 89284 at (7.767903294966096, 68.0, 6.265964560437306)
+[19:03:35] [Server thread/INFO]: vicky joined the game
+[19:03:51] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[19:03:68] [Render thread/INFO]: Loaded 199 advancements
+[19:05:15] [Server thread/INFO]: Saving and pausing game...
+[19:05:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[19:05:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[19:05:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[19:05:27] [Server thread/INFO]: vicky lost connection: Disconnected
+[19:05:27] [Server thread/INFO]: vicky left the game
+[19:05:32] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[19:05:34] [Server thread/INFO]: Stopping server
+[19:05:34] [Server thread/INFO]: Saving players
+[19:05:34] [Server thread/INFO]: Saving worlds
+[19:05:96] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[19:05:90] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[19:05:90] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[19:05:92] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[19:05:92] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:05:92] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:05:92] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:06:52] [Worker-Main-247/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[19:06:53] [Worker-Main-247/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[19:06:78] [Render thread/INFO]: Loaded 7 recipes
+[19:06:79] [Render thread/INFO]: Loaded 1271 advancements
+[19:06:44] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[19:06:44] [Server thread/INFO]: Generating keypair
+[19:06:92] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:06:57] [Render thread/INFO]: Preparing spawn area: 0%
+[19:06:59] [Render thread/INFO]: Preparing spawn area: 0%
+[19:06:59] [Render thread/INFO]: Preparing spawn area: 0%
+[19:06:59] [Render thread/INFO]: Preparing spawn area: 0%
+[19:06:94] [Render thread/INFO]: Preparing spawn area: 0%
+[19:06:44] [Render thread/INFO]: Preparing spawn area: 0%
+[19:06:33] [Render thread/INFO]: Preparing spawn area: 7%
+[19:06:44] [Render thread/INFO]: Preparing spawn area: 9%
+[19:06:93] [Render thread/INFO]: Preparing spawn area: 20%
+[19:06:44] [Render thread/INFO]: Preparing spawn area: 29%
+[19:06:93] [Render thread/INFO]: Preparing spawn area: 39%
+[19:06:49] [Render thread/INFO]: Preparing spawn area: 50%
+[19:06:93] [Render thread/INFO]: Preparing spawn area: 52%
+[19:06:42] [Render thread/INFO]: Preparing spawn area: 60%
+[19:06:94] [Render thread/INFO]: Preparing spawn area: 62%
+[19:06:43] [Render thread/INFO]: Preparing spawn area: 71%
+[19:06:94] [Render thread/INFO]: Preparing spawn area: 82%
+[19:06:44] [Render thread/INFO]: Preparing spawn area: 88%
+[19:06:93] [Render thread/INFO]: Preparing spawn area: 90%
+[19:06:31] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:06:31] [Render thread/INFO]: Time elapsed: 9388 ms
+[19:06:31] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[19:06:47] [Server thread/INFO]: vicky[local:E:40b0a415] logged in with entity id 90688 at (7.3811336689116445, -17.0, 11.670352812955516)
+[19:06:47] [Server thread/INFO]: vicky joined the game
+[19:06:64] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[19:06:83] [Render thread/INFO]: Loaded 199 advancements
+[19:08:68] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[19:14:70] [Server thread/INFO]: Saving and pausing game...
+[19:14:72] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[19:14:74] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[19:14:74] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[19:14:82] [Server thread/INFO]: vicky lost connection: Disconnected
+[19:14:82] [Server thread/INFO]: vicky left the game
+[19:14:84] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[19:14:86] [Server thread/INFO]: Stopping server
+[19:14:86] [Server thread/INFO]: Saving players
+[19:14:86] [Server thread/INFO]: Saving worlds
+[19:14:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[19:14:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[19:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[19:14:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[19:14:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:14:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:14:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:15:23] [Worker-Main-253/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[19:15:23] [Worker-Main-253/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[19:15:39] [Render thread/INFO]: Loaded 7 recipes
+[19:15:41] [Render thread/INFO]: Loaded 1271 advancements
+[19:15:38] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[19:15:38] [Server thread/INFO]: Generating keypair
+[19:15:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:15:94] [Render thread/INFO]: Preparing spawn area: 0%
+[19:15:94] [Render thread/INFO]: Preparing spawn area: 0%
+[19:15:94] [Render thread/INFO]: Preparing spawn area: 0%
+[19:15:94] [Render thread/INFO]: Preparing spawn area: 0%
+[19:16:09] [Render thread/INFO]: Preparing spawn area: 0%
+[19:16:67] [Render thread/INFO]: Preparing spawn area: 0%
+[19:16:10] [Render thread/INFO]: Preparing spawn area: 0%
+[19:16:09] [Render thread/INFO]: Preparing spawn area: 5%
+[19:16:09] [Render thread/INFO]: Preparing spawn area: 5%
+[19:16:60] [Render thread/INFO]: Preparing spawn area: 16%
+[19:16:14] [Render thread/INFO]: Preparing spawn area: 30%
+[19:16:60] [Render thread/INFO]: Preparing spawn area: 39%
+[19:16:09] [Render thread/INFO]: Preparing spawn area: 54%
+[19:16:59] [Render thread/INFO]: Preparing spawn area: 65%
+[19:16:08] [Render thread/INFO]: Preparing spawn area: 74%
+[19:16:60] [Render thread/INFO]: Preparing spawn area: 80%
+[19:16:09] [Render thread/INFO]: Preparing spawn area: 91%
+[19:16:60] [Render thread/INFO]: Preparing spawn area: 95%
+[19:16:90] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:16:90] [Render thread/INFO]: Time elapsed: 8815 ms
+[19:16:90] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[19:16:03] [Server thread/INFO]: vicky[local:E:51e1c4d4] logged in with entity id 95337 at (7.277679788573505, -57.0, 4.638042743608511)
+[19:16:03] [Server thread/INFO]: vicky joined the game
+[19:16:20] [Render thread/WARN]: Ignoring chat session from vicky due to missing Services public key
+[19:16:43] [Render thread/INFO]: Loaded 199 advancements
+[19:21:44] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-09-01_19.21.56.png
+[19:21:24] [Server thread/INFO]: Saving and pausing game...
+[19:21:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[19:21:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[19:21:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[19:22:42] [Server thread/INFO]: vicky lost connection: Disconnected
+[19:22:42] [Server thread/INFO]: vicky left the game
+[19:22:45] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[19:22:46] [Server thread/INFO]: Stopping server
+[19:22:46] [Server thread/INFO]: Saving players
+[19:22:47] [Server thread/INFO]: Saving worlds
+[19:22:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:overworld
+[19:22:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_nether
+[19:22:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Unique Seed]'/minecraft:the_end
+[19:22:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[19:22:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:22:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:22:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:22:96] [Render thread/INFO]: Stopping!
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (87 ms)
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[Launcher] Launcher exited.
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[Launcher] Minecraft closed with exit code: 0
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 1060 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 1065 ms.
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+flush now
