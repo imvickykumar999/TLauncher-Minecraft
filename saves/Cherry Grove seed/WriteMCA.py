@@ -1,14 +1,14 @@
 
 import anvil
+import math
 
 region = anvil.EmptyRegion(0, 0)
 chunk = 1
 
-side = 16*chunk -1
 tall = 120
+radius = 16*chunk -1
 
 def printPattern(radius=4, y=0):
-	import math
 	xyz = []
 
 	for x in range((2 * radius)+1):
@@ -18,36 +18,30 @@ def printPattern(radius=4, y=0):
 				(z - radius) * (z - radius))
 
 			if (dist > radius - 0.5 and dist < radius + 0.5):
-				print("*",end=" ")
+				# print("*",end=" ")
 				xyz.append((x-radius, y ,z-radius))
 			else:
-				print(" ",end=" ")	
+				# print(" ",end=" ")	
+				pass
 	
-		print()
+		# print()
 	return xyz
 
-# radius = 10
-# xyz = printPattern(radius)
-# print(xyz)
+# wall = anvil.Block('minecraft', 'gold_block')
+wall = anvil.Block('minecraft', 'glowstone')
 
+floor = anvil.Block('minecraft', 'diamond_block')
+# floor = anvil.Block('minecraft', 'blue_stained_glass')
 
-wall = anvil.Block('minecraft', 'blue_stained_glass')
-# wall = anvil.Block('minecraft', 'diamond_block')
-
-floor = anvil.Block('minecraft', 'glowstone')
-# floor = anvil.Block('minecraft', 'gold_block')
-
-for x in range(side): # walls
-    for y in range(-63, tall-1):
-        for z in range(side):
-            if(x == 0 or x == side - 1 or z == 0 or z == side - 1):
-                region.set_block(wall, x, y, z)
-
-for x in range(side): # floor
+for x in range(2*radius): # floor
     for y in range(-63, tall, 5):
-        for z in range(side):
+        for z in range(2*radius):
             if y == -63 or not (x == 1 and z == 1):
                 region.set_block(floor, x, y, z)
                 
+for i in range(-63, tall-1): # wall
+	for x,y,z in printPattern(radius, i):
+		region.set_block(wall, x+radius, y, z+radius)
+
 region.save('region/r.0.0.mca')
 print('\nBuild Complete.')

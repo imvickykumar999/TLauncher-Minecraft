@@ -265,4 +265,74 @@ java.util.zip.ZipException: Not in GZIP format
 [08:23:85] [Render thread/INFO]: Preparing spawn area: 0%
 [08:23:85] [Render thread/INFO]: Preparing spawn area: 0%
 [08:23:92] [Render thread/INFO]: Preparing spawn area: 0%
-[08:23:42] [R
+[08:23:42] [Render thread/INFO]: Preparing spawn area: 0%
+[08:23:99] [Render thread/INFO]: Preparing spawn area: 3%
+[08:23:88] [Render thread/INFO]: Preparing spawn area: 4%
+[08:23:03] [Render thread/INFO]: Preparing spawn area: 5%
+[08:23:41] [Render thread/INFO]: Preparing spawn area: 10%
+[08:23:05] [Render thread/INFO]: Preparing spawn area: 10%
+[08:23:42] [Render thread/INFO]: Preparing spawn area: 10%
+[08:23:93] [Render thread/INFO]: Preparing spawn area: 16%
+[08:23:43] [Render thread/INFO]: Preparing spawn area: 22%
+[08:23:91] [Render thread/INFO]: Preparing spawn area: 24%
+[08:23:45] [Render thread/INFO]: Preparing spawn area: 25%
+[08:23:92] [Render thread/INFO]: Preparing spawn area: 29%
+[08:24:43] [Render thread/INFO]: Preparing spawn area: 34%
+[08:24:92] [Render thread/INFO]: Preparing spawn area: 44%
+[08:24:42] [Render thread/INFO]: Preparing spawn area: 45%
+[08:24:91] [Render thread/INFO]: Preparing spawn area: 52%
+[08:24:44] [Render thread/INFO]: Preparing spawn area: 62%
+[08:24:93] [Render thread/INFO]: Preparing spawn area: 62%
+[08:24:41] [Render thread/INFO]: Preparing spawn area: 70%
+[08:24:97] [Render thread/INFO]: Preparing spawn area: 82%
+[08:24:44] [Render thread/INFO]: Preparing spawn area: 83%
+[08:24:92] [Render thread/INFO]: Preparing spawn area: 85%
+[08:24:41] [Render thread/INFO]: Preparing spawn area: 98%
+[08:24:67] [Render thread/INFO]: Time elapsed: 17763 ms
+[08:24:86] [Server thread/INFO]: Changing view distance to 12, from 10
+[08:24:86] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[08:24:76] [Server thread/INFO]: vicky[local:E:8ecc8bac] logged in with entity id 137 at (12318.629961433626, 122.50004270468581, 981.7023825155629)
+[08:24:95] [Server thread/INFO]: vicky joined the game
+[08:24:32] [Render thread/INFO]: Loaded 11 advancements
+[08:24:86] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 6.166666666666667
+[08:24:56] [Render thread/INFO]: can use texture size:TEXTURE_272, middle time: 7.6
+[08:24:84] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3276ms or 65 ticks behind
+[08:24:84] [Server thread/INFO]: Saving and pausing game...
+[08:24:87] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:overworld
+[08:24:92] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:the_end
+[08:24:92] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:the_nether
+[08:24:96] [Render thread/INFO]: Using default channel type
+[08:24:99] [Render thread/INFO]: Started serving on 50869
+[08:24:04] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [50869]
+[08:24:04] [Server thread/INFO]: [vicky: Teleported vicky to 0.500000, 0.000000, 0.500000]
+[08:24:09] [Render thread/INFO]: [System] [CHAT] Teleported vicky to 0.500000, 0.000000, 0.500000
+[08:24:07] [Server thread/INFO]: [vicky: Set own game mode to Spectator Mode]
+[08:24:09] [Render thread/INFO]: [System] [CHAT] Set own game mode to Spectator Mode
+[08:25:31] [Server thread/INFO]: [vicky: Set own game mode to Creative Mode]
+[08:25:31] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[08:25:20] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[08:26:08] [Server thread/INFO]: vicky lost connection: Disconnected
+[08:26:08] [Server thread/INFO]: vicky left the game
+[08:26:11] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[08:26:12] [Server thread/INFO]: Stopping server
+[08:26:12] [Server thread/INFO]: Saving players
+[08:26:12] [Server thread/INFO]: Saving worlds
+[08:26:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:overworld
+[08:26:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:the_end
+[08:26:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Cherry Grove seed]'/minecraft:the_nether
+[08:26:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (Cherry Grove seed): All chunks are saved
+[08:26:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:26:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:26:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:26:11] [Render thread/INFO]: Stopping!
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (25 ms)
+[Launcher] Minecraft closed with exit code: 0
+[Launcher] Launcher exited.
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+flush now
