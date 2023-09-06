@@ -44,7 +44,7 @@ biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","file/redstone.zip"]
 incompatibleResourcePacks:["file/redstone.zip"]
-lastServer:top.twerion.net
+lastServer:bwhub.net
 lang:en
 soundDevice:""
 chatVisibility:0
