@@ -44,7 +44,7 @@ biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","file/redstone.zip"]
 incompatibleResourcePacks:["file/redstone.zip"]
-lastServer:bwhub.net
+lastServer:127.0.0.1
 lang:en
 soundDevice:""
 chatVisibility:0
