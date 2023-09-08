@@ -10,6 +10,7 @@
       "minecraft:savanna_plateau": "2023-09-06 20:06:33 +0530",
       "minecraft:stony_peaks": "2023-09-06 20:05:37 +0530",
       "minecraft:lukewarm_ocean": "2023-09-06 20:06:09 +0530",
+      "minecraft:deep_lukewarm_ocean": "2023-09-08 12:12:33 +0530",
       "minecraft:deep_dark": "2023-09-06 20:31:02 +0530",
       "minecraft:savanna": "2023-09-06 20:06:26 +0530",
       "minecraft:plains": "2023-09-06 20:12:44 +0530"
@@ -142,15 +143,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "has_ink_sac": "2023-09-06 20:43:45 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2023-09-06 20:43:11 +0530"
+      "consumed_item": "2023-09-06 20:29:01 +0530"
     },
     "done": true
   },
@@ -160,9 +155,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "slept_in_bed": "2023-09-06 21:01:54 +0530"
+      "has_iron_block": "2023-09-06 20:43:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-09-06 20:43:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2023-09-06 20:43:45 +0530"
     },
     "done": true
   },
@@ -172,15 +179,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "consumed_item": "2023-09-06 20:29:01 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2023-09-06 20:43:11 +0530"
+      "slept_in_bed": "2023-09-06 21:01:54 +0530"
     },
     "done": true
   },
