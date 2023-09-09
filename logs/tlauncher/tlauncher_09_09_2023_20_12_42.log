@@ -390,4 +390,768 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 	at cmm.a(SourceFile:480)
 	at aif.a(SourceFile:385)
 	at dfy.a(SourceFile:54)
-	at a
+	at aif.a(SourceFile:353)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:897)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:824)
+	at fyp.a(SourceFile:105)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:671)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:265)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[20:18:94] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5757ms or 115 ticks behind
+[20:19:06] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[20:19:40] [Render thread/INFO]: Loaded 11 advancements
+[20:20:58] [Server thread/INFO]: Saving and pausing game...
+[20:20:61] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[20:20:65] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[20:20:66] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[20:20:74] [Server thread/INFO]: [Vicky: Teleported Vicky to 93.500000, 100.000000, 2655.500000]
+[20:20:77] [Render thread/INFO]: [System] [CHAT] Teleported Vicky to 93.500000, 100.000000, 2655.500000
+[20:20:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6682ms or 133 ticks behind
+[20:21:36] [Server thread/INFO]: [Vicky: Set own game mode to Spectator Mode]
+[20:21:36] [Render thread/INFO]: [System] [CHAT] Set own game mode to Spectator Mode
+[20:22:89] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-09-09_20.22.39.png
+[20:24:17] [Server thread/INFO]: [Vicky: Set own game mode to Creative Mode]
+[20:24:17] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[20:25:16] [Server thread/INFO]: [Vicky: Teleported Vicky to 0.500000, 100.000000, 0.500000]
+[20:25:16] [Render thread/INFO]: [System] [CHAT] Teleported Vicky to 0.500000, 100.000000, 0.500000
+[20:25:58] [Server thread/INFO]: Saving and pausing game...
+[20:25:61] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[20:25:65] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[20:25:65] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[20:25:66] [Server thread/INFO]: Vicky lost connection: Disconnected
+[20:25:66] [Server thread/INFO]: Vicky left the game
+[20:25:70] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:25:75] [Server thread/INFO]: Stopping server
+[20:25:75] [Server thread/INFO]: Saving players
+[20:25:75] [Server thread/INFO]: Saving worlds
+[20:25:66] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[20:25:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[20:25:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[20:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (Pretty icy): All chunks are saved
+[20:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:27:57] [Worker-Main-5/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[20:27:60] [Worker-Main-5/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[20:27:86] [Render thread/INFO]: Loaded 7 recipes
+[20:27:91] [Render thread/INFO]: Loaded 1271 advancements
+[20:27:00] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[20:27:00] [Server thread/INFO]: Generating keypair
+[20:27:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:27:14] [Render thread/INFO]: Preparing spawn area: 0%
+[20:27:14] [Render thread/INFO]: Preparing spawn area: 0%
+[20:27:16] [Render thread/INFO]: Preparing spawn area: 0%
+[20:27:18] [Render thread/INFO]: Preparing spawn area: 0%
+[20:27:21] [Render thread/INFO]: Preparing spawn area: 0%
+[20:27:23] [Render thread/INFO]: Preparing spawn area: 0%
+[20:27:27] [Render thread/INFO]: Preparing spawn area: 0%
+[20:27:29] [Render thread/INFO]: Preparing spawn area: 0%
+[20:27:73] [Render thread/INFO]: Preparing spawn area: 0%
+[20:27:97] [Render thread/INFO]: Preparing spawn area: 0%
+[20:27:56] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:10] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:78] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:02] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:91] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:97] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:47] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:97] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:48] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:97] [Render thread/INFO]: Preparing spawn area: 1%
+[20:28:48] [Render thread/INFO]: Preparing spawn area: 2%
+[20:28:12] [Render thread/INFO]: Preparing spawn area: 2%
+[20:28:47] [Render thread/INFO]: Preparing spawn area: 3%
+[20:28:68] [Render thread/INFO]: Preparing spawn area: 4%
+[20:28:68] [Render thread/INFO]: Preparing spawn area: 4%
+[20:28:98] [Render thread/INFO]: Preparing spawn area: 7%
+[20:28:47] [Render thread/INFO]: Preparing spawn area: 9%
+[20:28:97] [Render thread/INFO]: Preparing spawn area: 10%
+[20:28:47] [Render thread/INFO]: Preparing spawn area: 11%
+[20:28:05] [Render thread/INFO]: Preparing spawn area: 14%
+[20:28:48] [Render thread/INFO]: Preparing spawn area: 16%
+[20:28:97] [Render thread/INFO]: Preparing spawn area: 17%
+[20:28:47] [Render thread/INFO]: Preparing spawn area: 20%
+[20:28:98] [Render thread/INFO]: Preparing spawn area: 23%
+[20:28:48] [Render thread/INFO]: Preparing spawn area: 26%
+[20:28:98] [Render thread/INFO]: Preparing spawn area: 29%
+[20:28:47] [Render thread/INFO]: Preparing spawn area: 32%
+[20:28:96] [Render thread/INFO]: Preparing spawn area: 35%
+[20:28:47] [Render thread/INFO]: Preparing spawn area: 37%
+[20:28:97] [Render thread/INFO]: Preparing spawn area: 40%
+[20:28:48] [Render thread/INFO]: Preparing spawn area: 43%
+[20:28:98] [Render thread/INFO]: Preparing spawn area: 46%
+[20:28:49] [Render thread/INFO]: Preparing spawn area: 51%
+[20:28:99] [Render thread/INFO]: Preparing spawn area: 54%
+[20:28:48] [Render thread/INFO]: Preparing spawn area: 58%
+[20:28:96] [Render thread/INFO]: Preparing spawn area: 60%
+[20:28:51] [Render thread/INFO]: Preparing spawn area: 66%
+[20:28:97] [Render thread/INFO]: Preparing spawn area: 68%
+[20:28:47] [Render thread/INFO]: Preparing spawn area: 70%
+[20:28:97] [Render thread/INFO]: Preparing spawn area: 76%
+[20:28:48] [Render thread/INFO]: Preparing spawn area: 83%
+[20:28:98] [Render thread/INFO]: Preparing spawn area: 85%
+[20:28:46] [Render thread/INFO]: Preparing spawn area: 89%
+[20:28:97] [Render thread/INFO]: Preparing spawn area: 96%
+[20:28:28] [Render thread/INFO]: Time elapsed: 27814 ms
+[20:28:33] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:28:33] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[20:28:52] [Server thread/INFO]: Vicky[local:E:d9af028d] logged in with entity id 5716 at (41.92644284951549, 85.787925853319, -35.21629321886793)
+[20:28:54] [Server thread/INFO]: Vicky joined the game
+[20:28:85] [Render thread/INFO]: Loaded 11 advancements
+[20:28:14] [Server thread/INFO]: Saving and pausing game...
+[20:28:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[20:28:74] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[20:28:74] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[20:30:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2795ms or 55 ticks behind
+[20:30:63] [Render thread/INFO]: Loaded 28 advancements
+[20:32:89] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[20:33:27] [Server thread/INFO]: Saving and pausing game...
+[20:33:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[20:33:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[20:33:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[20:33:94] [Server thread/INFO]: Vicky lost connection: Disconnected
+[20:33:94] [Server thread/INFO]: Vicky left the game
+[20:33:96] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:33:97] [Server thread/INFO]: Stopping server
+[20:33:97] [Server thread/INFO]: Saving players
+[20:33:97] [Server thread/INFO]: Saving worlds
+[20:33:79] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[20:33:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[20:33:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[20:33:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (Pretty icy): All chunks are saved
+[20:33:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:33:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:33:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:44:93] [Worker-Main-38/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[21:44:03] [Worker-Main-38/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[21:44:91] [Render thread/INFO]: Loaded 7 recipes
+[21:44:00] [Render thread/INFO]: Loaded 1271 advancements
+[21:44:09] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[21:44:09] [Server thread/INFO]: Generating keypair
+[21:44:69] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:44:75] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:77] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:90] [Server thread/ERROR]: Recoverable errors when loading section [0, 6, 0]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[21:44:93] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[21:44:95] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:21] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:75] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:25] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:25] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:25] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:25] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:25] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:71] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:53] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:01] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:22] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:76] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:37] [Render thread/INFO]: Preparing spawn area: 1%
+[21:44:70] [Render thread/INFO]: Preparing spawn area: 1%
+[21:44:21] [Render thread/INFO]: Preparing spawn area: 3%
+[21:44:71] [Render thread/INFO]: Preparing spawn area: 4%
+[21:44:20] [Render thread/INFO]: Preparing spawn area: 6%
+[21:44:87] [Render thread/INFO]: Preparing spawn area: 6%
+[21:44:20] [Render thread/INFO]: Preparing spawn area: 8%
+[21:44:70] [Render thread/INFO]: Preparing spawn area: 9%
+[21:44:19] [Render thread/INFO]: Preparing spawn area: 11%
+[21:44:70] [Render thread/INFO]: Preparing spawn area: 13%
+[21:44:21] [Render thread/INFO]: Preparing spawn area: 15%
+[21:44:74] [Render thread/INFO]: Preparing spawn area: 17%
+[21:44:20] [Render thread/INFO]: Preparing spawn area: 19%
+[21:44:70] [Render thread/INFO]: Preparing spawn area: 21%
+[21:44:21] [Render thread/INFO]: Preparing spawn area: 23%
+[21:44:70] [Render thread/INFO]: Preparing spawn area: 25%
+[21:44:23] [Render thread/INFO]: Preparing spawn area: 29%
+[21:44:72] [Render thread/INFO]: Preparing spawn area: 31%
+[21:44:21] [Render thread/INFO]: Preparing spawn area: 32%
+[21:44:71] [Render thread/INFO]: Preparing spawn area: 35%
+[21:44:21] [Render thread/INFO]: Preparing spawn area: 39%
+[21:44:70] [Render thread/INFO]: Preparing spawn area: 42%
+[21:44:20] [Render thread/INFO]: Preparing spawn area: 44%
+[21:44:71] [Render thread/INFO]: Preparing spawn area: 47%
+[21:44:21] [Render thread/INFO]: Preparing spawn area: 52%
+[21:44:71] [Render thread/INFO]: Preparing spawn area: 55%
+[21:44:20] [Render thread/INFO]: Preparing spawn area: 57%
+[21:44:73] [Render thread/INFO]: Preparing spawn area: 62%
+[21:44:19] [Render thread/INFO]: Preparing spawn area: 65%
+[21:44:70] [Render thread/INFO]: Preparing spawn area: 71%
+[21:44:20] [Render thread/INFO]: Preparing spawn area: 73%
+[21:44:72] [Render thread/INFO]: Preparing spawn area: 82%
+[21:44:21] [Render thread/INFO]: Preparing spawn area: 87%
+[21:44:71] [Render thread/INFO]: Preparing spawn area: 89%
+[21:44:20] [Render thread/INFO]: Preparing spawn area: 93%
+[21:44:45] [Render thread/INFO]: Time elapsed: 24753 ms
+[21:44:47] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:44:47] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[21:44:69] [Server thread/INFO]: Vicky[local:E:639b5220] logged in with entity id 10178 at (13.171295013595419, 126.36247025156047, -13.073993113156588)
+[21:44:70] [Server thread/INFO]: Vicky joined the game
+[21:44:94] [Render thread/INFO]: Loaded 28 advancements
+[21:46:29] [Server thread/INFO]: Saving and pausing game...
+[21:46:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[21:46:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[21:46:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[21:46:76] [Server thread/INFO]: Vicky lost connection: Disconnected
+[21:46:76] [Server thread/INFO]: Vicky left the game
+[21:46:78] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:46:83] [Server thread/INFO]: Stopping server
+[21:46:83] [Server thread/INFO]: Saving players
+[21:46:83] [Server thread/INFO]: Saving worlds
+[21:46:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[21:46:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[21:46:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[21:46:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (Pretty icy): All chunks are saved
+[21:46:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:46:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:46:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:52:36] [Worker-Main-40/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[21:52:36] [Worker-Main-40/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[21:52:73] [Render thread/INFO]: Loaded 7 recipes
+[21:52:77] [Render thread/INFO]: Loaded 1271 advancements
+[21:52:37] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[21:52:37] [Server thread/INFO]: Generating keypair
+[21:52:87] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:52:49] [Render thread/INFO]: Preparing spawn area: 0%
+[21:52:49] [Render thread/INFO]: Preparing spawn area: 0%
+[21:52:95] [Render thread/INFO]: Preparing spawn area: 0%
+[21:52:05] [Server thread/ERROR]: Recoverable errors when loading section [0, 6, 0]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[21:52:05] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[21:52:43] [Render thread/INFO]: Preparing spawn area: 0%
+[21:52:43] [Render thread/INFO]: Preparing spawn area: 0%
+[21:52:43] [Render thread/INFO]: Preparing spawn area: 0%
+[21:52:03] [Render thread/INFO]: Preparing spawn area: 0%
+[21:52:38] [Render thread/INFO]: Preparing spawn area: 0%
+[21:52:89] [Render thread/INFO]: Preparing spawn area: 0%
+[21:52:39] [Render thread/INFO]: Preparing spawn area: 0%
+[21:52:88] [Render thread/INFO]: Preparing spawn area: 2%
+[21:52:41] [Render thread/INFO]: Preparing spawn area: 2%
+[21:52:88] [Render thread/INFO]: Preparing spawn area: 4%
+[21:52:39] [Render thread/INFO]: Preparing spawn area: 5%
+[21:52:89] [Render thread/INFO]: Preparing spawn area: 7%
+[21:52:39] [Render thread/INFO]: Preparing spawn area: 9%
+[21:52:88] [Render thread/INFO]: Preparing spawn area: 12%
+[21:52:38] [Render thread/INFO]: Preparing spawn area: 15%
+[21:52:89] [Render thread/INFO]: Preparing spawn area: 15%
+[21:52:38] [Render thread/INFO]: Preparing spawn area: 18%
+[21:52:88] [Render thread/INFO]: Preparing spawn area: 21%
+[21:52:38] [Render thread/INFO]: Preparing spawn area: 22%
+[21:52:88] [Render thread/INFO]: Preparing spawn area: 27%
+[21:52:41] [Render thread/INFO]: Preparing spawn area: 30%
+[21:52:89] [Render thread/INFO]: Preparing spawn area: 32%
+[21:52:38] [Render thread/INFO]: Preparing spawn area: 37%
+[21:52:90] [Render thread/INFO]: Preparing spawn area: 40%
+[21:52:39] [Render thread/INFO]: Preparing spawn area: 42%
+[21:52:89] [Render thread/INFO]: Preparing spawn area: 48%
+[21:52:39] [Render thread/INFO]: Preparing spawn area: 50%
+[21:52:87] [Render thread/INFO]: Preparing spawn area: 54%
+[21:52:43] [Render thread/INFO]: Preparing spawn area: 58%
+[21:52:88] [Render thread/INFO]: Preparing spawn area: 61%
+[21:52:38] [Render thread/INFO]: Preparing spawn area: 63%
+[21:52:88] [Render thread/INFO]: Preparing spawn area: 71%
+[21:52:39] [Render thread/INFO]: Preparing spawn area: 73%
+[21:52:88] [Render thread/INFO]: Preparing spawn area: 76%
+[21:52:39] [Render thread/INFO]: Preparing spawn area: 86%
+[21:52:88] [Render thread/INFO]: Preparing spawn area: 88%
+[21:52:40] [Render thread/INFO]: Preparing spawn area: 91%
+[21:52:89] [Render thread/INFO]: Preparing spawn area: 98%
+[21:52:96] [Render thread/INFO]: Time elapsed: 20091 ms
+[21:52:98] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:52:99] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[21:53:23] [Server thread/INFO]: Vicky[local:E:c18a4314] logged in with entity id 11916 at (-3.2506606646267295, 101.24057773064094, 2.458041080620144)
+[21:53:24] [Server thread/INFO]: Vicky joined the game
+[21:53:47] [Render thread/INFO]: Loaded 28 advancements
+[21:54:06] [Server thread/INFO]: Saving and pausing game...
+[21:54:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[21:54:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[21:54:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[21:54:42] [Server thread/INFO]: Vicky lost connection: Disconnected
+[21:54:42] [Server thread/INFO]: Vicky left the game
+[21:54:44] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:54:45] [Server thread/INFO]: Stopping server
+[21:54:46] [Server thread/INFO]: Saving players
+[21:54:46] [Server thread/INFO]: Saving worlds
+[21:54:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[21:54:77] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[21:54:77] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[21:54:79] [Server thread/INFO]: ThreadedAnvilChunkStorage (Pretty icy): All chunks are saved
+[21:54:79] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:54:79] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:54:79] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:59:79] [Worker-Main-51/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[21:59:79] [Worker-Main-51/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[21:59:65] [Render thread/INFO]: Loaded 7 recipes
+[21:59:72] [Render thread/INFO]: Loaded 1271 advancements
+[21:59:40] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[21:59:40] [Server thread/INFO]: Generating keypair
+[21:59:92] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:59:95] [Server thread/ERROR]: Recoverable errors when loading section [0, 6, 0]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[21:59:95] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[21:59:13] [Render thread/INFO]: Preparing spawn area: 0%
+[21:59:13] [Render thread/INFO]: Preparing spawn area: 0%
+[21:59:13] [Render thread/INFO]: Preparing spawn area: 0%
+[21:59:56] [Render thread/INFO]: Preparing spawn area: 0%
+[21:59:56] [Render thread/INFO]: Preparing spawn area: 0%
+[21:59:56] [Render thread/INFO]: Preparing spawn area: 0%
+[21:59:98] [Render thread/INFO]: Preparing spawn area: 0%
+[21:59:44] [Render thread/INFO]: Preparing spawn area: 0%
+[21:59:95] [Render thread/INFO]: Preparing spawn area: 0%
+[21:59:64] [Render thread/INFO]: Preparing spawn area: 1%
+[21:59:95] [Render thread/INFO]: Preparing spawn area: 1%
+[21:59:45] [Render thread/INFO]: Preparing spawn area: 3%
+[21:59:94] [Render thread/INFO]: Preparing spawn area: 5%
+[21:59:44] [Render thread/INFO]: Preparing spawn area: 7%
+[21:59:95] [Render thread/INFO]: Preparing spawn area: 8%
+[21:59:44] [Render thread/INFO]: Preparing spawn area: 10%
+[21:59:94] [Render thread/INFO]: Preparing spawn area: 12%
+[21:59:48] [Render thread/INFO]: Preparing spawn area: 13%
+[21:59:95] [Render thread/INFO]: Preparing spawn area: 15%
+[21:59:47] [Render thread/INFO]: Preparing spawn area: 17%
+[21:59:94] [Render thread/INFO]: Preparing spawn area: 17%
+[21:59:48] [Render thread/INFO]: Preparing spawn area: 21%
+[21:59:95] [Render thread/INFO]: Preparing spawn area: 23%
+[21:59:45] [Render thread/INFO]: Preparing spawn area: 25%
+[21:59:94] [Render thread/INFO]: Preparing spawn area: 30%
+[21:59:44] [Render thread/INFO]: Preparing spawn area: 32%
+[21:59:95] [Render thread/INFO]: Preparing spawn area: 34%
+[21:59:44] [Render thread/INFO]: Preparing spawn area: 40%
+[21:59:94] [Render thread/INFO]: Preparing spawn area: 42%
+[21:59:47] [Render thread/INFO]: Preparing spawn area: 45%
+[21:59:94] [Render thread/INFO]: Preparing spawn area: 47%
+[21:59:44] [Render thread/INFO]: Preparing spawn area: 54%
+[21:59:95] [Render thread/INFO]: Preparing spawn area: 56%
+[21:59:44] [Render thread/INFO]: Preparing spawn area: 58%
+[21:59:94] [Render thread/INFO]: Preparing spawn area: 60%
+[21:59:44] [Render thread/INFO]: Preparing spawn area: 66%
+[21:59:95] [Render thread/INFO]: Preparing spawn area: 69%
+[21:59:51] [Render thread/INFO]: Preparing spawn area: 72%
+[21:59:94] [Render thread/INFO]: Preparing spawn area: 74%
+[21:59:44] [Render thread/INFO]: Preparing spawn area: 83%
+[21:59:03] [Render thread/INFO]: Preparing spawn area: 85%
+[21:59:45] [Render thread/INFO]: Preparing spawn area: 95%
+[21:59:94] [Render thread/INFO]: Preparing spawn area: 99%
+[21:59:96] [Render thread/INFO]: Time elapsed: 21027 ms
+[21:59:97] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:59:97] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[21:59:21] [Server thread/INFO]: Vicky[local:E:57bbad91] logged in with entity id 13426 at (0.2313556807755384, 100.86587158136682, -0.13976460781564656)
+[21:59:22] [Server thread/INFO]: Vicky joined the game
+[21:59:45] [Render thread/INFO]: Loaded 28 advancements
+[21:59:82] [Server thread/INFO]: Saving and pausing game...
+[21:59:87] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[21:59:70] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[21:59:70] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[22:00:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[22:00:60] [Render thread/INFO]: Loaded 31 advancements
+[22:02:82] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[22:09:97] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.puffer_fish.ambient
+[22:10:80] [Server thread/INFO]: Saving and pausing game...
+[22:10:82] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[22:10:84] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[22:10:84] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[22:10:48] [Server thread/INFO]: Vicky lost connection: Disconnected
+[22:10:48] [Server thread/INFO]: Vicky left the game
+[22:10:50] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[22:10:51] [Server thread/INFO]: Stopping server
+[22:10:51] [Server thread/INFO]: Saving players
+[22:10:51] [Server thread/INFO]: Saving worlds
+[22:10:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[22:10:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[22:10:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[22:10:61] [Server thread/INFO]: ThreadedAnvilChunkStorage (Pretty icy): All chunks are saved
+[22:10:61] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:10:61] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:10:61] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:15:57] [Worker-Main-60/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[22:15:58] [Worker-Main-60/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[22:15:54] [Render thread/INFO]: Loaded 7 recipes
+[22:15:60] [Render thread/INFO]: Loaded 1271 advancements
+[22:15:69] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[22:15:69] [Server thread/INFO]: Generating keypair
+[22:15:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:15:32] [Server thread/ERROR]: Recoverable errors when loading section [1, 6, 1]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:32] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:32] [Server thread/ERROR]: Recoverable errors when loading section [2, 6, 1]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:32] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:32] [Server thread/ERROR]: Recoverable errors when loading section [4, 6, 1]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:32] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:33] [Server thread/ERROR]: Recoverable errors when loading section [3, 6, 1]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:33] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:33] [Server thread/ERROR]: Recoverable errors when loading section [0, 6, 1]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:33] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Recoverable errors when loading section [5, 6, 1]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Recoverable errors when loading section [6, 6, 1]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Recoverable errors when loading section [3, 6, 2]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Recoverable errors when loading section [4, 6, 2]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:36] [Render thread/INFO]: Preparing spawn area: 0%
+[22:15:37] [Server thread/ERROR]: Recoverable errors when loading section [2, 6, 2]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:37] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:37] [Server thread/ERROR]: Recoverable errors when loading section [0, 6, 2]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:37] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:38] [Server thread/ERROR]: Recoverable errors when loading section [3, 6, 3]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:38] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:38] [Server thread/ERROR]: Recoverable errors when loading section [1, 6, 3]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:38] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:38] [Server thread/ERROR]: Recoverable errors when loading section [1, 6, 2]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:38] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:38] [Server thread/ERROR]: Recoverable errors when loading section [0, 6, 4]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:38] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:38] [Server thread/ERROR]: Recoverable errors when loading section [9, 6, 3]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:38] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:39] [Server thread/ERROR]: Recoverable errors when loading section [2, 6, 4]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:39] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:39] [Server thread/ERROR]: Recoverable errors when loading section [2, 6, 3]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:39] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:40] [Server thread/ERROR]: Recoverable errors when loading section [3, 6, 5]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:40] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:40] [Server thread/ERROR]: Recoverable errors when loading section [8, 6, 3]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:40] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:40] [Server thread/ERROR]: Recoverable errors when loading section [4, 6, 4]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:44] [Render thread/INFO]: Preparing spawn area: 0%
+[22:15:04] [Render thread/INFO]: Preparing spawn area: 0%
+[22:15:04] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:04] [Render thread/INFO]: Preparing spawn area: 0%
+[22:15:04] [Render thread/INFO]: Preparing spawn area: 0%
+[22:15:04] [Render thread/INFO]: Preparing spawn area: 0%
+[22:15:05] [Server thread/ERROR]: Recoverable errors when loading section [5, 6, 4]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[22:15:06] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[22:15:07] [Server thread/ERROR]: Recoverable errors when loading section [1, 6, 4]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:08] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:08] [Server thread/ERROR]: Recoverable errors when loading section [6, 6, 4]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:08] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:09] [Server thread/ERROR]: Recoverable errors when loading section [0, 6, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:09] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:09] [Server thread/ERROR]: Recoverable errors when loading section [5, 6, 5]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:09] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:27] [Server thread/ERROR]: Recoverable errors when loading section [2, 6, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:27] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:33] [Server thread/ERROR]: Recoverable errors when loading section [3, 6, 4]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:33] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:33] [Server thread/ERROR]: Recoverable errors when loading section [0, 6, 5]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:33] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:33] [Server thread/ERROR]: Recoverable errors when loading section [2, 6, 5]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:33] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Recoverable errors when loading section [4, 6, 5]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Recoverable errors when loading section [1, 6, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Recoverable errors when loading section [3, 6, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Recoverable errors when loading section [5, 6, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:34] [Server thread/ERROR]: Recoverable errors when loading section [7, 6, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Recoverable errors when loading section [0, 6, 7]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Recoverable errors when loading section [4, 6, 7]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Recoverable errors when loading section [6, 6, 7]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Recoverable errors when loading section [8, 6, 7]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Recoverable errors when loading section [1, 6, 8]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Recoverable errors when loading section [3, 6, 8]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:35] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:39] [Server thread/ERROR]: Recoverable errors when loading section [5, 6, 8]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:39] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:39] [Server thread/ERROR]: Recoverable errors when loading section [9, 6, 8]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:39] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:59] [Server thread/ERROR]: Recoverable errors when loading section [3, 6, 7]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:59] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:59] [Server thread/ERROR]: Recoverable errors when loading section [4, 6, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[22:15:59] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[22:15:64] [Server thread/ERROR]: Recoverable errors when loading section [2, 6, 7]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[22:15:64] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[22:15:64] [Server thread/ERROR]: Recoverable errors when loading section [5, 6, 7]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:64] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:65] [Server thread/ERROR]: Recoverable errors when loading section [1, 6, 7]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:65] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:65] [Server thread/ERROR]: Recoverable errors when loading section [9, 6, 7]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:65] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:69] [Server thread/ERROR]: Recoverable errors when loading section [8, 6, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:69] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:69] [Server thread/ERROR]: Recoverable errors when loading section [4, 6, 8]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[22:15:69] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[22:15:69] [Server thread/ERROR]: Recoverable errors when loading section [2, 6, 8]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:69] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:87] [Server thread/ERROR]: Recoverable errors when loading section [6, 6, 8]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[22:15:87] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[22:15:88] [Server thread/ERROR]: Recoverable errors when loading section [6, 6, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:15:88] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[22:16:78] [Render thread/INFO]: Preparing spawn area: 0%
+[22:16:78] [Render thread/INFO]: Preparing spawn area: 0%
+[22:16:80] [Render thread/INFO]: Preparing spawn area: 0%
+[22:16:91] [Render thread/INFO]: Preparing spawn area: 0%
+[22:16:71] [Render thread/INFO]: Preparing spawn area: 0%
+[22:16:11] [Render thread/INFO]: Preparing spawn area: 0%
+[22:16:49] [Render thread/INFO]: Preparing spawn area: 0%
+[22:16:64] [Render thread/INFO]: Preparing spawn area: 0%
+[22:16:64] [Render thread/INFO]: Preparing spawn area: 0%
+[22:16:93] [Render thread/INFO]: Preparing spawn area: 0%
+[22:16:42] [Render thread/INFO]: Preparing spawn area: 0%
+[22:16:29] [Render thread/INFO]: Preparing spawn area: 1%
+[22:16:42] [Render thread/INFO]: Preparing spawn area: 1%
+[22:16:91] [Render thread/INFO]: Preparing spawn area: 2%
+[22:16:42] [Render thread/INFO]: Preparing spawn area: 4%
+[22:16:92] [Render thread/INFO]: Preparing spawn area: 6%
+[22:16:42] [Render thread/INFO]: Preparing spawn area: 8%
+[22:16:92] [Render thread/INFO]: Preparing spawn area: 11%
+[22:16:43] [Render thread/INFO]: Preparing spawn area: 11%
+[22:16:92] [Render thread/INFO]: Preparing spawn area: 14%
+[22:16:42] [Render thread/INFO]: Preparing spawn area: 16%
+[22:16:97] [Render thread/INFO]: Preparing spawn area: 18%
+[22:16:41] [Render thread/INFO]: Preparing spawn area: 19%
+[22:16:93] [Render thread/INFO]: Preparing spawn area: 23%
+[22:16:46] [Render thread/INFO]: Preparing spawn area: 25%
+[22:16:94] [Render thread/INFO]: Preparing spawn area: 27%
+[22:16:41] [Render thread/INFO]: Preparing spawn area: 32%
+[22:16:93] [Render thread/INFO]: Preparing spawn area: 34%
+[22:16:42] [Render thread/INFO]: Preparing spawn area: 38%
+[22:16:92] [Render thread/INFO]: Preparing spawn area: 42%
+[22:16:42] [Render thread/INFO]: Preparing spawn area: 44%
+[22:16:94] [Render thread/INFO]: Preparing spawn area: 48%
+[22:16:43] [Render thread/INFO]: Preparing spawn area: 52%
+[22:16:95] [Render thread/INFO]: Preparing spawn area: 57%
+[22:16:41] [Render thread/INFO]: Preparing spawn area: 59%
+[22:16:94] [Render thread/INFO]: Preparing spawn area: 62%
+[22:16:43] [Render thread/INFO]: Preparing spawn area: 69%
+[22:16:93] [Render thread/INFO]: Preparing spawn area: 72%
+[22:16:42] [Render thread/INFO]: Preparing spawn area: 75%
+[22:16:91] [Render thread/INFO]: Preparing spawn area: 83%
+[22:16:41] [Render thread/INFO]: Preparing spawn area: 87%
+[22:16:94] [Render thread/INFO]: Preparing spawn area: 90%
+[22:16:42] [Render thread/INFO]: Preparing spawn area: 95%
+[22:16:66] [Render thread/INFO]: Time elapsed: 25252 ms
+[22:16:66] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:16:66] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[22:16:88] [Server thread/INFO]: Vicky[local:E:f1b79286] logged in with entity id 20782 at (68.80217943915493, 66.94563648016573, 73.44717281741993)
+[22:16:90] [Server thread/INFO]: Vicky joined the game
+[22:16:64] [Render thread/INFO]: Loaded 31 advancements
+[22:16:70] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
+[22:16:81] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6123ms or 122 ticks behind
+[22:18:91] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-09-09_22.18.13.png
+[22:18:44] [Server thread/INFO]: Saving and pausing game...
+[22:18:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[22:18:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[22:18:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[22:18:31] [Server thread/INFO]: Vicky lost connection: Disconnected
+[22:18:31] [Server thread/INFO]: Vicky left the game
+[22:18:33] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[22:18:34] [Server thread/INFO]: Stopping server
+[22:18:34] [Server thread/INFO]: Saving players
+[22:18:34] [Server thread/INFO]: Saving worlds
+[22:18:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[22:18:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[22:18:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[22:18:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (Pretty icy): All chunks are saved
+[22:18:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:18:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:18:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:18:92] [Render thread/INFO]: Stopping!
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (95 ms)
+[Launcher] Minecraft closed with exit code: 0
+[Launcher] Launcher exited.
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+flush now

@@ -17,10 +17,9 @@ for x in range(1, len(df.columns)):
 		block = df.iloc[x, z]
 		block = block.split(':')
 
-		print(x-1, z-1, block[1])
 		pixel = anvil.Block('minecraft', block[1])
 		region.set_block(pixel, x-1, 100, z-1)
+		print(x-1, z-1, block[1])
 
-region.set_block(pixel, x-1, 100, z-1)
 region.save('region/r.0.0.mca')
 print('\nBuild Complete.')
