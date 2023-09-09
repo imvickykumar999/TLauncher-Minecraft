@@ -15,7 +15,7 @@ glowstone = anvil.Block('minecraft', 'glowstone')
 diamond_block = anvil.Block('minecraft', 'diamond_block')
 blue_stained_glass = anvil.Block('minecraft', 'blue_stained_glass')
 
-for y in range(-63, tall, 15): # floor
+for y in range(-63, tall, 10): # floor
 	us_maze = mzg.returnMaze(side,side)
 	s_maze = mzs.solve_maze(us_maze)
 
@@ -24,6 +24,7 @@ for y in range(-63, tall, 15): # floor
 
 			if s_maze[x][z] == 'w':
 				region.set_block(diamond_block, x, y+1, z)
+				region.set_block(diamond_block, x, y+2, z)
 
 			if y == -63 or not (x == 1 and z == 1):
 				region.set_block(gold_block, x, y, z)
