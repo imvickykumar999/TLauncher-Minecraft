@@ -1,0 +1,41 @@
+﻿,1,2,3,4,5,6,7,8,9,10
+1,minecraft:white_wool,minecraft:white_wool,minecraft:sandstone,minecraft:clay,minecraft:light_blue_wool,minecraft:cyan_terracotta,minecraft:birch_planks,minecraft:white_concrete,minecraft:quartz_block,minecraft:white_wool
+2,minecraft:white_wool,minecraft:white_wool,minecraft:white_wool,minecraft:clay,minecraft:oak_planks,minecraft:black_concrete,minecraft:black_concrete,minecraft:black_wool,minecraft:polished_diorite,minecraft:white_wool
+3,minecraft:white_wool,minecraft:white_wool,minecraft:light_blue_wool,minecraft:clay,minecraft:birch_planks,minecraft:jungle_planks,minecraft:white_terracotta,minecraft:white_terracotta,minecraft:polished_andesite,minecraft:white_wool
+4,minecraft:white_wool,minecraft:white_wool,minecraft:mossy_stone_bricks,minecraft:white_wool,minecraft:jungle_planks,minecraft:white_terracotta,minecraft:white_terracotta,minecraft:polished_granite,minecraft:white_concrete,minecraft:white_wool
+5,minecraft:white_wool,minecraft:white_wool,minecraft:diorite,minecraft:white_concrete,minecraft:jungle_wood,minecraft:jungle_planks,minecraft:pink_wool,minecraft:white_terracotta,minecraft:white_concrete,minecraft:white_wool
+6,minecraft:white_wool,minecraft:white_wool,minecraft:white_concrete,minecraft:polished_andesite,minecraft:clay,minecraft:gray_terracotta,minecraft:black_terracotta,minecraft:white_wool,minecraft:white_concrete,minecraft:white_wool
+7,minecraft:white_wool,minecraft:white_wool,minecraft:mossy_cobblestone,minecraft:lapis_block,minecraft:cyan_terracotta,minecraft:birch_planks,minecraft:white_terracotta,minecraft:birch_planks,minecraft:birch_planks,minecraft:white_wool
+8,minecraft:white_wool,minecraft:white_wool,minecraft:light_blue_concrete,minecraft:light_blue_concrete,minecraft:lapis_block,minecraft:light_blue_wool,minecraft:lapis_block,minecraft:lapis_block,minecraft:lapis_block,minecraft:white_wool
+9,minecraft:white_wool,minecraft:quartz_block,minecraft:light_blue_concrete,minecraft:cyan_concrete,minecraft:lapis_block,minecraft:lapis_block,minecraft:light_blue_concrete,minecraft:cyan_wool,minecraft:light_blue_concrete,minecraft:white_wool
+10,minecraft:white_wool,minecraft:white_wool,minecraft:obsidian,minecraft:lapis_block,minecraft:lapis_block,minecraft:lapis_block,minecraft:lapis_block,minecraft:diorite,minecraft:lapis_block,minecraft:white_wool
+
+ ,block list
+ ,minecraft:white_wool,32
+ ,minecraft:sandstone,1
+ ,minecraft:clay,4
+ ,minecraft:light_blue_wool,3
+ ,minecraft:cyan_terracotta,2
+ ,minecraft:birch_planks,5
+ ,minecraft:white_concrete,6
+ ,minecraft:quartz_block,2
+ ,minecraft:oak_planks,1
+ ,minecraft:black_concrete,2
+ ,minecraft:black_wool,1
+ ,minecraft:polished_diorite,1
+ ,minecraft:jungle_planks,3
+ ,minecraft:white_terracotta,6
+ ,minecraft:polished_andesite,2
+ ,minecraft:mossy_stone_bricks,1
+ ,minecraft:polished_granite,1
+ ,minecraft:diorite,2
+ ,minecraft:jungle_wood,1
+ ,minecraft:pink_wool,1
+ ,minecraft:gray_terracotta,1
+ ,minecraft:black_terracotta,1
+ ,minecraft:mossy_cobblestone,1
+ ,minecraft:lapis_block,12
+ ,minecraft:light_blue_concrete,5
+ ,minecraft:cyan_concrete,1
+ ,minecraft:cyan_wool,1
+ ,minecraft:obsidian,1
