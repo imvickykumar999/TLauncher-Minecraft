@@ -15,6 +15,7 @@
       "minecraft:dripstone_caves": "2023-09-09 20:20:57 +0530",
       "minecraft:forest": "2023-09-09 20:18:24 +0530",
       "minecraft:ocean": "2023-09-10 09:38:26 +0530",
+      "minecraft:jungle": "2023-09-10 13:27:56 +0530",
       "minecraft:deep_lukewarm_ocean": "2023-09-10 09:30:07 +0530",
       "minecraft:frozen_peaks": "2023-09-09 20:21:30 +0530",
       "minecraft:meadow": "2023-09-09 20:21:44 +0530",
@@ -251,9 +252,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_egg": "2023-09-10 11:03:49 +0530"
+      "killed_something": "2023-09-10 11:02:40 +0530"
     },
     "done": true
   },
@@ -287,18 +288,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2023-09-10 11:05:18 +0530"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2023-09-10 11:02:40 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2023-09-10 11:03:21 +0530"
@@ -308,6 +297,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2023-09-10 11:03:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2023-09-10 11:03:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-09-10 11:05:18 +0530"
     },
     "done": true
   },
