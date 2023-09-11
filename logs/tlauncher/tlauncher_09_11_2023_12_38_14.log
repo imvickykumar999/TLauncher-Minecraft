@@ -1,0 +1,657 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.89 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 11 Sep, 2023 12:38:19 PM
+Running folder C:\Users\Vicky\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 8001 MB RAM
+java path=C:\Users\Vicky\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx
+ AMD Radeon(TM) Vega 8 Graphics, AMD Radeon Graphics Processor (0x15D8), 4113 MB, NVIDIA GeForce GTX 1650, NVIDIA GeForce GTX 1650, 7949 MB
+-------------------------------------------------------
+Selected locale: en
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+[Updater] Making request: https://repo.tlauncher.org/update/lch/release_update_2.3.json?version=2.89&client=f2d004ad-49e4-438b-9a85-cae4170ae3d1
+[Updater] Request time: 484 ms
+[Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+[Browser] Loading resources...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 43 / 107 MB
+Garbage collector completed: 21 / 160 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\Vicky\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\Vicky\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[Loading] LOADING_WINDOW
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 401 ms.
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/pages/index_en.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/pages/index_en.html during 0
+[Browser@1439298576] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/pages/index_en.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/
+Started! (10441 ms.)
+[Loading] SUCCESS
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 158 ms.
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 50 ms.
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 135 ms.
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 169 ms.
+[SkinVersionList] Got in 192 ms
+[ExtraVersionList] Got in 234 ms
+[OfficialVersionList] Got in 381 ms
+[VersionManager] Versions has been refreshed (519 ms)
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 82 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 79 ms.
+run server on  37842
+AccountComboBox.validte pre game launch username Account{skinType=TLAUNCHER, displayName=Vicky, userid=91d519811e5844279199ef1e67a09b70, uuid=91d519811e5844279199ef1e67a09b70, username=Vicky} FREE
+onAuthPassed
+saved account Account{skinType=TLAUNCHER, displayName=Vicky, userid=91d519811e5844279199ef1e67a09b70, uuid=91d519811e5844279199ef1e67a09b70, username=Vicky}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.89
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+[Launcher] Force update: false
+[Launcher] Selected version: 1.20.1
+[Launcher] Selected account: Account{skinType=TLAUNCHER, displayName=Vicky, userid=91d519811e5844279199ef1e67a09b70, uuid=91d519811e5844279199ef1e67a09b70, username=Vicky}
+[Launcher] Version sync info: VersionSyncInfo{id='1.20.1',
+local=CompleteVersion{id='1.20.1', time=Mon Jun 12 18:55:51 IST 2023, release=Mon Jun 12 18:55:51 IST 2023, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='5', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@579e2bda, libraries=[Library{name='ca.weblite:java-objc-bridge:1.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.github.oshi:oshi-core:6.2.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:failureaccess:1.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:31.1-jre', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j:71.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:4.0.43', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:blocklist:1.0.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.1.8', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:6.0.8', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:logging:1.1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:patchy:2.2.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.17.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.15', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.11.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-buffer:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-codec:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-common:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-handler:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-resolver:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-classes-epoll:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-epoll:4.1.82.Final:linux-aarch_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-epoll:4.1.82.Final:linux-x86_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-unix-common:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.5.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna-platform:5.12.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:5.12.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.21', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.12.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.5.13', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.4.15', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.19.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.19.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-slf4j2-impl:2.19.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.joml:joml:1.10.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.slf4j:slf4j-api:2.0.1', rules=null, natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.20.1', time=Thu Sep 07 17:46:18 IST 2023, release=Mon Jun 12 18:55:51 IST 2023, type=release, source=OFFICIAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@579e2bda}, isInstalled=true, hasRemote=true, isUpToDate=true}
+[GsonUtil]  request to https://res.tlauncher.org/b/jvm/java_configuration.json
+[Launcher] Checking conditions...
+[Launcher] resourcepacks:Greenfield.Pack.1.20.zip,Halloween-V1.17.zip,redstone.zip,titanic.zip,Water Reflection.zip
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\Vicky\AppData\Roaming\.minecraft\assets\indexes\5.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 4018 ms.
+[TLauncherManager] add required libraries: 1.20.1
+[VersionManager] Required for version 1.20.1: []
+[TLauncherManager] add required libraries: 1.20.1
+used default java runtime
+Minecraft requires java version: 17, java path: C:\Users\Vicky\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\windows\java-runtime-gamma\bin\javaw.exe
+library will be replaced: com.mojang:authlib:4.0.43 -> org.tlauncher:authlib:4.0.43.1
+library will be replaced: com.mojang:patchy:2.2.10 -> org.tlauncher:patchy:2.2.10
+[TLauncherManager] library will be added as required: io.github.classgraph:classgraph:4.8.110
+[TLauncherManager] library will be added as required: org.ow2.asm:asm:9.1
+[TLauncherManager] library will be added as required: org.ow2.asm:asm-commons:9.1
+[TLauncherManager] library will be added as required: org.ow2.asm:asm-tree:9.1
+[TLauncherManager] library will be added: org.tlauncher:tl_skin_cape_1.20_1.20.1:1.32
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+backup world is active: true
+backup world: Pretty icy
+backup world finished: Pretty icy
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: C:\Users\Vicky\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\windows\java-runtime-gamma\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Users\Vicky\AppData\Roaming\.minecraft\versions\1.20.1\natives -Djna.tmpdir=C:\Users\Vicky\AppData\Roaming\.minecraft\versions\1.20.1\natives -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\Vicky\AppData\Roaming\.minecraft\versions\1.20.1\natives -Dio.netty.native.workdir=C:\Users\Vicky\AppData\Roaming\.minecraft\versions\1.20.1\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.3.173 -cp C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\tlauncher\tl_skin_cape_1.20_1.20.1\1.32\tl_skin_cape_1.20_1.20.1-1.32.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\github\classgraph\classgraph\4.8.110\classgraph-4.8.110.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\github\oshi\oshi-core\6.2.2\oshi-core-6.2.2.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\4.0.43.1\authlib-4.0.43.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.1.8\brigadier-1.1.8.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\6.0.8\datafixerupper-6.0.8.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\mojang\logging\1.1.1\logging-1.1.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\tlauncher\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-buffer\4.1.82.Final\netty-buffer-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec\4.1.82.Final\netty-codec-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-common\4.1.82.Final\netty-common-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-handler\4.1.82.Final\netty-handler-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-resolver\4.1.82.Final\netty-resolver-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.82.Final\netty-transport-classes-epoll-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.82.Final\netty-transport-native-unix-common-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport\4.1.82.Final\netty-transport-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.9\fastutil-8.5.9.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.19.0\log4j-slf4j2-impl-2.19.0.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\slf4j\slf4j-api\2.0.1\slf4j-api-2.0.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\versions\1.20.1\1.20.1.jar --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\Vicky\AppData\Roaming\.minecraft -Dlog4j.configurationFile=C:\Users\Vicky\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml net.minecraft.launchwrapper.Launch --username Vicky --version 1.20.1 --gameDir C:\Users\Vicky\AppData\Roaming\.minecraft --assetsDir C:\Users\Vicky\AppData\Roaming\.minecraft\assets --assetIndex 5 --uuid 91d519811e5844279199ef1e67a09b70 --accessToken null --clientId null --xuid null --userType mojang --versionType release --width 925 --height 530 --tweakClass org.tlauncher.tweaker.Tweaker
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after 
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=Minecraft Server, address=top.twerion.net, ip=top.twerion.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=play.ragnarockmc.in, ip=play.ragnarockmc.in, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=bwhub.net, ip=bwhub.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=as.azerithmc.com, ip=as.azerithmc.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=play.endermc.fun, ip=play.endermc.fun, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=jenominers.de, ip=jenominers.de, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=play.fourleafsea.xyz, ip=play.fourleafsea.xyz, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=play.wondercraft.fun, ip=play.wondercraft.fun, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=play.exoticnetwork.in, ip=play.exoticnetwork.in, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=play.minetop.fun, ip=play.minetop.fun, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=tms.chickencraft.nl, ip=tms.chickencraft.nl, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=nationsglory.com, ip=nationsglory.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=top.ultimis.net, ip=top.ultimis.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=herobrine.org, ip=herobrine.org, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=armamc.com, ip=armamc.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=127.0.0.1, ip=127.0.0.1, port=null, hideAddress=false, acceptTextures=0)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Game skin type: TLAUNCHER
+[Launcher] Starting Minecraft 1.20.1...
+[Launcher] Launching in: C:\Users\Vicky\AppData\Roaming\.minecraft
+Starting garbage collector: 107 / 337 MB
+Garbage collector completed: 43 / 326 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[12:39:56] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+[12:39:61] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+[12:39:61] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+Log Path: C:\Users\Vicky\AppData\Roaming\.minecraft\.\tlLoader\Tweaker.log
+[main INFO] Using Tweaker
+[main INFO] Tweaker: acceptOptions
+[main INFO] Tweaker: injectIntoClassLoader
+[Injection] Injection Class Transformer started
+[TLSkinCape] Current TLSkinCape version is 1.32
+[TLSkinCape] Current Minecraft version is 1.20.
+[main INFO] Loaded as a library.
+[Injection] Injection into euw ended successfully with 1 injections.
+[Injection] Injection into fiv ended successfully with 1 injections.
+2023-09-11 12:39:06,908 main WARN Error parsing URI C:\Users\Vicky\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml
+[main INFO] Tweaker: getLaunchArguments
+[main INFO] Tweaker: getLaunchTarget
+[Injection] Injection into net.minecraft.client.main.Main ended successfully with 1 injections.
+[12:39:30] [main/INFO]: Launching wrapped minecraft [net.minecraft.client.main.Main]
+[Injection] Injection into enn ended successfully with 1 injections.
+[Double running] clear time label
+[12:39:93] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 2333 milliseconds
+[12:39:11] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:39:64] [Render thread/ERROR]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56)
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:147)
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:63)
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124)
+	at enn.a(SourceFile:733)
+	at enn.<init>(SourceFile:442)
+	at net.minecraft.client.main.Main.main(SourceFile:211)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:136)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:31)
+Caused by: MinecraftClientHttpException[type=HTTP_ERROR, status=401, response=ErrorResponse[path='/player/attributes', error='null', details=null, errorMessage='null']]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48)
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:122)
+	... 11 more
+
+[12:39:68] [Render thread/INFO]: Setting user: Vicky
+[12:39:11] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[12:39:28] [Render thread/WARN]: Missing metadata in pack file/Halloween-V1.17.zip
+[12:39:76] [Render thread/INFO]: Reloading ResourceManager: vanilla, file/redstone.zip
+[12:39:16] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[12:39:50] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[12:39:65] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=east:
+    minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[12:39:66] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=north:
+    minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[12:39:66] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=south:
+    minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[12:39:66] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=down:
+    minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[12:39:66] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=west:
+    minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[12:39:95] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[12:39:95] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[12:39:19] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Airdopes 141)
+[12:39:20] [Render thread/INFO]: Sound engine started
+[12:39:51] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[12:39:54] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[12:39:55] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[12:39:55] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[12:39:56] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[12:39:60] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[12:39:60] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[12:39:61] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[12:39:61] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Injection] Injection into fck ended successfully with 1 injections.
+[12:39:66] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[12:39:87] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[12:39:88] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[12:39:88] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[12:40:80] [Worker-Main-4/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[12:40:88] [Worker-Main-4/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[12:40:98] [Worker-Main-2/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[12:40:98] [Worker-Main-2/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[12:41:95] [Render thread/INFO]: Loaded 7 recipes
+[12:41:26] [Render thread/INFO]: Loaded 1271 advancements
+[12:41:25] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[12:41:26] [Server thread/INFO]: Generating keypair
+[12:41:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:41:04] [Server thread/ERROR]: Recoverable errors when loading section [11, 4, 11]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:05] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:46] [Server thread/ERROR]: Recoverable errors when loading section [11, 4, 15]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:46] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:73] [Server thread/ERROR]: Recoverable errors when loading section [6, 4, 19]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:73] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:17] [Server thread/ERROR]: Recoverable errors when loading section [11, 4, 17]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:17] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:47] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:05] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:43] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:54] [Server thread/ERROR]: Recoverable errors when loading section [8, 4, 13]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:54] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:56] [Server thread/ERROR]: Recoverable errors when loading section [8, 4, 17]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:56] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:57] [Server thread/ERROR]: Recoverable errors when loading section [8, 4, 19]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:57] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:57] [Server thread/ERROR]: Recoverable errors when loading section [8, 4, 12]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:57] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:63] [Server thread/ERROR]: Recoverable errors when loading section [8, 4, 16]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:63] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:67] [Server thread/ERROR]: Recoverable errors when loading section [8, 4, 20]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:67] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:69] [Server thread/ERROR]: Recoverable errors when loading section [12, 4, 11]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:69] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:69] [Server thread/ERROR]: Recoverable errors when loading section [12, 4, 13]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:69] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:78] [Server thread/ERROR]: Recoverable errors when loading section [9, 4, 18]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:78] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:83] [Server thread/ERROR]: Recoverable errors when loading section [9, 4, 12]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:83] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:83] [Server thread/ERROR]: Recoverable errors when loading section [9, 4, 20]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:84] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:91] [Server thread/ERROR]: Recoverable errors when loading section [10, 4, 12]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:91] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:92] [Server thread/ERROR]: Recoverable errors when loading section [10, 4, 18]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:92] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:23] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:33] [Server thread/ERROR]: Recoverable errors when loading section [9, 4, 19]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:33] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:42] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:83] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:92] [Server thread/ERROR]: Recoverable errors when loading section [12, 4, 12]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:92] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:92] [Server thread/ERROR]: Recoverable errors when loading section [13, 4, 11]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:92] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:92] [Server thread/ERROR]: Recoverable errors when loading section [12, 4, 18]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:92] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:97] [Server thread/ERROR]: Recoverable errors when loading section [13, 4, 17]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:97] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:99] [Server thread/ERROR]: Recoverable errors when loading section [15, 4, 17]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:99] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:31] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:59] [Server thread/ERROR]: Recoverable errors when loading section [15, 4, 18]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:59] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:59] [Server thread/ERROR]: Recoverable errors when loading section [17, 4, 18]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[12:41:59] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[12:41:60] [Server thread/ERROR]: Recoverable errors when loading section [12, 4, 14]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:60] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:60] [Server thread/ERROR]: Recoverable errors when loading section [19, 4, 18]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:60] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:80] [Server thread/ERROR]: Recoverable errors when loading section [22, 4, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:80] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:83] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:86] [Server thread/ERROR]: Recoverable errors when loading section [24, 4, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:86] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:86] [Server thread/ERROR]: Recoverable errors when loading section [13, 4, 15]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:86] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:90] [Server thread/ERROR]: Recoverable errors when loading section [14, 4, 16]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:90] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:93] [Server thread/ERROR]: Recoverable errors when loading section [16, 4, 17]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:93] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:98] [Server thread/ERROR]: Recoverable errors when loading section [14, 4, 17]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:98] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:01] [Server thread/ERROR]: Recoverable errors when loading section [14, 4, 18]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:01] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:03] [Server thread/ERROR]: Recoverable errors when loading section [16, 4, 18]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[12:41:03] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[12:41:07] [Server thread/ERROR]: Recoverable errors when loading section [18, 4, 18]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:07] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:10] [Server thread/ERROR]: Recoverable errors when loading section [24, 4, 7]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:10] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:15] [Server thread/ERROR]: Recoverable errors when loading section [23, 4, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:15] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:15] [Server thread/ERROR]: Recoverable errors when loading section [24, 4, 9]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:15] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:17] [Server thread/ERROR]: Recoverable errors when loading section [25, 4, 6]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[12:41:17] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[12:41:21] [Server thread/ERROR]: Recoverable errors when loading section [24, 4, 10]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:21] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:26] [Server thread/ERROR]: Recoverable errors when loading section [21, 4, 14]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:26] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:32] [Server thread/ERROR]: Recoverable errors when loading section [16, 4, 22]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:32] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:33] [Server thread/ERROR]: Recoverable errors when loading section [22, 4, 14]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:33] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:34] [Server thread/ERROR]: Recoverable errors when loading section [15, 4, 21]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:34] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:34] [Server thread/ERROR]: Recoverable errors when loading section [16, 4, 19]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:34] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:34] [Server thread/ERROR]: Recoverable errors when loading section [17, 4, 19]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[12:41:34] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 384 but expected: 410
+[12:41:34] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:35] [Server thread/ERROR]: Recoverable errors when loading section [16, 4, 21]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:35] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:35] [Server thread/ERROR]: Recoverable errors when loading section [15, 4, 23]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:35] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:35] [Server thread/ERROR]: Recoverable errors when loading section [14, 4, 24]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:35] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:35] [Server thread/ERROR]: Recoverable errors when loading section [16, 4, 24]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:35] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:36] [Server thread/ERROR]: Recoverable errors when loading section [18, 4, 19]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:36] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:36] [Server thread/ERROR]: Recoverable errors when loading section [17, 4, 24]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:36] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:36] [Server thread/ERROR]: Recoverable errors when loading section [18, 4, 21]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:36] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:37] [Server thread/ERROR]: Recoverable errors when loading section [19, 4, 19]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:37] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:37] [Server thread/ERROR]: Recoverable errors when loading section [18, 4, 20]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:38] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:38] [Server thread/ERROR]: Recoverable errors when loading section [19, 4, 23]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:38] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:40] [Server thread/ERROR]: Recoverable errors when loading section [22, 4, 17]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:40] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:43] [Server thread/ERROR]: Recoverable errors when loading section [22, 4, 16]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:43] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:45] [Server thread/ERROR]: Recoverable errors when loading section [22, 4, 21]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:45] [Server thread/ERROR]: Failed to read PalettedContainer: Invalid length given for storage, got: 320 but expected: 342
+[12:41:83] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:47] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:82] [Render thread/INFO]: Preparing spawn area: 0%
+[12:41:37] [Render thread/INFO]: Preparing spawn area: 1%
+[12:41:82] [Render thread/INFO]: Preparing spawn area: 4%
+[12:41:33] [Render thread/INFO]: Preparing spawn area: 10%
+[12:41:36] [Render thread/INFO]: Preparing spawn area: 10%
+[12:41:36] [Render thread/INFO]: Preparing spawn area: 10%
+[12:41:82] [Render thread/INFO]: Preparing spawn area: 18%
+[12:41:33] [Render thread/INFO]: Preparing spawn area: 28%
+[12:41:83] [Render thread/INFO]: Preparing spawn area: 38%
+[12:41:33] [Render thread/INFO]: Preparing spawn area: 41%
+[12:41:82] [Render thread/INFO]: Preparing spawn area: 51%
+[12:41:32] [Render thread/INFO]: Preparing spawn area: 80%
+[12:41:82] [Render thread/INFO]: Preparing spawn area: 97%
+[12:41:11] [Render thread/INFO]: Time elapsed: 20798 ms
+[12:41:35] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:41:35] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[12:41:45] [Server thread/INFO]: Vicky[local:E:50e0d8d5] logged in with entity id 484 at (60.14264541637486, 66.0, 77.23806726195109)
+[12:41:63] [Server thread/INFO]: Vicky joined the game
+[12:41:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[12:41:69] [Render thread/INFO]: Loaded 92 advancements
+[12:41:07] [Server thread/INFO]: Villager byb['Villager'/427, l='ServerLevel[Pretty icy]', x=270.28, y=-268.42, z=237.34] died, message: 'Villager fell out of the world'
+[12:41:12] [Render thread/INFO]: Villager byb['Villager'/427, l='ClientLevel', x=270.28, y=-261.15, z=237.34] died, message: 'Villager died'
+[12:41:17] [Server thread/INFO]: Villager byb['Nitwit'/428, l='ServerLevel[Pretty icy]', x=264.69, y=-271.06, z=225.01] died, message: 'Nitwit fell out of the world'
+[12:41:17] [Server thread/INFO]: Villager byb['Villager'/429, l='ServerLevel[Pretty icy]', x=270.49, y=-271.06, z=238.93] died, message: 'Villager fell out of the world'
+[12:41:17] [Server thread/INFO]: Villager byb['Villager'/430, l='ServerLevel[Pretty icy]', x=269.84, y=-271.06, z=239.76] died, message: 'Villager fell out of the world'
+[12:41:18] [Server thread/INFO]: Villager byb['Nitwit'/431, l='ServerLevel[Pretty icy]', x=266.26, y=-271.06, z=225.25] died, message: 'Nitwit fell out of the world'
+[12:41:20] [Render thread/INFO]: Villager byb['Nitwit'/428, l='ClientLevel', x=264.69, y=-263.78, z=225.01] died, message: 'Nitwit died'
+[12:41:20] [Render thread/INFO]: Villager byb['Villager'/429, l='ClientLevel', x=270.49, y=-263.78, z=238.93] died, message: 'Villager died'
+[12:41:20] [Render thread/INFO]: Villager byb['Villager'/430, l='ClientLevel', x=269.84, y=-263.78, z=239.76] died, message: 'Villager died'
+[12:41:20] [Render thread/INFO]: Villager byb['Nitwit'/431, l='ClientLevel', x=266.26, y=-263.78, z=225.25] died, message: 'Nitwit died'
+[12:41:23] [Server thread/INFO]: Villager byb['Villager'/432, l='ServerLevel[Pretty icy]', x=270.43, y=-270.12, z=246.79] died, message: 'Villager fell out of the world'
+[12:41:24] [Server thread/INFO]: Villager byb['Villager'/436, l='ServerLevel[Pretty icy]', x=258.42, y=-271.06, z=249.09] died, message: 'Villager fell out of the world'
+[12:41:24] [Server thread/INFO]: Villager byb['Villager'/437, l='ServerLevel[Pretty icy]', x=258.85, y=-271.06, z=248.30] died, message: 'Villager fell out of the world'
+[12:41:24] [Server thread/INFO]: Villager byb['Villager'/439, l='ServerLevel[Pretty icy]', x=268.36, y=-271.06, z=242.70] died, message: 'Villager fell out of the world'
+[12:41:24] [Server thread/INFO]: Villager byb['Nitwit'/440, l='ServerLevel[Pretty icy]', x=264.46, y=-271.06, z=242.54] died, message: 'Nitwit fell out of the world'
+[12:41:25] [Server thread/INFO]: Villager byb['Villager'/474, l='ServerLevel[Pretty icy]', x=263.04, y=-271.06, z=223.57] died, message: 'Villager fell out of the world'
+[12:41:25] [Render thread/INFO]: Villager byb['Villager'/432, l='ClientLevel', x=270.43, y=-262.84, z=246.79] died, message: 'Villager died'
+[12:41:25] [Render thread/INFO]: Villager byb['Villager'/436, l='ClientLevel', x=258.42, y=-263.78, z=249.09] died, message: 'Villager died'
+[12:41:25] [Render thread/INFO]: Villager byb['Villager'/437, l='ClientLevel', x=258.85, y=-263.78, z=248.30] died, message: 'Villager died'
+[12:41:25] [Server thread/INFO]: Villager byb['Villager'/478, l='ServerLevel[Pretty icy]', x=266.40, y=-271.06, z=223.54] died, message: 'Villager fell out of the world'
+[12:41:25] [Render thread/INFO]: Villager byb['Villager'/439, l='ClientLevel', x=268.36, y=-263.78, z=242.70] died, message: 'Villager died'
+[12:41:25] [Render thread/INFO]: Villager byb['Nitwit'/440, l='ClientLevel', x=264.46, y=-263.78, z=242.54] died, message: 'Nitwit died'
+[12:41:25] [Render thread/INFO]: Villager byb['Villager'/474, l='ClientLevel', x=263.04, y=-263.78, z=223.57] died, message: 'Villager died'
+[12:41:25] [Server thread/INFO]: Villager byb['Villager'/480, l='ServerLevel[Pretty icy]', x=264.07, y=-271.06, z=223.21] died, message: 'Villager fell out of the world'
+[12:41:26] [Server thread/INFO]: Villager byb['Nitwit'/483, l='ServerLevel[Pretty icy]', x=263.95, y=-271.06, z=223.92] died, message: 'Nitwit fell out of the world'
+[12:41:30] [Render thread/INFO]: Villager byb['Villager'/478, l='ClientLevel', x=266.40, y=-263.78, z=223.54] died, message: 'Villager died'
+[12:41:30] [Render thread/INFO]: Villager byb['Villager'/480, l='ClientLevel', x=264.07, y=-263.78, z=223.21] died, message: 'Villager died'
+[12:41:30] [Render thread/INFO]: Villager byb['Nitwit'/483, l='ClientLevel', x=263.95, y=-263.78, z=223.92] died, message: 'Nitwit died'
+[12:41:24] [Server thread/INFO]: Villager byb['Villager'/486, l='ServerLevel[Pretty icy]', x=273.55, y=-232.33, z=232.68] died, message: 'Villager fell out of the world'
+[12:41:25] [Render thread/INFO]: Villager byb['Villager'/486, l='ClientLevel', x=273.55, y=-221.63, z=232.68] died, message: 'Villager died'
+[12:41:84] [Server thread/INFO]: Villager byb['Villager'/421, l='ServerLevel[Pretty icy]', x=279.08, y=-268.42, z=222.18] died, message: 'Villager fell out of the world'
+[12:41:84] [Server thread/INFO]: Villager byb['Villager'/422, l='ServerLevel[Pretty icy]', x=279.86, y=-268.42, z=221.83] died, message: 'Villager fell out of the world'
+[12:41:85] [Server thread/INFO]: Villager byb['Villager'/485, l='ServerLevel[Pretty icy]', x=273.83, y=-268.42, z=229.21] died, message: 'Villager fell out of the world'
+[12:41:85] [Server thread/INFO]: Villager byb['Villager'/487, l='ServerLevel[Pretty icy]', x=273.99, y=-268.42, z=230.06] died, message: 'Villager fell out of the world'
+[12:41:85] [Server thread/INFO]: Villager byb['Villager'/488, l='ServerLevel[Pretty icy]', x=274.84, y=-268.42, z=226.72] died, message: 'Villager fell out of the world'
+[12:41:85] [Server thread/INFO]: Villager byb['Nitwit'/489, l='ServerLevel[Pretty icy]', x=274.20, y=-268.42, z=226.74] died, message: 'Nitwit fell out of the world'
+[12:41:85] [Server thread/INFO]: Villager byb['Villager'/490, l='ServerLevel[Pretty icy]', x=282.35, y=-268.42, z=229.23] died, message: 'Villager fell out of the world'
+[12:41:90] [Server thread/INFO]: Villager byb['Villager'/425, l='ServerLevel[Pretty icy]', x=285.69, y=-271.06, z=218.53] died, message: 'Villager fell out of the world'
+[12:41:90] [Server thread/INFO]: Villager byb['Villager'/491, l='ServerLevel[Pretty icy]', x=283.18, y=-271.06, z=230.38] died, message: 'Villager fell out of the world'
+[12:41:91] [Server thread/INFO]: Villager byb['Villager'/497, l='ServerLevel[Pretty icy]', x=274.45, y=-270.12, z=244.72] died, message: 'Villager fell out of the world'
+[12:41:92] [Server thread/INFO]: Villager byb['Nitwit'/498, l='ServerLevel[Pretty icy]', x=274.60, y=-271.06, z=255.05] died, message: 'Nitwit fell out of the world'
+[12:41:93] [Render thread/INFO]: Villager byb['Villager'/421, l='ClientLevel', x=279.08, y=-264.78, z=222.18] died, message: 'Villager died'
+[12:41:93] [Render thread/INFO]: Villager byb['Villager'/422, l='ClientLevel', x=279.86, y=-264.78, z=221.83] died, message: 'Villager died'
+[12:41:93] [Render thread/INFO]: Villager byb['Villager'/485, l='ClientLevel', x=273.83, y=-264.78, z=229.21] died, message: 'Villager died'
+[12:41:93] [Render thread/INFO]: Villager byb['Villager'/487, l='ClientLevel', x=273.99, y=-264.78, z=230.06] died, message: 'Villager died'
+[12:41:93] [Render thread/INFO]: Villager byb['Villager'/488, l='ClientLevel', x=274.84, y=-264.78, z=226.72] died, message: 'Villager died'
+[12:41:93] [Render thread/INFO]: Villager byb['Nitwit'/489, l='ClientLevel', x=274.20, y=-264.78, z=226.74] died, message: 'Nitwit died'
+[12:41:93] [Render thread/INFO]: Villager byb['Villager'/490, l='ClientLevel', x=282.35, y=-264.78, z=229.23] died, message: 'Villager died'
+[12:41:93] [Render thread/INFO]: Villager byb['Villager'/425, l='ClientLevel', x=285.69, y=-263.78, z=218.53] died, message: 'Villager died'
+[12:41:93] [Render thread/INFO]: Villager byb['Villager'/491, l='ClientLevel', x=283.18, y=-263.78, z=230.38] died, message: 'Villager died'
+[12:41:96] [Render thread/INFO]: Villager byb['Villager'/497, l='ClientLevel', x=274.45, y=-262.84, z=244.72] died, message: 'Villager died'
+[12:41:97] [Render thread/INFO]: Villager byb['Nitwit'/498, l='ClientLevel', x=274.60, y=-263.78, z=255.05] died, message: 'Nitwit died'
+[12:42:74] [Server thread/INFO]: Villager byb['Villager'/739, l='ServerLevel[Pretty icy]', x=297.63, y=-271.12, z=246.37] died, message: 'Villager fell out of the world'
+[12:42:75] [Server thread/INFO]: Villager byb['Villager'/742, l='ServerLevel[Pretty icy]', x=290.10, y=-271.06, z=244.44] died, message: 'Villager fell out of the world'
+[12:42:75] [Server thread/INFO]: Villager byb['Villager'/746, l='ServerLevel[Pretty icy]', x=301.24, y=-271.06, z=247.44] died, message: 'Villager fell out of the world'
+[12:42:75] [Render thread/INFO]: Villager byb['Villager'/739, l='ClientLevel', x=297.63, y=-260.21, z=246.37] died, message: 'Villager died'
+[12:42:75] [Render thread/INFO]: Villager byb['Villager'/742, l='ClientLevel', x=290.10, y=-260.15, z=244.44] died, message: 'Villager died'
+[12:42:75] [Render thread/INFO]: Villager byb['Villager'/746, l='ClientLevel', x=301.24, y=-260.15, z=247.44] died, message: 'Villager died'
+[12:42:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18624ms or 372 ticks behind
+[12:42:04] [Server thread/INFO]: Villager byb['Nitwit'/394, l='ServerLevel[Pretty icy]', x=273.82, y=-242.89, z=286.23] died, message: 'Nitwit fell out of the world'
+[12:42:06] [Render thread/INFO]: Villager byb['Nitwit'/394, l='ClientLevel', x=273.82, y=-236.46, z=286.23] died, message: 'Nitwit died'
+[12:42:63] [Server thread/INFO]: Villager byb['Villager'/1164, l='ServerLevel[Pretty icy]', x=312.19, y=-268.42, z=229.75] died, message: 'Villager fell out of the world'
+[12:42:64] [Server thread/INFO]: Villager byb['Villager'/1168, l='ServerLevel[Pretty icy]', x=318.28, y=-268.42, z=237.43] died, message: 'Villager fell out of the world'
+[12:42:65] [Render thread/INFO]: Villager byb['Villager'/1164, l='ClientLevel', x=312.19, y=-261.15, z=229.75] died, message: 'Villager died'
+[12:42:65] [Render thread/INFO]: Villager byb['Villager'/1168, l='ClientLevel', x=318.28, y=-261.15, z=237.43] died, message: 'Villager died'
+[12:42:37] [Server thread/INFO]: Villager byb['Cleric'/453, l='ServerLevel[Pretty icy]', x=280.33, y=-269.60, z=278.96] died, message: 'Cleric fell out of the world'
+[12:42:39] [Render thread/INFO]: Villager byb['Cleric'/453, l='ClientLevel', x=280.18, y=-258.70, z=278.96] died, message: 'Cleric died'
+[12:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4342ms or 86 ticks behind
+[12:42:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[12:43:66] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12:44:61] [Server thread/INFO]: Villager byb['Mason'/392, l='ServerLevel[Pretty icy]', x=199.62, y=-267.11, z=276.19] died, message: 'Mason fell out of the world'
+[12:50:03] [Render thread/INFO]: Loaded 92 advancements
+[12:55:36] [Server thread/INFO]: Saving and pausing game...
+[12:55:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[12:55:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[12:55:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[12:55:10] [Server thread/INFO]: Vicky lost connection: Disconnected
+[12:55:10] [Server thread/INFO]: Vicky left the game
+[12:55:13] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[12:55:16] [Server thread/INFO]: Stopping server
+[12:55:16] [Server thread/INFO]: Saving players
+[12:55:16] [Server thread/INFO]: Saving worlds
+[12:55:86] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[12:55:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[12:55:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[12:55:61] [Server thread/INFO]: ThreadedAnvilChunkStorage (Pretty icy): All chunks are saved
+[12:55:61] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:55:61] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:55:61] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:56:74] [Worker-Main-5/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[12:56:75] [Worker-Main-5/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[12:56:55] [Render thread/INFO]: Loaded 7 recipes
+[12:56:64] [Render thread/INFO]: Loaded 1271 advancements
+[12:56:09] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[12:56:09] [Server thread/INFO]: Generating keypair
+[12:57:71] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:57:69] [Render thread/INFO]: Preparing spawn area: 0%
+[12:57:69] [Render thread/INFO]: Preparing spawn area: 0%
+[12:57:69] [Render thread/INFO]: Preparing spawn area: 0%
+[12:57:69] [Render thread/INFO]: Preparing spawn area: 0%
+[12:57:74] [Render thread/INFO]: Preparing spawn area: 0%
+[12:57:81] [Render thread/INFO]: Preparing spawn area: 0%
+[12:57:81] [Render thread/INFO]: Preparing spawn area: 0%
+[12:57:35] [Render thread/INFO]: Preparing spawn area: 0%
+[12:57:74] [Render thread/INFO]: Preparing spawn area: 0%
+[12:57:23] [Render thread/INFO]: Preparing spawn area: 0%
+[12:57:73] [Render thread/INFO]: Preparing spawn area: 0%
+[12:57:23] [Render thread/INFO]: Preparing spawn area: 15%
+[12:57:73] [Render thread/INFO]: Preparing spawn area: 38%
+[12:57:24] [Render thread/INFO]: Preparing spawn area: 64%
+[12:57:74] [Render thread/INFO]: Preparing spawn area: 86%
+[12:57:98] [Render thread/INFO]: Time elapsed: 7258 ms
+[12:57:05] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:57:05] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[12:57:25] [Server thread/INFO]: Vicky[local:E:32a4d735] logged in with entity id 17442 at (273.0778019678026, 67.99747693251355, 400.36691623292955)
+[12:57:30] [Server thread/INFO]: Vicky joined the game
+[12:57:66] [Render thread/INFO]: Loaded 92 advancements
+[12:57:22] [Server thread/INFO]: Villager byb['Villager'/17141, l='ServerLevel[Pretty icy]', x=240.90, y=-268.20, z=291.10] died, message: 'Villager fell out of the world'
+[12:57:22] [Render thread/INFO]: Villager byb['Villager'/17141, l='ClientLevel', x=240.90, y=-257.32, z=291.10] died, message: 'Villager died'
+[13:00:55] [Server thread/INFO]: Villager byb['Villager'/17381, l='ServerLevel[Pretty icy]', x=277.06, y=-270.06, z=232.02] died, message: 'Villager fell out of the world'
+[13:00:56] [Server thread/INFO]: Villager byb['Villager'/17384, l='ServerLevel[Pretty icy]', x=276.35, y=-270.06, z=231.90] died, message: 'Villager fell out of the world'
+[13:00:56] [Render thread/INFO]: Villager byb['Villager'/17381, l='ClientLevel', x=277.06, y=-259.15, z=232.02] died, message: 'Villager died'
+[13:00:56] [Render thread/INFO]: Villager byb['Villager'/17384, l='ClientLevel', x=276.35, y=-259.15, z=231.90] died, message: 'Villager died'
+[13:00:23] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[13:00:72] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 3.6666666666666665
+[13:00:32] [Render thread/INFO]: textures 'elitra_test_272' was added, skin: false,cape: true, max waiting: 16 ,during : 1265732 
+[13:00:32] [Render thread/INFO]: can use texture size:TEXTURE_136, middle time: 10.7
+[13:00:37] [Server thread/INFO]: Vicky fell out of the world
+[13:00:39] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
+[13:02:05] [Server thread/INFO]: Villager byb['Villager'/17419, l='ServerLevel[Pretty icy]', x=270.73, y=-233.91, z=253.31] died, message: 'Villager fell out of the world'
+[13:02:06] [Render thread/INFO]: Villager byb['Villager'/17419, l='ClientLevel', x=270.74, y=-223.19, z=253.17] died, message: 'Villager died'
+[13:03:44] [Server thread/INFO]: Villager byb['Villager'/17388, l='ServerLevel[Pretty icy]', x=272.95, y=-267.80, z=251.91] died, message: 'Villager fell out of the world'
+[13:03:44] [Render thread/INFO]: Villager byb['Villager'/17388, l='ClientLevel', x=272.95, y=-256.90, z=251.91] died, message: 'Villager died'
+[13:05:85] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[13:07:85] [Render thread/INFO]: Loaded 93 advancements
+[13:16:43] [Server thread/INFO]: Saving and pausing game...
+[13:16:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[13:16:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[13:16:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[13:16:79] [Server thread/INFO]: Vicky lost connection: Disconnected
+[13:16:80] [Server thread/INFO]: Vicky left the game
+[13:16:82] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[13:16:83] [Server thread/INFO]: Stopping server
+[13:16:83] [Server thread/INFO]: Saving players
+[13:16:84] [Server thread/INFO]: Saving worlds
+[13:16:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:overworld
+[13:16:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_end
+[13:16:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Pretty icy]'/minecraft:the_nether
+[13:16:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (Pretty icy): All chunks are saved
+[13:16:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:16:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:16:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:16:09] [Render thread/INFO]: Stopping!
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (79 ms)
+[Launcher] Launcher exited.
+[Launcher] Minecraft closed with exit code: 0
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+flush now

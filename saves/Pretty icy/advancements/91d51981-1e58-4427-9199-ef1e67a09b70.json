@@ -10,6 +10,7 @@
       "minecraft:snowy_slopes": "2023-09-09 20:21:41 +0530",
       "minecraft:deep_ocean": "2023-09-10 09:38:48 +0530",
       "minecraft:beach": "2023-09-09 20:17:51 +0530",
+      "minecraft:sparse_jungle": "2023-09-11 12:50:24 +0530",
       "minecraft:lukewarm_ocean": "2023-09-09 20:25:10 +0530",
       "minecraft:river": "2023-09-09 20:18:38 +0530",
       "minecraft:dripstone_caves": "2023-09-09 20:20:57 +0530",
@@ -309,6 +310,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2023-09-10 11:05:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-09-11 13:07:12 +0530"
     },
     "done": true
   },
