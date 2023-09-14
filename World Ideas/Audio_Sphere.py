@@ -3,18 +3,18 @@ from ursina import *
 from random import randint
 import time
 import librosa
-import os
 
 filename = 'input/Dior.mp3'
 # https://youtu.be/S0nOYs0PRak
 
 y, sr = librosa.load(filename)
+print(y.shape[0] / sr) # duration of audio file in seconds
+
 t1 = int(time.time())
 i=0
 
 app = Ursina()
 camera.position = (5,0,-30)
-# os.startfile(filename)
 
 c=0
 opt_texture = [
@@ -68,7 +68,7 @@ Press and Hold `A` or `D` key ...
     try:
         print(i, sr, y[i], t2-t1)
         cube.scale += (y[i],y[i],y[i])
-        i+=int(sr/45)
+        i+=int(sr*sr/y.shape[0])
     except:
         pass
 
