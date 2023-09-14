@@ -17,15 +17,15 @@ y, sr = save_plot('input/Dior.mp3')
 
 with open('output/Dior.txt', 'w') as f:
     for i, j in enumerate(y[::sr]):
-        # try:
-        #     duration = 1000 # 1 sec
-        #     frequency = int(10000*j)
+        try:
+            duration = 1000 # 1 sec
+            frequency = int(10000*j)
 
-        #     winsound.Beep(frequency, duration)
-        #     print(i, 10000*j)
+            winsound.Beep(frequency, duration)
+            print(i, 10000*j)
 
-        # except:
-        #     pass
+        except:
+            pass
         f.write(f'{j}, ')
 
 print(y[::sr], len(y)/sr, 'seconds')
