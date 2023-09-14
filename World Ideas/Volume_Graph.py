@@ -15,20 +15,21 @@ def save_plot(filename):
 y, sr = save_plot('input/Dior.mp3')
 # https://youtu.be/S0nOYs0PRak
 
+scale = 5000
 with open('output/Dior.txt', 'w') as f:
     for i, j in enumerate(y[::sr]):
         try:
             duration = 1000 # 1 sec
-            frequency = int(10000*j)
+            frequency = scale + int(scale*j)
 
             winsound.Beep(frequency, duration)
-            print(i, 10000*j)
-
         except:
             pass
+
+        print(i, scale*(1 + j))
         f.write(f'{j}, ')
 
-print(y[::sr], len(y)/sr, 'seconds')
+print(len(y)/sr, 'seconds')
 # ValueError: frequency must be in 37 thru 32767
 
 # The variable sr contains the sampling rate of y , 
