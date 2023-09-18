@@ -1,0 +1,5 @@
+Surface stronghold 
+
+Seed: -76284975602489045
+
+/tp @a 2136 -34 839

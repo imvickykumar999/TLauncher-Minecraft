@@ -1,0 +1,24 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-09-18 15:33:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2023-09-18 15:41:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dripstone_caves": "2023-09-18 15:41:20 +0530",
+      "minecraft:flower_forest": "2023-09-18 15:35:27 +0530",
+      "minecraft:meadow": "2023-09-18 15:41:07 +0530",
+      "minecraft:plains": "2023-09-18 15:33:39 +0530"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
