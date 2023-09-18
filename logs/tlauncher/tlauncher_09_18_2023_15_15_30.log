@@ -811,4 +811,666 @@ java.util.zip.ZipException: Not in GZIP format
 [15:33:36] [Render thread/INFO]: Preparing spawn area: 64%
 [15:33:00] [Render thread/INFO]: Preparing spawn area: 66%
 [15:33:33] [Render thread/INFO]: Preparing spawn area: 66%
-[15:33:83] [Render thread/INFO]: Preparing spawn a
+[15:33:83] [Render thread/INFO]: Preparing spawn area: 67%
+[15:33:39] [Render thread/INFO]: Preparing spawn area: 68%
+[15:33:83] [Render thread/INFO]: Preparing spawn area: 68%
+[15:33:33] [Render thread/INFO]: Preparing spawn area: 69%
+[15:33:80] [Render thread/INFO]: Preparing spawn area: 69%
+[15:33:33] [Render thread/INFO]: Preparing spawn area: 70%
+[15:33:00] [Render thread/INFO]: Preparing spawn area: 70%
+[15:33:30] [Render thread/INFO]: Preparing spawn area: 70%
+[15:33:09] [Render thread/INFO]: Preparing spawn area: 71%
+[15:33:09] [Render thread/INFO]: Preparing spawn area: 71%
+[15:33:09] [Render thread/INFO]: Preparing spawn area: 71%
+[15:33:09] [Render thread/INFO]: Preparing spawn area: 71%
+[15:33:09] [Render thread/INFO]: Preparing spawn area: 71%
+[15:33:09] [Render thread/INFO]: Preparing spawn area: 71%
+[15:33:09] [Render thread/INFO]: Preparing spawn area: 71%
+[15:33:09] [Render thread/INFO]: Preparing spawn area: 71%
+[15:33:29] [Render thread/INFO]: Preparing spawn area: 71%
+[15:33:32] [Render thread/INFO]: Preparing spawn area: 71%
+[15:33:82] [Render thread/INFO]: Preparing spawn area: 71%
+[15:33:32] [Render thread/INFO]: Preparing spawn area: 72%
+[15:33:86] [Render thread/INFO]: Preparing spawn area: 73%
+[15:33:32] [Render thread/INFO]: Preparing spawn area: 73%
+[15:33:82] [Render thread/INFO]: Preparing spawn area: 75%
+[15:33:45] [Render thread/INFO]: Preparing spawn area: 76%
+[15:33:82] [Render thread/INFO]: Preparing spawn area: 77%
+[15:33:32] [Render thread/INFO]: Preparing spawn area: 78%
+[15:33:85] [Render thread/INFO]: Preparing spawn area: 80%
+[15:33:38] [Render thread/INFO]: Preparing spawn area: 81%
+[15:33:81] [Render thread/INFO]: Preparing spawn area: 82%
+[15:33:31] [Render thread/INFO]: Preparing spawn area: 83%
+[15:33:81] [Render thread/INFO]: Preparing spawn area: 83%
+[15:33:35] [Render thread/INFO]: Preparing spawn area: 83%
+[15:33:81] [Render thread/INFO]: Preparing spawn area: 84%
+[15:33:40] [Render thread/INFO]: Preparing spawn area: 86%
+[15:33:83] [Render thread/INFO]: Preparing spawn area: 87%
+[15:33:33] [Render thread/INFO]: Preparing spawn area: 89%
+[15:33:83] [Render thread/INFO]: Preparing spawn area: 90%
+[15:33:32] [Render thread/INFO]: Preparing spawn area: 90%
+[15:33:81] [Render thread/INFO]: Preparing spawn area: 91%
+[15:33:45] [Render thread/INFO]: Preparing spawn area: 93%
+[15:33:81] [Render thread/INFO]: Preparing spawn area: 93%
+[15:33:32] [Render thread/INFO]: Preparing spawn area: 95%
+[15:33:84] [Render thread/INFO]: Preparing spawn area: 96%
+[15:33:30] [Render thread/INFO]: Preparing spawn area: 98%
+[15:33:74] [Render thread/INFO]: Time elapsed: 77437 ms
+[15:33:80] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:33:81] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[15:33:01] [Server thread/INFO]: Vicky[local:E:cd99309c] logged in with entity id 2731 at (2.5, 71.0, 28.5)
+[15:33:06] [Server thread/INFO]: Vicky joined the game
+[15:33:03] [Render thread/INFO]: Loaded 2 advancements
+[15:33:42] [Server thread/INFO]: Saving and pausing game...
+[15:33:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[15:33:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[15:33:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[15:33:94] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2867ms or 57 ticks behind
+[15:34:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:35:42] [Server thread/INFO]: [Vicky: Teleported Vicky to 2148.500000, 100.000000, 836.500000]
+[15:35:45] [Render thread/INFO]: [System] [CHAT] Teleported Vicky to 2148.500000, 100.000000, 836.500000
+[15:35:89] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3420ms or 68 ticks behind
+[15:36:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[15:40:77] [Server thread/INFO]: [Vicky: Set own game mode to Spectator Mode]
+[15:40:79] [Render thread/INFO]: [System] [CHAT] Set own game mode to Spectator Mode
+[15:41:25] [Server thread/INFO]: Vicky has made the advancement [Eye Spy]
+[15:41:29] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [Eye Spy]
+[15:41:29] [Render thread/INFO]: Loaded 11 advancements
+[15:42:30] [Server thread/INFO]: [Vicky: Set own game mode to Creative Mode]
+[15:42:30] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[15:45:17] [Server thread/INFO]: [Vicky: Teleported Vicky to 2136.500000, -34.000000, 839.500000]
+[15:45:20] [Render thread/INFO]: [System] [CHAT] Teleported Vicky to 2136.500000, -34.000000, 839.500000
+[15:46:32] [Server thread/INFO]: Saving and pausing game...
+[15:46:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[15:46:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[15:46:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[15:46:22] [Server thread/INFO]: Vicky lost connection: Disconnected
+[15:46:22] [Server thread/INFO]: Vicky left the game
+[15:46:30] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[15:46:34] [Server thread/INFO]: Stopping server
+[15:46:34] [Server thread/INFO]: Saving players
+[15:46:34] [Server thread/INFO]: Saving worlds
+[15:47:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[15:47:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[15:47:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[15:47:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (Exposed Stronghold): All chunks are saved
+[15:47:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:47:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:47:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:48:27] [Worker-Main-4/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[15:48:30] [Worker-Main-4/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[15:48:94] [Render thread/INFO]: Loaded 7 recipes
+[15:48:07] [Render thread/INFO]: Loaded 1271 advancements
+[15:48:11] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[15:48:11] [Server thread/INFO]: Generating keypair
+[15:48:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:48:43] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:43] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:46] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:50] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:53] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:53] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:56] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:56] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:63] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:73] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:76] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:80] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:86] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:86] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:86] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:31] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:56] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:16] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:56] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:09] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:56] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:06] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:56] [Render thread/INFO]: Preparing spawn area: 0%
+[15:48:06] [Render thread/INFO]: Preparing spawn area: 1%
+[15:48:56] [Render thread/INFO]: Preparing spawn area: 9%
+[15:48:06] [Render thread/INFO]: Preparing spawn area: 21%
+[15:48:57] [Render thread/INFO]: Preparing spawn area: 33%
+[15:48:05] [Render thread/INFO]: Preparing spawn area: 37%
+[15:48:56] [Render thread/INFO]: Preparing spawn area: 50%
+[15:48:05] [Render thread/INFO]: Preparing spawn area: 68%
+[15:48:57] [Render thread/INFO]: Preparing spawn area: 87%
+[15:48:77] [Render thread/INFO]: Time elapsed: 15234 ms
+[15:48:84] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:48:84] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[15:48:26] [Server thread/INFO]: Vicky[local:E:7756173b] logged in with entity id 7645 at (2136.5, -34.0, 839.5)
+[15:48:33] [Server thread/INFO]: Vicky joined the game
+[15:49:69] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3424ms or 68 ticks behind
+[15:49:00] [Render thread/INFO]: Loaded 11 advancements
+[15:49:48] [Render thread/INFO]: Loaded 13 advancements
+[15:50:81] [Server thread/INFO]: Vicky has made the advancement [The End?]
+[15:50:83] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [The End?]
+[15:50:90] [Render thread/INFO]: Loaded 19 advancements
+[15:50:87] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:50:87] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[15:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7179ms or 143 ticks behind
+[15:51:66] [Server thread/INFO]: Saving and pausing game...
+[15:51:69] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[15:51:71] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[15:51:72] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[15:55:35] [Render thread/INFO]: Loaded 20 advancements
+[15:55:03] [Server thread/INFO]: Vicky has made the advancement [Take Aim]
+[15:55:06] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [Take Aim]
+[15:55:09] [Render thread/INFO]: Loaded 25 advancements
+[15:58:41] [Server thread/INFO]: Vicky has made the advancement [Monster Hunter]
+[15:58:08] [Server thread/INFO]: Vicky has made the advancement [Free the End]
+[15:58:29] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [Monster Hunter]
+[15:58:43] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [Free the End]
+[15:58:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2966ms or 59 ticks behind
+[15:58:77] [Render thread/INFO]: Loaded 52 advancements
+[15:58:29] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-09-18_15.58.42.png
+[15:59:34] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-09-18_15.59.11.png
+[15:59:40] [Server thread/INFO]: Vicky has made the advancement [Remote Getaway]
+[15:59:41] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [Remote Getaway]
+[15:59:48] [Render thread/INFO]: Loaded 54 advancements
+[16:00:69] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[16:00:16] [Server thread/INFO]: [Vicky: Set own game mode to Spectator Mode]
+[16:00:19] [Render thread/INFO]: [System] [CHAT] Set own game mode to Spectator Mode
+[16:02:61] [Server thread/INFO]: Saving and pausing game...
+[16:02:66] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:02:67] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:02:70] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:02:01] [Server thread/INFO]: [Vicky: Set own game mode to Creative Mode]
+[16:02:04] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[16:05:83] [Render thread/INFO]: [System] [CHAT] Seed: [-76284975602489045]
+[16:05:96] [Server thread/INFO]: Saving and pausing game...
+[16:05:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:05:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:05:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:05:76] [Server thread/INFO]: Saving and pausing game...
+[16:05:83] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:05:83] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:05:84] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:07:88] [Server thread/INFO]: [Vicky: Teleported Vicky to -1604.500000, 10.000000, -1533.500000]
+[16:07:90] [Render thread/INFO]: [System] [CHAT] Teleported Vicky to -1604.500000, 10.000000, -1533.500000
+[16:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4378ms or 87 ticks behind
+[16:08:35] [Render thread/INFO]: Loaded 55 advancements
+[16:08:03] [Render thread/INFO]: Loaded 72 advancements
+[16:08:83] [Server thread/INFO]: Vicky has made the advancement [The City at the End of the Game]
+[16:08:85] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [The City at the End of the Game]
+[16:08:89] [Render thread/INFO]: Loaded 72 advancements
+[16:09:18] [Render thread/INFO]: Loaded 72 advancements
+[16:11:51] [Server thread/INFO]: Saving and pausing game...
+[16:11:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:11:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:11:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:13:27] [Render thread/INFO]: Loaded 73 advancements
+[16:14:68] [Render thread/INFO]: Loaded 84 advancements
+[16:14:52] [Server thread/INFO]: Vicky has made the advancement [Suit Up]
+[16:14:53] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [Suit Up]
+[16:14:57] [Render thread/INFO]: Loaded 88 advancements
+[16:14:98] [Server thread/INFO]: Vicky has made the advancement [Acquire Hardware]
+[16:14:99] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [Acquire Hardware]
+[16:14:02] [Render thread/INFO]: Loaded 114 advancements
+[16:15:71] [Server thread/INFO]: Vicky has reached the goal [Sky's the Limit]
+[16:15:73] [Render thread/INFO]: [System] [CHAT] Vicky has reached the goal [Sky's the Limit]
+[16:15:73] [Render thread/INFO]: Loaded 114 advancements
+[16:16:39] [Server thread/INFO]: [Vicky: Set own game mode to Survival Mode]
+[16:16:39] [Render thread/INFO]: [System] [CHAT] Set own game mode to Survival Mode
+[16:17:29] [Server thread/INFO]: [Vicky: Set own game mode to Creative Mode]
+[16:17:29] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[16:17:48] [Server thread/INFO]: [Vicky: Set own game mode to Survival Mode]
+[16:17:48] [Render thread/INFO]: [System] [CHAT] Set own game mode to Survival Mode
+[16:18:38] [Server thread/INFO]: [Vicky: Set own game mode to Creative Mode]
+[16:18:38] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[16:19:31] [Server thread/INFO]: [Vicky: Set own game mode to Survival Mode]
+[16:19:31] [Render thread/INFO]: [System] [CHAT] Set own game mode to Survival Mode
+[16:20:03] [Server thread/INFO]: [Vicky: Set own game mode to Creative Mode]
+[16:20:03] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[16:21:75] [Server thread/INFO]: [Vicky: Set own game mode to Survival Mode]
+[16:21:75] [Render thread/INFO]: [System] [CHAT] Set own game mode to Survival Mode
+[16:21:05] [Server thread/INFO]: [Vicky: Set own game mode to Creative Mode]
+[16:21:05] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[16:22:26] [Server thread/INFO]: Saving and pausing game...
+[16:22:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:22:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:22:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:22:12] [Server thread/INFO]: Vicky lost connection: Disconnected
+[16:22:12] [Server thread/INFO]: Vicky left the game
+[16:22:15] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:22:16] [Server thread/INFO]: Stopping server
+[16:22:17] [Server thread/INFO]: Saving players
+[16:22:17] [Server thread/INFO]: Saving worlds
+[16:22:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:22:82] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:22:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:22:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (Exposed Stronghold): All chunks are saved
+[16:22:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:22:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:22:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:22:64] [Worker-Main-34/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[16:22:67] [Worker-Main-34/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[16:22:14] [Render thread/INFO]: Loaded 7 recipes
+[16:22:19] [Render thread/INFO]: Loaded 1271 advancements
+[16:23:57] [Render thread/INFO]: Loaded 7 recipes
+[16:23:62] [Render thread/INFO]: Loaded 1271 advancements
+[16:23:28] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[16:23:28] [Server thread/INFO]: Generating keypair
+[16:24:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:24:09] [Render thread/INFO]: Preparing spawn area: 0%
+[16:24:09] [Render thread/INFO]: Preparing spawn area: 0%
+[16:24:09] [Render thread/INFO]: Preparing spawn area: 0%
+[16:24:11] [Render thread/INFO]: Preparing spawn area: 0%
+[16:24:11] [Render thread/INFO]: Preparing spawn area: 0%
+[16:24:11] [Render thread/INFO]: Preparing spawn area: 0%
+[16:24:40] [Render thread/INFO]: Preparing spawn area: 0%
+[16:24:89] [Render thread/INFO]: Preparing spawn area: 0%
+[16:24:41] [Render thread/INFO]: Preparing spawn area: 0%
+[16:24:96] [Render thread/INFO]: Preparing spawn area: 0%
+[16:24:40] [Render thread/INFO]: Preparing spawn area: 0%
+[16:24:89] [Render thread/INFO]: Preparing spawn area: 7%
+[16:24:40] [Render thread/INFO]: Preparing spawn area: 43%
+[16:24:90] [Render thread/INFO]: Preparing spawn area: 75%
+[16:24:40] [Render thread/INFO]: Preparing spawn area: 90%
+[16:24:72] [Render thread/INFO]: Time elapsed: 7335 ms
+[16:24:81] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:24:81] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[16:24:04] [Server thread/INFO]: Vicky[local:E:6bfaa7b9] logged in with entity id 13243 at (-1873.0709289333354, 64.6183497560075, -1262.941765281608)
+[16:24:13] [Server thread/INFO]: Vicky joined the game
+[16:24:54] [Render thread/INFO]: Loaded 114 advancements
+[16:24:94] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[16:24:46] [Server thread/INFO]: Saving and pausing game...
+[16:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:24:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:25:75] [Server thread/INFO]: [Vicky: Teleported Vicky to 2136.500000, -34.000000, 839.500000]
+[16:25:76] [Render thread/INFO]: [System] [CHAT] Teleported Vicky to 2136.500000, -34.000000, 839.500000
+[16:25:32] [Server thread/INFO]: Saving and pausing game...
+[16:25:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:25:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:25:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:25:24] [Server thread/INFO]: Vicky lost connection: Disconnected
+[16:25:24] [Server thread/INFO]: Vicky left the game
+[16:25:27] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:25:30] [Server thread/INFO]: Stopping server
+[16:25:30] [Server thread/INFO]: Saving players
+[16:25:30] [Server thread/INFO]: Saving worlds
+[16:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:25:62] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:25:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (Exposed Stronghold): All chunks are saved
+[16:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:27:63] [Worker-Main-7/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:234)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[16:27:69] [Worker-Main-7/ERROR]: Exception reading C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Android World\level.dat_old
+java.util.zip.ZipException: Not in GZIP format
+	at java.base/java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:165)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79)
+	at java.base/java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91)
+	at rb.b(SourceFile:31)
+	at rb.a(SourceFile:47)
+	at rb.a(SourceFile:42)
+	at dyy.c(SourceFile:340)
+	at dyy.a(SourceFile:297)
+	at dyy.a(SourceFile:242)
+	at dyy.a(SourceFile:195)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+[16:27:14] [Render thread/INFO]: Loaded 7 recipes
+[16:27:22] [Render thread/INFO]: Loaded 1271 advancements
+[16:27:72] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[16:27:72] [Server thread/INFO]: Generating keypair
+[16:28:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:28:70] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:76] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:80] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:93] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:97] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:97] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:97] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:97] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:97] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:97] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:97] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:44] [Render thread/INFO]: Preparing spawn area: 0%
+[16:28:96] [Render thread/INFO]: Preparing spawn area: 6%
+[16:28:45] [Render thread/INFO]: Preparing spawn area: 16%
+[16:28:95] [Render thread/INFO]: Preparing spawn area: 31%
+[16:28:45] [Render thread/INFO]: Preparing spawn area: 40%
+[16:28:34] [Render thread/INFO]: Preparing spawn area: 54%
+[16:28:45] [Render thread/INFO]: Preparing spawn area: 55%
+[16:28:94] [Render thread/INFO]: Preparing spawn area: 57%
+[16:28:46] [Render thread/INFO]: Preparing spawn area: 79%
+[16:28:96] [Render thread/INFO]: Preparing spawn area: 89%
+[16:28:47] [Render thread/INFO]: Time elapsed: 44029 ms
+[16:28:81] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:28:82] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[16:28:81] [Server thread/INFO]: Vicky[local:E:7c76fac3] logged in with entity id 13773 at (2092.960311302765, 94.85188719157868, 907.3582416871534)
+[16:28:09] [Server thread/INFO]: Vicky joined the game
+[16:28:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3799ms or 75 ticks behind
+[16:28:10] [Render thread/INFO]: Loaded 114 advancements
+[16:28:42] [Server thread/INFO]: Saving and pausing game...
+[16:28:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:28:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:28:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:29:87] [Server thread/INFO]: Vicky fell out of the world
+[16:29:88] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
+[16:29:50] [Server thread/INFO]: Saving and pausing game...
+[16:29:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:29:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:29:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:29:88] [Render thread/INFO]: Loaded 114 advancements
+[16:30:89] [Render thread/INFO]: Loaded 114 advancements
+[16:30:90] [Render thread/INFO]: Loaded 114 advancements
+[16:30:35] [Server thread/INFO]: [Vicky: Teleported Vicky to 2136.500000, -34.000000, 839.500000]
+[16:30:36] [Render thread/INFO]: [System] [CHAT] Teleported Vicky to 2136.500000, -34.000000, 839.500000
+[16:31:46] [Render thread/INFO]: Loaded 115 advancements
+[16:32:48] [Render thread/INFO]: Loaded 124 advancements
+[16:32:97] [Render thread/INFO]: Loaded 128 advancements
+[16:32:27] [Render thread/INFO]: Loaded 131 advancements
+[16:33:74] [Server thread/INFO]: Saving and pausing game...
+[16:33:77] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:33:79] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:33:79] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:33:02] [Render thread/INFO]: Loaded 136 advancements
+[16:33:57] [Server thread/INFO]: Vicky has made the advancement [Ice Bucket Challenge]
+[16:33:57] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [Ice Bucket Challenge]
+[16:33:62] [Render thread/INFO]: Loaded 139 advancements
+[16:34:36] [Server thread/INFO]: Saving and pausing game...
+[16:34:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:34:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:34:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:37:73] [Server thread/INFO]: Vicky fell out of the world
+[16:37:74] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
+[16:37:02] [Server thread/INFO]: [Vicky: Set own game mode to Spectator Mode]
+[16:37:03] [Render thread/INFO]: [System] [CHAT] Set own game mode to Spectator Mode
+[16:38:18] [Render thread/INFO]: Loaded 139 advancements
+[16:39:72] [Server thread/INFO]: [Vicky: Teleported Vicky to 2136.500000, -34.000000, 839.500000]
+[16:39:74] [Render thread/INFO]: [System] [CHAT] Teleported Vicky to 2136.500000, -34.000000, 839.500000
+[16:39:93] [Server thread/INFO]: [Vicky: Set own game mode to Creative Mode]
+[16:39:93] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[16:42:98] [Server thread/INFO]: Saving and pausing game...
+[16:42:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:42:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:42:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:42:61] [Server thread/INFO]: Vicky fell out of the world
+[16:42:66] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
+[16:42:96] [Server thread/INFO]: Saving and pausing game...
+[16:42:98] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:42:98] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:42:99] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:42:42] [Server thread/INFO]: [Vicky: Teleported Vicky to 2136.500000, -34.000000, 839.500000]
+[16:42:42] [Render thread/INFO]: [System] [CHAT] Teleported Vicky to 2136.500000, -34.000000, 839.500000
+[16:43:60] [Server thread/INFO]: Vicky has made the advancement [Sweet Dreams]
+[16:43:60] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[16:43:61] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [Sweet Dreams]
+[16:43:62] [Render thread/INFO]: Loaded 139 advancements
+[16:43:78] [Server thread/INFO]: Saving and pausing game...
+[16:43:81] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:43:84] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:43:84] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:44:81] [Server thread/INFO]: Vicky fell out of the world
+[16:44:82] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
+[16:44:79] [Server thread/INFO]: Saving and pausing game...
+[16:44:81] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:44:82] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:44:82] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:45:21] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-09-18_16.45.06.png
+[16:46:42] [Server thread/INFO]: Vicky fell out of the world
+[16:46:42] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
+[16:46:34] [Server thread/INFO]: Saving and pausing game...
+[16:46:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:46:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:46:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:47:77] [Render thread/INFO]: Loaded 143 advancements
+[16:48:14] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-09-18_16.48.11.png
+[16:48:67] [Server thread/INFO]: Vicky fell out of the world
+[16:48:67] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
+[16:48:50] [Server thread/INFO]: Saving and pausing game...
+[16:48:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:48:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:48:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:48:42] [Server thread/INFO]: Vicky fell out of the world
+[16:48:43] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
+[16:49:58] [Render thread/INFO]: Loaded 146 advancements
+[16:51:82] [Server thread/INFO]: Vicky has made the advancement [We Need to Go Deeper]
+[16:51:83] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [We Need to Go Deeper]
+[16:51:87] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
+[16:51:91] [Render thread/INFO]: Loaded 164 advancements
+[16:51:38] [Render thread/INFO]: Loaded 164 advancements
+[16:51:23] [Server thread/INFO]: Vicky has made the advancement [Those Were the Days]
+[16:51:24] [Render thread/INFO]: [System] [CHAT] Vicky has made the advancement [Those Were the Days]
+[16:51:28] [Render thread/INFO]: Loaded 164 advancements
+[16:51:46] [Render thread/WARN]: Received passengers for unknown entity
+[16:52:94] [Render thread/WARN]: Received passengers for unknown entity
+[16:53:13] [Server thread/INFO]: Vicky fell out of the world
+[16:53:13] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
+[16:53:32] [Server thread/INFO]: Saving and pausing game...
+[16:53:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[16:53:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[16:53:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[16:54:22] [Render thread/INFO]: Loaded 165 advancements
+[16:56:67] [Render thread/WARN]: Received passengers for unknown entity
+[16:56:89] [Server thread/INFO]: [Vicky: Set own game mode to Spectator Mode]
+[16:56:90] [Render thread/INFO]: [System] [CHAT] Set own game mode to Spectator Mode
+[16:56:08] [Render thread/WARN]: Received passengers for unknown entity
+[16:57:77] [Render thread/INFO]: Loaded 165 advancements
+[16:57:68] [Render thread/WARN]: Received passengers for unknown entity
+[16:57:35] [Render thread/WARN]: Received passengers for unknown entity
+[16:58:44] [Render thread/INFO]: [System] [CHAT] Saved screenshot as 2023-09-18_16.58.21.png
+[16:58:58] [Render thread/WARN]: Received passengers for unknown entity
+[16:58:14] [Server thread/INFO]: [Vicky: Set own game mode to Creative Mode]
+[16:58:14] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[17:00:63] [Server thread/INFO]: Saving and pausing game...
+[17:00:65] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[17:00:67] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[17:00:68] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[17:00:41] [Server thread/INFO]: Vicky fell out of the world
+[17:00:42] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
+[17:00:50] [Server thread/INFO]: Saving and pausing game...
+[17:00:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[17:00:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[17:00:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[17:00:45] [Server thread/INFO]: Saving and pausing game...
+[17:00:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[17:00:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[17:00:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[17:02:58] [Server thread/INFO]: Saving and pausing game...
+[17:02:60] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[17:02:62] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[17:02:63] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[17:03:56] [Render thread/WARN]: Received passengers for unknown entity
+[17:05:44] [Render thread/INFO]: Loaded 171 advancements
+[17:09:21] [Server thread/INFO]: Saving and pausing game...
+[17:09:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[17:09:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[17:09:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[17:10:02] [Server thread/INFO]: Vicky lost connection: Disconnected
+[17:10:02] [Server thread/INFO]: Vicky left the game
+[17:10:04] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[17:10:09] [Server thread/INFO]: Stopping server
+[17:10:09] [Server thread/INFO]: Saving players
+[17:10:09] [Server thread/INFO]: Saving worlds
+[17:10:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[17:10:98] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[17:10:99] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[17:10:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (Exposed Stronghold): All chunks are saved
+[17:10:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:10:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:10:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:10:13] [Render thread/INFO]: Stopping!
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (221 ms)
+[Launcher] Minecraft closed with exit code: 0
+[Launcher] Launcher exited.
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+flush now
