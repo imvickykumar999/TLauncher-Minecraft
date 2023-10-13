@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 9/30/2023, 14:13:27
+      Time of this report: 10/13/2023, 12:13:59
              Machine name: LAPTOP-HDJL6CHO
                Machine Id: {983D6974-39EE-4C93-92F1-59821168E1BE}
          Operating System: Windows 11 Home Single Language 64-bit (10.0, Build 22631) (22621.ni_release.220506-1250)
@@ -9,10 +9,10 @@ System Information
       System Manufacturer: ASUSTeK COMPUTER INC.
              System Model: TUF Gaming FX505DT
                      BIOS: FX505DT.316 (type: UEFI)
-                Processor: AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx   (8 CPUs), ~2.1GHz
+                Processor: n/a
                    Memory: 8192MB RAM
-      Available OS Memory: 8002MB RAM
-                Page File: 13563MB used, 6726MB available
+      Available OS Memory: 7618MB RAM
+                Page File: 9627MB used, 8229MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -29,6 +29,7 @@ DxDiag Notes
 ------------
       Display Tab 1: No problems found.
       Display Tab 2: No problems found.
+      Display Tab 3: No problems found.
         Sound Tab 1: No problems found.
         Sound Tab 2: No problems found.
         Sound Tab 3: No problems found.
@@ -57,9 +58,9 @@ Display Devices
        Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
  Device Problem Code: No Problem
  Driver Problem Code: Unknown
-      Display Memory: 4113 MB
-    Dedicated Memory: 113 MB
-       Shared Memory: 4000 MB
+      Display Memory: 4306 MB
+    Dedicated Memory: 497 MB
+       Shared Memory: 3808 MB
         Current Mode: 1920 x 1080 (32 bit) (120Hz)
          HDR Support: Not Supported
     Display Topology: Internal
@@ -139,9 +140,9 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
        Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
  Device Problem Code: No Problem
  Driver Problem Code: Unknown
-      Display Memory: 7949 MB
+      Display Memory: 7757 MB
     Dedicated Memory: 3949 MB
-       Shared Memory: 4000 MB
+       Shared Memory: 3808 MB
         Current Mode: Unknown
          HDR Support: Unknown
     Display Topology: Unknown
@@ -178,6 +179,68 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
       Rank Of Driver: 00CF0001
          Video Accel: Unknown
          DXVA2 Modes: {86695F12-340E-4F04-9FD3-9253DD327460}  DXVA2_ModeMPEG2_VLD  {6F3EC719-3735-42CC-8063-65CC3CB36616}  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  {32FCFE3F-DE46-4A49-861B-AC71110649D5}  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  {20BB8B0A-97AA-4571-8E99-64E60606C1A6}  {15DF9B21-06C4-47F1-841E-A67C97D7F312}  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  {9947EC6F-689B-11DC-A320-0019DBBC4184}  {33FCFE41-DE46-4A49-861B-AC71110649D5}  DXVA2_ModeVP9_VLD_Profile0  DXVA2_ModeVP9_VLD_10bit_Profile2  {DDA19DC7-93B5-49F5-A9B3-2BDA28A2CE6E}  {6AFFD11E-1D96-42B1-A215-93A31F09A53D}  {914C84A3-4078-4FA9-984C-E2F262CB5C9C}  
+      Deinterlace Caps: n/a
+        D3D9 Overlay: Unknown
+             DXVA-HD: Unknown
+        DDraw Status: Enabled
+          D3D Status: Enabled
+          AGP Status: Enabled
+       MPO MaxPlanes: 0
+            MPO Caps: Not Supported
+         MPO Stretch: Not Supported
+     MPO Media Hints: Not Supported
+         MPO Formats: Not Supported
+    PanelFitter Caps: Not Supported
+ PanelFitter Stretch: Not Supported
+
+           Card name: spacedesk Graphics Adapter
+        Manufacturer: datronicsoft
+           Chip type: Unknown
+            DAC type: Unknown
+         Device Type: Display-Only Device
+          Device Key: Enum\SWD\{1BAAD4AC-CD9D-4207-B4FF-C4F160604B13}
+       Device Status: 0180600A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_REMOVABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
+ Device Problem Code: No Problem
+ Driver Problem Code: Unknown
+      Display Memory: 4306 MB
+    Dedicated Memory: 497 MB
+       Shared Memory: 3808 MB
+        Current Mode: Unknown
+         HDR Support: Unknown
+    Display Topology: Unknown
+ Display Color Space: Unknown
+     Color Primaries: Unknown
+   Display Luminance: Unknown
+         Driver Name: c:\windows\system32\drivers\umdf\spacedeskdisplayumode1_2.dll,c:\windows\system32\drivers\wudfrd.sys
+ Driver File Version: 1.01.0374.0163 (English)
+      Driver Version: 1.1.374.163
+         DDI Version: 12
+      Feature Levels: 12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
+        Driver Model: WDDM 3.1
+ Hardware Scheduling: DriverSupportState:AlwaysOff Enabled:False 
+         Displayable: Not Supported 
+ Graphics Preemption: DMA
+  Compute Preemption: DMA
+            Miracast: Not Supported by Graphics driver
+      Detachable GPU: No
+ Hybrid Graphics GPU: Not Supported
+      Power P-states: Not Supported
+      Virtualization: Not Supported
+          Block List: DISABLE_HWSCH
+  Catalog Attributes: Universal:False Declarative:True 
+   Driver Attributes: Final Retail
+    Driver Date/Size: 03-01-2023 05:30:00, 134624 bytes
+         WHQL Logo'd: n/a
+     WHQL Date Stamp: n/a
+   Device Identifier: Unknown
+           Vendor ID: 0x1002
+           Device ID: 0x15D8
+           SubSys ID: 0x18F11043
+         Revision ID: 0x00C2
+  Driver Strong Name: oem79.inf:c14ce8840c48fa1f:v3DDKIndirect_1.2_Install.NT:1.1.374.163:VID_DATRONICSOFT_PID_SPACEDESK_VIRTUAL_DISPLAY_0003
+      Rank Of Driver: 00FF0000
+         Video Accel: Unknown
+         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeH264_VLD_NoFGT  {4245F676-2BBC-4166-A0BB-54E7B849C380}  {6719B6FB-5CAD-4ACB-B00A-F3BFDEC38727}  {9901CCD3-CA12-4B7E-867A-E2223D9255C3}  DXVA2_ModeHEVC_VLD_Main  {EA72396A-67EC-4781-BEDE-56F498F04EF2}  {C152CA8F-738C-461B-AD89-FC292CF8F162}  {514A356C-7027-4AFF-8A60-AFD2C1F672F1}  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeVC1_VLD  {CA15D19A-2B48-43D6-979E-7A6E9C802FF8}  {7C74ADC6-E2BA-4ADE-86DE-30BEABB40CC1}  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  {D1C20509-AE7B-4E72-AE3B-49F88D58992F}  {84AD67F6-4C21-419A-9F0B-24F0578906C1}  {725AD240-786C-471E-AD3C-38F739936517}  {95664FF5-9E03-4C74-BB4F-9178D6035E58}  {5EF7D40D-5B96-49E7-B419-23342094A4CF}  DXVA2_ModeHEVC_VLD_Main10  {65D1FA41-58AF-453A-9CAB-5D981156DA9F}  {2DB154B6-DBB2-4079-A3FF-60D7A898A6AB}  {C74A3FD0-D713-4581-A02E-8EDFB112ACE3}  DXVA2_ModeVP9_VLD_Profile0  DXVA2_ModeVP9_VLD_10bit_Profile2  {603A4756-A864-4F91-BB62-2C935B7A1391}  {C58B9A06-7E89-11E1-BB00-70B34824019B}  
       Deinterlace Caps: n/a
         D3D9 Overlay: Unknown
              DXVA-HD: Unknown
@@ -429,7 +492,7 @@ File System: NTFS
       Model: INTEL SSDPEKNW512G8
 
       Drive: C:
- Free Space: 68.0 GB
+ Free Space: 64.2 GB
 Total Space: 485.2 GB
 File System: NTFS
       Model: INTEL SSDPEKNW512G8
@@ -1657,14 +1720,14 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 1264590398982520096, type 5
+Fault bucket 1500667145683793272, type 5
 Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: git.exe
-P2: 2.39.3.1
+P1: TiWorker.exe
+P2: 10.0.22621.2415
 P3: 10.0.22631.2.0.0
 P4: 
 P5: 
@@ -1676,37 +1739,37 @@ P10:
 
 
 +++ WER1 +++:
-Fault bucket 1183135550332403667, type 5
-Event Name: MoAppHang
-Response: Not available
-Cab Id: 1618667054447888719
-
-Problem signature:
-P1: windows.immersivecontrolpanel_10.0.6.1000_neutral_neutral_cw5n1h2txyewy
-P2: praid:microsoft.windows.immersivecontrolpanel
-P3: 10.0.22621.2338
-P4: 3a143f4b
-P5: c3f1
-P6: 2097152
-P7: 
-P8: 
-P9: 
-P10: 
-
-
-+++ WER2 +++:
-Fault bucket , type 0
-Event Name: MoAppHang
+Fault bucket 1413593481205274258, type 5
+Event Name: BEX64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: windows.immersivecontrolpanel_10.0.6.1000_neutral_neutral_cw5n1h2txyewy
-P2: praid:microsoft.windows.immersivecontrolpanel
-P3: 10.0.22621.2338
-P4: 3a143f4b
-P5: c3f1
-P6: 2097152
+P1: DTSAPO3Service.exe
+P2: 0.0.0.0
+P3: 5d6e3459
+P4: ucrtbase.dll
+P5: 10.0.22621.436
+P6: f5fc15a3
+P7: 000000000007f61e
+P8: c0000409
+P9: 0000000000000007
+P10: 
+
+
++++ WER2 +++:
+Fault bucket 1616811498156590200, type 5
+Event Name: RADAR_PRE_LEAK_64
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: WhatsApp.exe
+P2: 0.0.0.0
+P3: 10.0.22631.2.0.0
+P4: 
+P5: 
+P6: 
 P7: 
 P8: 
 P9: 
@@ -1714,33 +1777,33 @@ P10:
 
 
 +++ WER3 +++:
-Fault bucket 1183135550332403667, type 5
-Event Name: MoAppHang
+Fault bucket 2092619008527042416, type 5
+Event Name: MoAppHangXProc
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: windows.immersivecontrolpanel_10.0.6.1000_neutral_neutral_cw5n1h2txyewy
-P2: praid:microsoft.windows.immersivecontrolpanel
-P3: 10.0.22621.2338
-P4: 3a143f4b
-P5: c3f1
-P6: 2097152
-P7: 
-P8: 
-P9: 
+P1: Microsoft.XboxGamingOverlay_6.123.10031.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 6.123.10031.0
+P4: 651cafad
+P5: c701
+P6: 2097216
+P7: Microsoft.GamingApp_2310.1001.66.0_x64__8wekyb3d8bbwe
+P8: praid:Microsoft.Xbox.WidgetsApp
+P9: 2310.1001.66.0
 P10: 
 
 
 +++ WER4 +++:
-Fault bucket 1780800779885369561, type 5
+Fault bucket 2214192241655276091, type 5
 Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: mysqld.exe
-P2: 8.0.32.0
+P1: Ld9BoxHeadless.exe
+P2: 6.1.36.2435
 P3: 10.0.22631.2.0.0
 P4: 
 P5: 
@@ -1752,97 +1815,97 @@ P10:
 
 
 +++ WER5 +++:
-Fault bucket 1852450798939916495, type 5
-Event Name: StoreAgentScanForUpdatesFailure0
+Fault bucket 1643834933313809260, type 4
+Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Update;
-P2: 8024402c
-P3: 22631
-P4: 2338
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
+P1: ROGLiveService.exe
+P2: 2.1.5.0
+P3: 64bf9564
+P4: ROGLiveService.exe
+P5: 2.1.5.0
+P6: 64bf9564
+P7: c0000005
+P8: 00000000000e2fd8
 P9: 
 P10: 
 
 
 +++ WER6 +++:
 Fault bucket , type 0
-Event Name: StoreAgentScanForUpdatesFailure0
+Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Update;
-P2: 8024402c
-P3: 22631
-P4: 2338
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
+P1: ROGLiveService.exe
+P2: 2.1.5.0
+P3: 64bf9564
+P4: ROGLiveService.exe
+P5: 2.1.5.0
+P6: 64bf9564
+P7: c0000005
+P8: 00000000000e2fd8
 P9: 
 P10: 
 
 
 +++ WER7 +++:
-Fault bucket , type 0
-Event Name: StoreAgentScanForUpdatesFailure0
+Fault bucket 1623849553101041667, type 5
+Event Name: CLR20r3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Update;
-P2: 8024402c
-P3: 22631
-P4: 2338
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
-P9: 
+P1: BreeZip.exe
+P2: 0.0.0.0
+P3: 6466f2f4
+P4: WindowsBase
+P5: 4.8.9181.0
+P6: 64b86ebe
+P7: f9a
+P8: 17
+P9: System.InvalidOperationException
 P10: 
 
 
 +++ WER8 +++:
-Fault bucket , type 0
-Event Name: AppHangTransient
+Fault bucket 1623849553101041667, type 5
+Event Name: CLR20r3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: msedge.exe
-P2: 117.0.2045.41
-P3: 650e80b9
-P4: unknown
-P5: unknown
-P6: unknown
-P7: unknown
-P8: 
-P9: 
+P1: BreeZip.exe
+P2: 0.0.0.0
+P3: 6466f2f4
+P4: WindowsBase
+P5: 4.8.9181.0
+P6: 64b86ebe
+P7: f9a
+P8: 17
+P9: System.InvalidOperationException
 P10: 
 
 
 +++ WER9 +++:
-Fault bucket 1852450798939916495, type 5
-Event Name: StoreAgentScanForUpdatesFailure0
+Fault bucket , type 0
+Event Name: CLR20r3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Update;
-P2: 8024402c
-P3: 22631
-P4: 2338
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
-P9: 
+P1: BreeZip.exe
+P2: 0.0.0.0
+P3: 6466f2f4
+P4: WindowsBase
+P5: 4.8.9181.0
+P6: 64b86ebe
+P7: f9a
+P8: 17
+P9: System.InvalidOperationException
 P10: 
 
 
