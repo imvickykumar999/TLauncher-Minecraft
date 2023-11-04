@@ -1,206 +1,211 @@
-[12:14:42] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 1687 milliseconds
-[12:14:46] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:14:47] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
-com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:119) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:91) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:94) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.lambda$get$1(YggdrasilServicesKeyInfo.java:81) ~[authlib-4.0.43.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
-	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[?:?]
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
-	at java.lang.Thread.run(Thread.java:833) ~[?:?]
-Caused by: java.net.UnknownHostException: api.minecraftservices.com
-	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567) ~[?:?]
-	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
-	at java.net.Socket.connect(Socket.java:633) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304) ~[?:?]
-	at sun.net.NetworkClient.doConnect(NetworkClient.java:178) ~[?:?]
-	at sun.net.www.http.HttpClient.openServer(HttpClient.java:498) ~[?:?]
-	at sun.net.www.http.HttpClient.openServer(HttpClient.java:603) ~[?:?]
-	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266) ~[?:?]
-	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380) ~[?:?]
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1287) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128) ~[?:?]
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1665) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
-	at com.mojang.authlib.HttpAuthenticationService.performGetRequest(HttpAuthenticationService.java:140) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:96) ~[authlib-4.0.43.jar:?]
-	... 9 more
-[12:14:47] [Render thread/ERROR]: Failed to verify authentication
-com.mojang.authlib.exceptions.AuthenticationException: com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/player/attributes due to api.minecraftservices.com
-	at com.mojang.authlib.exceptions.MinecraftClientException.toAuthenticationException(MinecraftClientException.java:28) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:160) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[authlib-4.0.43.jar:?]
+[12:06:03] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+[12:06:03] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+[12:06:03] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+[12:06:04] [main/INFO]: Launching wrapped minecraft [net.minecraft.client.main.Main]
+[12:06:11] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 589 milliseconds
+[12:06:14] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:06:14] [Render thread/ERROR]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-4.0.43.1.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:147) ~[authlib-4.0.43.1.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:63) ~[authlib-4.0.43.1.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[authlib-4.0.43.1.jar:?]
 	at enn.a(SourceFile:733) ~[1.20.1.jar:?]
 	at enn.<init>(SourceFile:442) ~[1.20.1.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:211) ~[1.20.1.jar:?]
-Caused by: com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/player/attributes due to api.minecraftservices.com
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:93) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[authlib-4.0.43.jar:?]
-	... 5 more
-Caused by: java.net.UnknownHostException: api.minecraftservices.com
-	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567) ~[?:?]
-	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
-	at java.net.Socket.connect(Socket.java:633) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304) ~[?:?]
-	at sun.net.NetworkClient.doConnect(NetworkClient.java:178) ~[?:?]
-	at sun.net.www.http.HttpClient.openServer(HttpClient.java:498) ~[?:?]
-	at sun.net.www.http.HttpClient.openServer(HttpClient.java:603) ~[?:?]
-	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266) ~[?:?]
-	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380) ~[?:?]
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1287) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128) ~[?:?]
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1665) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
-	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:529) ~[?:?]
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:308) ~[?:?]
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:72) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[authlib-4.0.43.jar:?]
-	... 5 more
-[12:14:47] [Render thread/INFO]: Setting user: Vicky
-[12:14:47] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
-[12:14:51] [Render thread/WARN]: Missing metadata in pack file/Halloween-V1.17.zip
-[12:14:53] [Render thread/INFO]: Reloading ResourceManager: vanilla, file/redstone.zip
-[12:14:53] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
-[12:14:59] [Worker-Main-6/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=east:
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:136) ~[tl_skin_cape_1.20_1.20.1-1.32.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:31) ~[tl_skin_cape_1.20_1.20.1-1.32.jar:?]
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[authlib-4.0.43.1.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.1.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:122) ~[authlib-4.0.43.1.jar:?]
+	... 11 more
+[12:06:14] [Render thread/INFO]: Setting user: Vicky
+[12:06:15] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[12:06:17] [Render thread/WARN]: Missing metadata in pack file/Halloween-V1.17.zip
+[12:06:18] [Render thread/INFO]: Reloading ResourceManager: vanilla, file/redstone.zip
+[12:06:19] [Worker-Main-5/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[12:06:20] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[12:06:23] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=east:
     minecraft:textures/atlas/blocks.png:minecraft:break/hopper
-[12:14:59] [Worker-Main-6/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=north:
+[12:06:23] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=north:
     minecraft:textures/atlas/blocks.png:minecraft:break/hopper
-[12:14:59] [Worker-Main-6/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=south:
+[12:06:23] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=south:
     minecraft:textures/atlas/blocks.png:minecraft:break/hopper
-[12:14:59] [Worker-Main-6/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=down:
+[12:06:23] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=down:
     minecraft:textures/atlas/blocks.png:minecraft:break/hopper
-[12:14:59] [Worker-Main-6/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=west:
+[12:06:23] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=west:
     minecraft:textures/atlas/blocks.png:minecraft:break/hopper
-[12:14:59] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
-[12:14:59] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[12:14:59] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Airdopes 141)
-[12:14:59] [Render thread/INFO]: Sound engine started
-[12:15:00] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[12:15:00] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[12:15:00] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[12:15:00] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[12:15:00] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[12:15:00] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[12:15:00] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[12:15:00] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[12:15:00] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[12:15:01] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[12:15:02] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[12:15:02] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[12:15:02] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[12:15:56] [Render thread/INFO]: Loaded 7 recipes
-[12:15:57] [Render thread/INFO]: Loaded 1271 advancements
-[12:15:59] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
-[12:15:59] [Server thread/INFO]: Generating keypair
-[12:16:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:07] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:08] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:08] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:09] [Render thread/INFO]: Preparing spawn area: 0%
-[12:16:09] [Render thread/INFO]: Preparing spawn area: 66%
-[12:16:10] [Render thread/INFO]: Preparing spawn area: 87%
-[12:16:10] [Render thread/INFO]: Time elapsed: 9682 ms
-[12:16:10] [Server thread/INFO]: Changing view distance to 12, from 10
-[12:16:10] [Server thread/INFO]: Changing simulation distance to 12, from 0
-[12:16:12] [Server thread/INFO]: Vicky[local:E:71b5f8a5] logged in with entity id 1 at (7.457092610789867, 3.1222277429010408, 1.4950241860565725)
-[12:16:13] [Server thread/INFO]: Vicky joined the game
-[12:16:14] [Render thread/WARN]: Ignoring chat session from Vicky due to missing Services public key
-[12:16:14] [Render thread/INFO]: Loaded 2 advancements
-[12:16:14] [Worker-Main-2/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@1c773d10[id=91d51981-1e58-4427-9199-ef1e67a09b70,name=Vicky,properties={},legacy=false]
-com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:119) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:91) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:175) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:51) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:48) ~[authlib-4.0.43.jar:?]
-	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3533) ~[guava-31.1-jre.jar:?]
-	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2282) ~[guava-31.1-jre.jar:?]
-	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2159) ~[guava-31.1-jre.jar:?]
-	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2049) ~[guava-31.1-jre.jar:?]
-	at com.google.common.cache.LocalCache.get(LocalCache.java:3966) ~[guava-31.1-jre.jar:?]
-	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3989) ~[guava-31.1-jre.jar:?]
-	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4950) ~[guava-31.1-jre.jar:?]
-	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4956) ~[guava-31.1-jre.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:149) ~[authlib-4.0.43.jar:?]
-	at enn.V(SourceFile:2507) ~[1.20.1.jar:?]
-	at fvu.a(SourceFile:107) ~[1.20.1.jar:?]
-	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: java.net.UnknownHostException: sessionserver.mojang.com
-	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567) ~[?:?]
-	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
-	at java.net.Socket.connect(Socket.java:633) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304) ~[?:?]
-	at sun.net.NetworkClient.doConnect(NetworkClient.java:178) ~[?:?]
-	at sun.net.www.http.HttpClient.openServer(HttpClient.java:498) ~[?:?]
-	at sun.net.www.http.HttpClient.openServer(HttpClient.java:603) ~[?:?]
-	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266) ~[?:?]
-	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380) ~[?:?]
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1287) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128) ~[?:?]
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1665) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
-	at com.mojang.authlib.HttpAuthenticationService.performGetRequest(HttpAuthenticationService.java:140) ~[authlib-4.0.43.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:96) ~[authlib-4.0.43.jar:?]
-	... 21 more
-[12:16:37] [Server thread/INFO]: Saving and pausing game...
-[12:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Flappy Bird by mattbatwings]'/minecraft:overworld
-[12:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Flappy Bird by mattbatwings]'/minecraft:the_end
-[12:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Flappy Bird by mattbatwings]'/minecraft:the_nether
-[12:16:40] [Render thread/INFO]: Using default channel type
-[12:16:40] [Render thread/INFO]: Started serving on 52892
-[12:16:41] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [52892]
-[12:16:45] [Server thread/INFO]: [Vicky: Set own game mode to Survival Mode]
-[12:16:45] [Render thread/INFO]: [System] [CHAT] Set own game mode to Survival Mode
-[12:19:11] [Server thread/INFO]: [Vicky: Set own game mode to Creative Mode]
-[12:19:11] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
-[12:20:40] [Server thread/INFO]: Vicky fell out of the world
-[12:20:40] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
-[12:21:40] [Server thread/INFO]: Vicky lost connection: Disconnected
-[12:21:40] [Server thread/INFO]: Vicky left the game
-[12:21:40] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[12:21:40] [Server thread/INFO]: Stopping server
-[12:21:40] [Server thread/INFO]: Saving players
-[12:21:40] [Server thread/INFO]: Saving worlds
-[12:21:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Flappy Bird by mattbatwings]'/minecraft:overworld
-[12:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Flappy Bird by mattbatwings]'/minecraft:the_end
-[12:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Flappy Bird by mattbatwings]'/minecraft:the_nether
-[12:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (Flappy Bird by mattbatwings): All chunks are saved
-[12:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[12:21:48] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[12:21:51] [Render thread/INFO]: Stopping!
+[12:06:23] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[12:06:23] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[12:06:23] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Airdopes 141)
+[12:06:23] [Render thread/INFO]: Sound engine started
+[12:06:24] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[12:06:24] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[12:06:24] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[12:06:24] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[12:06:24] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[12:06:24] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[12:06:24] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[12:06:24] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[12:06:24] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[12:06:25] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[12:06:25] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[12:06:25] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[12:06:25] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[12:08:43] [Render thread/INFO]: Loaded 7 recipes
+[12:08:43] [Render thread/INFO]: Loaded 1271 advancements
+[12:08:45] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[12:08:45] [Server thread/INFO]: Generating keypair
+[12:08:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:01] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:02] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:02] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:02] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:02] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:02] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:02] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:02] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:02] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:02] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:02] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:02] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:02] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:03] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:03] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:03] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:04] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:04] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:05] [Render thread/INFO]: Preparing spawn area: 10%
+[12:09:05] [Render thread/INFO]: Preparing spawn area: 34%
+[12:09:06] [Render thread/INFO]: Preparing spawn area: 66%
+[12:09:06] [Render thread/INFO]: Preparing spawn area: 97%
+[12:09:07] [Render thread/INFO]: Time elapsed: 16623 ms
+[12:09:07] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:09:07] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[12:09:11] [Server thread/INFO]: Vicky[local:E:bbc6dfcf] logged in with entity id 112 at (261.3747221375154, 44.0, 64.65755821786438)
+[12:09:12] [Server thread/INFO]: Vicky joined the game
+[12:09:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3115ms or 62 ticks behind
+[12:09:16] [Render thread/INFO]: Loaded 171 advancements
+[12:10:04] [Render thread/WARN]: Received passengers for unknown entity
+[12:10:12] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 4.166666666666667
+[12:10:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2300ms or 46 ticks behind
+[12:10:24] [Server thread/INFO]: Saving and pausing game...
+[12:10:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[12:10:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[12:10:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[12:11:05] [Render thread/INFO]: Loaded 171 advancements
+[12:12:01] [Render thread/ERROR]: error
+java.lang.IllegalStateException: Image is not allocated.
+	at ehk.j(SourceFile:157) ~[1.20.1.jar:?]
+	at ehk.b(SourceFile:409) ~[1.20.1.jar:?]
+	at ehk.a(SourceFile:402) ~[1.20.1.jar:?]
+	at ehk.a(SourceFile:391) ~[1.20.1.jar:?]
+	at ehk.a(SourceFile:387) ~[1.20.1.jar:?]
+	at org.tlauncher.renderer.image.NativeImageWrap.uploadTexture(NativeImageWrap.java:83) ~[tl_skin_cape_1.20_1.20.1-1.32.jar:?]
+	at org.tlauncher.renderer.texture.LightTexture.upload(LightTexture.java:26) ~[tl_skin_cape_1.20_1.20.1-1.32.jar:?]
+	at org.tlauncher.renderer.texture.LightTexture.<init>(LightTexture.java:19) ~[tl_skin_cape_1.20_1.20.1-1.32.jar:?]
+	at org.tlauncher.renderer.texture.FramedTexture.initByOneImage(FramedTexture.java:44) ~[tl_skin_cape_1.20_1.20.1-1.32.jar:?]
+	at org.tlauncher.renderer.TextureManager.fillCape(TextureManager.java:200) ~[tl_skin_cape_1.20_1.20.1-1.32.jar:?]
+	at org.tlauncher.renderer.TextureManager.createFramedTextures(TextureManager.java:146) ~[tl_skin_cape_1.20_1.20.1-1.32.jar:?]
+	at org.tlauncher.TLSkinCape.createTexture(TLSkinCape.java:235) ~[tl_skin_cape_1.20_1.20.1-1.32.jar:?]
+	at org.tlauncher.TLSkinCape.getLocationSkin(TLSkinCape.java:121) ~[tl_skin_cape_1.20_1.20.1-1.32.jar:?]
+	at fiv.d(SourceFile) ~[1.20.1.jar:?]
+	at fjt.a(SourceFile:299) ~[1.20.1.jar:?]
+	at fjt.a(SourceFile:482) ~[1.20.1.jar:?]
+	at fjt.a(SourceFile:399) ~[1.20.1.jar:?]
+	at fjq.a(SourceFile:816) ~[1.20.1.jar:?]
+	at fjq.a(SourceFile:1137) ~[1.20.1.jar:?]
+	at fjq.a(SourceFile:880) ~[1.20.1.jar:?]
+	at enn.f(SourceFile:1219) ~[1.20.1.jar:?]
+	at enn.e(SourceFile:802) ~[1.20.1.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:250) ~[1.20.1.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:136) ~[tl_skin_cape_1.20_1.20.1-1.32.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:31) ~[tl_skin_cape_1.20_1.20.1-1.32.jar:?]
+[12:12:01] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Image is not allocated.
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at ehk.j(SourceFile:157)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at ehk.b(SourceFile:409)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at ehk.a(SourceFile:402)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at ehk.a(SourceFile:391)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at ehk.a(SourceFile:387)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.renderer.image.NativeImageWrap.uploadTexture(NativeImageWrap.java:83)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.renderer.texture.LightTexture.upload(LightTexture.java:26)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.renderer.texture.LightTexture.<init>(LightTexture.java:19)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.renderer.texture.FramedTexture.initByOneImage(FramedTexture.java:44)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.renderer.TextureManager.fillCape(TextureManager.java:200)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.renderer.TextureManager.createFramedTextures(TextureManager.java:146)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.TLSkinCape.createTexture(TLSkinCape.java:235)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.TLSkinCape.getLocationSkin(TLSkinCape.java:121)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at fiv.d(SourceFile)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at fjt.a(SourceFile:299)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at fjt.a(SourceFile:482)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at fjt.a(SourceFile:399)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at fjq.a(SourceFile:816)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at fjq.a(SourceFile:1137)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at fjq.a(SourceFile:880)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at enn.f(SourceFile:1219)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at enn.e(SourceFile:802)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(SourceFile:250)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:136)
+[12:12:01] [Render thread/INFO]: [STDERR]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:31)
+[12:12:01] [Render thread/INFO]: textures 'elitra_test_272' was added, skin: false,cape: true, max waiting: 82 ,during : 357403 
+[12:12:01] [Render thread/INFO]: can use texture size:TEXTURE_272, middle time: 6.6
+[12:12:57] [Render thread/INFO]: Loaded 171 advancements
+[12:13:29] [Render thread/INFO]: Loaded 171 advancements
+[12:14:24] [Render thread/INFO]: Loaded 171 advancements
+[12:14:36] [Server thread/INFO]: Vicky fell out of the world
+[12:14:36] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
+[12:14:48] [Server thread/INFO]: Saving and pausing game...
+[12:14:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[12:14:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[12:14:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[12:16:00] [Server thread/INFO]: Saving and pausing game...
+[12:16:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[12:16:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[12:16:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[12:16:03] [Server thread/INFO]: Saving and pausing game...
+[12:16:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[12:16:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[12:16:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[12:17:48] [Server thread/INFO]: Saving and pausing game...
+[12:17:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[12:17:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[12:17:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[12:17:51] [Server thread/INFO]: Vicky lost connection: Disconnected
+[12:17:51] [Server thread/INFO]: Vicky left the game
+[12:17:51] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[12:17:51] [Server thread/INFO]: Stopping server
+[12:17:51] [Server thread/INFO]: Saving players
+[12:17:51] [Server thread/INFO]: Saving worlds
+[12:17:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[12:17:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[12:17:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[12:17:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Exposed Stronghold): All chunks are saved
+[12:17:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:17:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:17:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:18:04] [Render thread/INFO]: Stopping!

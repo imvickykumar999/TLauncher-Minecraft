@@ -1,0 +1,57 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.893 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 4 Nov, 2023 12:03:34 PM
+Running folder C:\Users\Vicky\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 7617 MB RAM
+java path=C:\Users\Vicky\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx
+ AMD Radeon(TM) Vega 8 Graphics, AMD Radeon Graphics Processor (0x15D8), 4113 MB, NVIDIA GeForce GTX 1650, NVIDIA GeForce GTX 1650, 7949 MB
+-------------------------------------------------------
+Selected locale: en
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+[Updater] Making request: https://repo.tlauncher.org/update/lch/release_update_2.3.json?version=2.893&client=f2d004ad-49e4-438b-9a85-cae4170ae3d1
+[Browser] Loading resources...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 59 / 101 MB
+Garbage collector completed: 21 / 142 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\Vicky\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\Vicky\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[Updater] Request time: 687 ms
+[Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+[Loading] LOADING_WINDOW
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/pages/index_en.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 746 ms.
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/pages/index_en.html during 1
+[Browser@590885022] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/pages/index_en.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: bad
+[Update:2.894] Set state: DOWNLOADING
+[Update:2.894] dest C:\Users\Vicky\AppData\Roaming\.minecraft\TLauncher.exe.update
+[Update:2.894] url: https://securerepository.net/client/TLauncher-2.894.exe
+[Downloader2] Files in queue 1
+[Downloader2] Starting download 1 files...
+[Update:2.894] Set state: READY
+[Double running] clear time label
+[Update:2.894] Set state: APPLYING
+[Bootstrapper] choose jvm for restart:C:\Users\Vicky\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+Good bye!
+[Double running] clear time label
+flush now

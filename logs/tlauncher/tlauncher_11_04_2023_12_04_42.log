@@ -1,0 +1,506 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.894 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 4 Nov, 2023 12:04:43 PM
+Running folder C:\Users\Vicky\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 7617 MB RAM
+java path=C:\Users\Vicky\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx
+ AMD Radeon(TM) Vega 8 Graphics, AMD Radeon Graphics Processor (0x15D8), 4113 MB, NVIDIA GeForce GTX 1650, NVIDIA GeForce GTX 1650, 7949 MB
+-------------------------------------------------------
+Selected locale: en
+Locale fil doesn't contain key button.update.update
+Locale nb_NO doesn't contain key button.update.update
+Locale vi doesn't contain key button.update.update
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+[Updater] Making request: https://repo.tlauncher.org/update/lch/release_update_2.3.json?version=2.894&client=f2d004ad-49e4-438b-9a85-cae4170ae3d1
+[Browser] Loading resources...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 63 / 101 MB
+Garbage collector completed: 21 / 139 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\Vicky\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\Vicky\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[Loading] LOADING_WINDOW
+[Updater] Request time: 703 ms
+[Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/pages/index_en.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 472 ms.
+[Downloader2] Loaded configuration: good
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/pages/index_en.html during 0
+[Browser@1086360754] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/pages/index_en.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/
+Started! (5276 ms.)
+[Loading] SUCCESS
+[TLauncher] show tlauncher!!!
+discrord setting status problem: java.io.FileNotFoundException: \\?\pipe\discord-ipc-0 (The system cannot find the file specified)
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 138 ms.
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new5/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 30000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 159 ms.
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 159 ms.
+[SkinVersionList] Got in 208 ms
+[ExtraVersionList] Got in 345 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 389 ms.
+[OfficialVersionList] Got in 594 ms
+[VersionManager] Versions has been refreshed (732 ms)
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 30000 ms; url: https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+run server on  37842
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 298 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 1069 ms.
+[Double running] clear time label
+AccountComboBox.validte pre game launch username Account{skinType=TLAUNCHER, displayName=Vicky, userid=91d519811e5844279199ef1e67a09b70, uuid=91d519811e5844279199ef1e67a09b70, username=Vicky} FREE
+onAuthPassed
+saved account Account{skinType=TLAUNCHER, displayName=Vicky, userid=91d519811e5844279199ef1e67a09b70, uuid=91d519811e5844279199ef1e67a09b70, username=Vicky}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.894
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary C:\Users\Vicky\AppData\Roaming\.minecraft\mods\(34) How To Install Minecraft Mods (2022) - YouTube.url C:\Users\Vicky\AppData\Roaming\.minecraft\mods\CProgram FilesJavajre1.8.0_351bin.png C:\Users\Vicky\AppData\Roaming\.minecraft\mods\forge-1.20.1-47.2.0-installer.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary C:\Users\Vicky\AppData\Roaming\.minecraft\mods\(34) How To Install Minecraft Mods (2022) - YouTube.url C:\Users\Vicky\AppData\Roaming\.minecraft\mods\CProgram FilesJavajre1.8.0_351bin.png C:\Users\Vicky\AppData\Roaming\.minecraft\mods\forge-1.20.1-47.2.0-installer.jar
+[Launcher] Force update: true
+[Launcher] Selected version: 1.20.1
+[Launcher] Selected account: Account{skinType=TLAUNCHER, displayName=Vicky, userid=91d519811e5844279199ef1e67a09b70, uuid=91d519811e5844279199ef1e67a09b70, username=Vicky}
+[Launcher] Version sync info: VersionSyncInfo{id='1.20.1',
+local=CompleteVersion{id='1.20.1', time=Mon Jun 12 18:55:51 IST 2023, release=Mon Jun 12 18:55:51 IST 2023, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='5', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@403f0693, libraries=[Library{name='ca.weblite:java-objc-bridge:1.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='com.github.oshi:oshi-core:6.2.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:failureaccess:1.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:31.1-jre', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j:71.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:4.0.43', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:blocklist:1.0.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.1.8', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:6.0.8', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:logging:1.1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:patchy:2.2.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.17.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.15', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.11.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-buffer:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-codec:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-common:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-handler:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-resolver:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-classes-epoll:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-epoll:4.1.82.Final:linux-aarch_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-epoll:4.1.82.Final:linux-x86_64', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport-native-unix-common:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-transport:4.1.82.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.5.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna-platform:5.12.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:5.12.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.21', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.12.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.5.13', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.4.15', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.19.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.19.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-slf4j2-impl:2.19.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.joml:joml:1.10.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-linux', rules=[Rule{action=ALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-macos', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-macos-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-windows', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-windows-arm64', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.3.1:natives-windows-x86', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.slf4j:slf4j-api:2.0.1', rules=null, natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.20.1', time=Wed Nov 01 16:47:42 IST 2023, release=Mon Jun 12 18:55:51 IST 2023, type=release, source=OFFICIAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@403f0693}, isInstalled=true, hasRemote=true, isUpToDate=false}
+[REPO][EMPTY] Attempt #1; timeout: 30000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 145 ms.
+[GsonUtil]  request to https://res.tlauncher.org/b/jvm/java_configuration.json
+[Launcher] Checking conditions...
+[Launcher] resourcepacks:Greenfield.Pack.1.20.zip,Halloween-V1.17.zip,redstone.zip,titanic.zip,Water Reflection.zip
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading from repository...
+[REPO][EMPTY] Attempt #1; timeout: 30000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 129 ms.
+[AssetsManager] Fast comparing: false
+[Launcher] finished comparing assets: 18780 ms.
+[TLauncherManager] add required libraries: 1.20.1
+[VersionManager] Required for version 1.20.1: []
+[TLauncherManager] add required libraries: 1.20.1
+used default java runtime
+Minecraft requires java version: 17, java path: C:\Users\Vicky\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\windows\java-runtime-gamma\bin\javaw.exe
+[Downloader2] Files in queue 127
+[Downloader2] Starting download 127 files...
+[D#3] >  done https://resources.download.minecraft.net/58/587b071c8f385fa37e255667b9078f16ab1b53cd 
+[D#2] >  done https://resources.download.minecraft.net/f9/f9c3fc50deb6f42e674cb30d4971659b01d9133a 
+[D#1] >  done https://resources.download.minecraft.net/9f/9f2a645bf980adc2aef1765a1b1ab613ec66e18d 
+[D#2] >  done https://resources.download.minecraft.net/09/09a5abde8b7c02707a5c2ce026b70fe28e9e3197 
+[D#3] >  done https://resources.download.minecraft.net/7b/7bc0eab5cc41d7cefc5c337ae8fb6943e33a5514 
+[D#1] >  done https://resources.download.minecraft.net/85/8587df6f78883faa8525e67eae158c9097e15333 
+[D#2] >  done https://resources.download.minecraft.net/b6/b6a8087f24af3c9315b4b3b1e3227c815dca15c6 
+[D#3] >  done https://resources.download.minecraft.net/b2/b2dafad843d3c29ffdb2312ff3c67bc871afc929 
+[D#1] >  done https://resources.download.minecraft.net/ce/ce20d5760e01e8098b547b6d1cdacb1bd1c6f7fe 
+[D#2] >  done https://resources.download.minecraft.net/4f/4f358a1b33c22c0183d2686c31bda11d136160dc 
+[D#3] >  done https://resources.download.minecraft.net/2b/2b0437823835bd92a171826537ddf7c8ffc2ee03 
+[D#1] >  done https://resources.download.minecraft.net/25/25b6c509cc2bfbd3c5ddd245582be5812a0c683a 
+[D#2] >  done https://resources.download.minecraft.net/67/675f57efa3480f3ab114641c21e4ce02ab636606 
+[D#3] >  done https://resources.download.minecraft.net/3f/3f4e7f1bc35ac659c8554f19d9277fb88d4b37e5 
+[D#1] >  done https://resources.download.minecraft.net/eb/ebb0d15deced4747cf4834f937e784368ec71a9f 
+[D#2] >  done https://resources.download.minecraft.net/d2/d24456fa8b3259b11884167939ace9ea4a0c629b 
+[D#1] >  done https://resources.download.minecraft.net/c2/c2e286c7017c4e3be858b21435fd5ebefbc5bbe2 
+[D#3] >  done https://resources.download.minecraft.net/19/1968408a9846e97a51a7fd41de2a518895b94b29 
+[D#2] >  done https://resources.download.minecraft.net/9e/9ee10f19230819d4fa6be2bb64fc353983ea896c 
+[D#1] >  done https://resources.download.minecraft.net/82/82a510064812cfe310a33496df353a837212cefc 
+[D#3] >  done https://resources.download.minecraft.net/c4/c4d10bac26078990ef8dea4d75e6a01c7286768d 
+[D#1] >  done https://resources.download.minecraft.net/60/60e5da8a4b9c6dad0f68ddbbe0b04c4bbf20eb76 
+[D#2] >  done https://resources.download.minecraft.net/d2/d278fa0d503370008cb5ad9c4e8f2ab6cb017319 
+[D#3] >  done https://resources.download.minecraft.net/ec/ec2fb1e53c2017ae6536c36c7cdd194160e7021c 
+[D#1] >  done https://resources.download.minecraft.net/ae/ae61c5b6a61935153db9ed9f9d0e733c07b41ae6 
+[D#2] >  done https://resources.download.minecraft.net/ea/eae2c2020acca50dee16e928ba21d0ba6828d63d 
+[D#3] >  done https://resources.download.minecraft.net/84/845e67e2bb7838ecd8d9952fa11046d5b77744b3 
+[D#1] >  done https://resources.download.minecraft.net/33/338e1029cdb82012f0d00b68402f657080727337 
+[D#2] >  done https://resources.download.minecraft.net/7d/7d098e51aa3e1ce70892b49f190ce0d903b33b48 
+[D#3] >  done https://resources.download.minecraft.net/4d/4dd863ad5718eda081b4bea677e306f969c1889d 
+[D#2] >  done https://resources.download.minecraft.net/3a/3a28cc881a1e4640b1e3d0ca8896745d28df7306 
+[D#1] >  done https://resources.download.minecraft.net/e0/e0a8cb52e663f6bfd9c117c939852325a632d22f 
+[D#3] >  done https://resources.download.minecraft.net/63/63d0209805808dbb3c4957b27bd0df84a922d729 
+[D#2] >  done https://resources.download.minecraft.net/1a/1a73fa3348c3b2bc8582ba5b44ceba89f030d1ca 
+[D#1] >  done https://resources.download.minecraft.net/91/91411effc7be0a258199646d06f465a5291b8ee7 
+[D#3] >  done https://resources.download.minecraft.net/33/3325ae570211c9b2d9d8b55e97b1cbc94c9d3533 
+[D#2] >  done https://resources.download.minecraft.net/e1/e141f69eeef5234781ee594c80edda5a29a0b2e5 
+[D#1] >  done https://resources.download.minecraft.net/cb/cbf93f2a44ba30f7c4ef8e17286750c3b4c53fe3 
+[D#3] >  done https://resources.download.minecraft.net/3a/3a24977c941a0e9ac7218d4e22988f9a9eca5cb2 
+[D#2] >  done https://resources.download.minecraft.net/2e/2e9c5c41b3a87c2e05d3ced880bc0c7db3b70161 
+[D#1] >  done https://resources.download.minecraft.net/cf/cfad24f01fc622c98d41dcb2bb3f2fa01ef23bfa 
+[D#3] >  done https://resources.download.minecraft.net/1b/1b0c0684ffde08907f2d7e8deb4f22eaff45df6d 
+[D#1] >  done https://resources.download.minecraft.net/fe/fe5d6707ef26721a251c8862d433c48e94744692 
+[D#2] >  done https://resources.download.minecraft.net/f2/f2d47675246fc6359065673cf777bb0f1f612e95 
+[D#3] >  done https://resources.download.minecraft.net/dc/dc8cbf4f432735e05b3f0819ca1668612e6ab647 
+[D#2] >  done https://resources.download.minecraft.net/9b/9b511a98029f80d77407bb55875e71d4503cd5c7 
+[D#1] >  done https://resources.download.minecraft.net/a6/a6f7707316275854a0ffee53318524200d5d4279 
+[D#3] >  done https://resources.download.minecraft.net/00/0091853348cdee42fe920664c0d070190e4c625d 
+[D#1] >  done https://resources.download.minecraft.net/e7/e73c4e4936ad7b8c45db1ff817cf66a2f98ababc 
+[D#2] >  done https://resources.download.minecraft.net/21/213f63d187ae412a4a402c670ee28c7843c74854 
+[D#3] >  done https://resources.download.minecraft.net/25/257ad9f50675f5c0af3f9dc06c973c65681894db 
+[D#1] >  done https://resources.download.minecraft.net/e3/e36ef11c25c35de8f7bfcf673693098fe804545f 
+[D#2] >  done https://resources.download.minecraft.net/16/16ba1aa1efb53da35aa523e474bdc91c268bd222 
+[D#3] >  done https://resources.download.minecraft.net/ca/cac9b0007ac7ceb0a161725643d22ba9a294dcca 
+[D#1] >  done https://resources.download.minecraft.net/2e/2eea532ccb63924a5a44c5df5504dc1340429b18 
+[D#3] >  done https://resources.download.minecraft.net/55/552df39afadfba43a09bb97d27dda871dab359c3 
+[D#2] >  done https://resources.download.minecraft.net/5f/5f610dc765f4a96741b765506523a0c86565bb01 
+[D#3] >  done https://resources.download.minecraft.net/4c/4c3fb9a39ce53c6309daf9bceebd6f40125fed5c 
+[D#1] >  done https://resources.download.minecraft.net/99/9941383bcdc6cf0e2877223d2b5ae36537dbcbf4 
+[D#2] >  done https://resources.download.minecraft.net/41/41f47d1bc25bce5384aaf97828c0d762cdc5e44e 
+[D#3] >  done https://resources.download.minecraft.net/3d/3dc5a9fe22c478a2a1502a99ca8b0378598bfa50 
+[D#1] >  done https://resources.download.minecraft.net/6d/6d2246574e5d75a46f30f5c0315a4ee3dff38954 
+[D#2] >  done https://resources.download.minecraft.net/ff/ff7e192e7d7607986eb7a20da9bcc9b26fd7404b 
+[D#3] >  done https://resources.download.minecraft.net/6c/6c6a624d8843fdddbb28c24b79f8fef97cd02cd2 
+[D#1] >  done https://resources.download.minecraft.net/db/db6c252b77f1d92bb3c8fce8800e087f4deac61f 
+[D#2] >  done https://resources.download.minecraft.net/ee/ee357c92f6011d893f9ec008f191a59f0c7fc3b9 
+[D#1] >  done https://resources.download.minecraft.net/8c/8cab44f6ebfd8330ae6a8b5a13f21e7faac56f00 
+[D#3] >  done https://resources.download.minecraft.net/ad/ad2ce5f20f205f9593766b22f705500c786dfd13 
+[D#2] >  done https://resources.download.minecraft.net/58/58fb2fbb341f0473ab171cffd8f485cc43b30f68 
+[D#3] >  done https://resources.download.minecraft.net/cc/ccadd768f3db486fd268637bc827c016f218e8df 
+[D#1] >  done https://resources.download.minecraft.net/4f/4f2ba12bfed3a71b59e47e224201ca74f8d19f98 
+[D#2] >  done https://resources.download.minecraft.net/c8/c876b58a13141045e9e7d611a79deedf0b165c8c 
+[D#3] >  done https://resources.download.minecraft.net/f0/f074f718831099b64cdafbc0cab15b07481be05b 
+[D#1] >  done https://resources.download.minecraft.net/94/94edc85a1ffeab32ed05d71b6841b351304dcb4b 
+[D#2] >  done https://resources.download.minecraft.net/b9/b9be3be7b974971244837e6e27d3a438e4c1a21b 
+[D#1] >  done https://resources.download.minecraft.net/4f/4fc3fe3ab3de1e5118343c9a7106a6c12e165672 
+[D#3] >  done https://resources.download.minecraft.net/37/3778d4679d06bdc07fb561a5f7d365bc53d2415c 
+[D#2] >  done https://resources.download.minecraft.net/ec/eca2fb0deb8ae24a1a28bb5f95ac1a44a0ce9bf3 
+[D#1] >  done https://resources.download.minecraft.net/96/96c5e784f60bb4106f6982bf3d7e25efbe9b99dc 
+[D#3] >  done https://resources.download.minecraft.net/6b/6b266f781626f6feebd15a0ca9bd8d4da68c4e6f 
+[D#2] >  done https://resources.download.minecraft.net/83/83f51cc2e5c79f4d7380c4eee8948452425756b3 
+[D#1] >  done https://resources.download.minecraft.net/be/be6d64c7b7d9caa488fc8252dc3b832bdde5b5da 
+[D#3] >  done https://resources.download.minecraft.net/bd/bd8be67c71676f6e4374e869bc1d38a94c6c7bbf 
+[D#2] >  done https://resources.download.minecraft.net/c3/c35c2018566dc1fa47f589c51b77b6945ecdc306 
+[D#3] >  done https://resources.download.minecraft.net/05/052a07faa2e20aa04db9a574b57f4d7520f3a9a6 
+[D#1] >  done https://resources.download.minecraft.net/0e/0e0c121a4a757fffe107540adbd8dfffeb2d0c48 
+[D#2] >  done https://resources.download.minecraft.net/0b/0b4406caab2a7a8c92841247ed91f64f12eed07e 
+[D#3] >  done https://resources.download.minecraft.net/f2/f252aa0f1153294a379764b09dd20b19ddb209a7 
+[D#1] >  done https://resources.download.minecraft.net/e9/e977de0d09eaac77eac4ae2257a34f19e113b32e 
+[D#2] >  done https://resources.download.minecraft.net/07/079fe2fdfdb3c7fd22c340ab532b7145e72800d0 
+[D#3] >  done https://resources.download.minecraft.net/c6/c6c0501b31e00bc2971de2de3e3c9b95afd5b071 
+[D#1] >  done https://resources.download.minecraft.net/63/63aa7bfade4f59a6d8c0fc5364fedd925c4a51f8 
+[D#3] >  done https://resources.download.minecraft.net/67/67e0d34a35ccb8faf8a5d499e77806fc4294f04b 
+[D#2] >  done https://resources.download.minecraft.net/73/73dffe4b7d37fb6596b4f5beb7aaac123ea28d2d 
+[D#1] >  done https://resources.download.minecraft.net/83/831afe18af50fbed93b24942cf271591743e0e73 
+[D#3] >  done https://resources.download.minecraft.net/9c/9c0387d271a9e7da36a9676b816b900610354325 
+[D#2] >  done https://resources.download.minecraft.net/22/22fb34e127be7de6961d7cdcf4fcacaebe3365aa 
+[D#1] >  done https://resources.download.minecraft.net/28/28c62a42f68c484715ccd2d5d2f1e4428120ab07 
+[D#2] >  done https://resources.download.minecraft.net/9a/9a88a2d2a9c22b63365495bafe72895ee6e515d1 
+[D#3] >  done https://resources.download.minecraft.net/8e/8e942db29937f47baf7b66ffae01a5b3681e68f9 
+[D#1] >  done https://resources.download.minecraft.net/64/64ec90112b4c495c7d11582903a3098868c768b4 
+[D#2] >  done https://resources.download.minecraft.net/ed/eda1c48d1bb255ff14bf1e5f2e78a9f35fb30839 
+[D#1] >  done https://resources.download.minecraft.net/80/8030ee82f8d4189691fd22fdffcde1d01f94f726 
+[D#3] >  done https://resources.download.minecraft.net/4f/4f96c8d379191f95f05c28576736d0cf4bbd8675 
+[D#2] >  done https://resources.download.minecraft.net/d3/d38fe94f7b786dc956ba9279b3eec8ee7601e45e 
+[D#1] >  done https://resources.download.minecraft.net/18/1836cb9307f3946e2b903503779dd6669015a078 
+[D#3] >  done https://resources.download.minecraft.net/aa/aaeecd6e9a7f942a6df8fe4e088a8dec119b6c24 
+[D#2] >  done https://resources.download.minecraft.net/35/35220f15827428911ba47f74558552201d6de0c7 
+[D#1] >  done https://resources.download.minecraft.net/4f/4fb182525745b36a6e00f88eaa2d7cbb9bb10682 
+[D#2] >  done https://resources.download.minecraft.net/ab/ab71302aa7fd79d588cda6fa909af9d0ff6b369e 
+[D#3] >  done https://resources.download.minecraft.net/b4/b4b1c71e3486935dcdee39f746913e0ab8b63e87 
+[D#1] >  done https://resources.download.minecraft.net/2b/2b9cd3acc0a26fe897a4af1c2c18456e76f4c1cb 
+[D#2] >  done https://resources.download.minecraft.net/7e/7e4d4d2dd26b9172405df44fef67e8b772758cb5 
+[D#3] >  done https://resources.download.minecraft.net/91/91745789bfbbbad6c4c51ed6d7969c3be95871d4 
+[D#2] >  done https://resources.download.minecraft.net/87/8707a0090472bdb2242d7fe3c91124b4769da31c 
+[D#1] >  done https://resources.download.minecraft.net/da/da1a50c11a585d3f63887691b7385af774bc4d15 
+[D#3] >  done https://resources.download.minecraft.net/33/3320f3423e33633fd1f9568fbf3d235c412ae540 
+[D#2] >  done https://resources.download.minecraft.net/73/738c7a2036afc3522dfe6070920936dc143b4689 
+[D#1] >  done https://resources.download.minecraft.net/1b/1b7e521fb2666b38a90fb95f8c92003f8512c817 
+[D#3] >  done https://resources.download.minecraft.net/dd/dd273f3d82f695b80d8e3511936f993fccb120b0 
+[D#2] >  done https://resources.download.minecraft.net/b6/b6a1a30e7cac57cdce4c722fa6c0164064be7484 
+[D#3] >  done https://resources.download.minecraft.net/c5/c545017c319f2c300b8acecbb14b9d198a2cb4d1 
+[D#1] >  done https://resources.download.minecraft.net/b1/b1ba15a34e00db326af34e0368a77a8140aa2874 
+[D#2] >  done https://resources.download.minecraft.net/37/372b7b5ad87cc2ad955d37761213d9d008bc4034 
+[D#1] >  done https://resources.download.minecraft.net/ec/ec0a8602371524c109babaa6f0636c883070d37f 
+[D#3] >  done https://resources.download.minecraft.net/bc/bc0ced78ecda135cdf4025798c04d3850f8ecc94 
+[D#1] >  done https://resources.download.minecraft.net/6d/6d20059360ea271460e8845d3717b8c9607128f3 
+library will be replaced: com.mojang:authlib:4.0.43 -> org.tlauncher:authlib:4.0.43.1
+library will be replaced: com.mojang:patchy:2.2.10 -> org.tlauncher:patchy:2.2.10
+[TLauncherManager] library will be added as required: io.github.classgraph:classgraph:4.8.110
+[TLauncherManager] library will be added as required: org.ow2.asm:asm:9.1
+[TLauncherManager] library will be added as required: org.ow2.asm:asm-commons:9.1
+[TLauncherManager] library will be added as required: org.ow2.asm:asm-tree:9.1
+[TLauncherManager] library will be added: org.tlauncher:tl_skin_cape_1.20_1.20.1:1.32
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+backup world is active: false
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: C:\Users\Vicky\AppData\Roaming\.minecraft\runtime\java-runtime-gamma\windows\java-runtime-gamma\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Users\Vicky\AppData\Roaming\.minecraft\versions\1.20.1\natives -Djna.tmpdir=C:\Users\Vicky\AppData\Roaming\.minecraft\versions\1.20.1\natives -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\Vicky\AppData\Roaming\.minecraft\versions\1.20.1\natives -Dio.netty.native.workdir=C:\Users\Vicky\AppData\Roaming\.minecraft\versions\1.20.1\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.3.173 -cp C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\tlauncher\tl_skin_cape_1.20_1.20.1\1.32\tl_skin_cape_1.20_1.20.1-1.32.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\github\classgraph\classgraph\4.8.110\classgraph-4.8.110.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\github\oshi\oshi-core\6.2.2\oshi-core-6.2.2.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\4.0.43.1\authlib-4.0.43.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.1.8\brigadier-1.1.8.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\6.0.8\datafixerupper-6.0.8.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\mojang\logging\1.1.1\logging-1.1.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\tlauncher\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-buffer\4.1.82.Final\netty-buffer-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-codec\4.1.82.Final\netty-codec-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-common\4.1.82.Final\netty-common-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-handler\4.1.82.Final\netty-handler-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-resolver\4.1.82.Final\netty-resolver-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.82.Final\netty-transport-classes-epoll-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.82.Final\netty-transport-native-unix-common-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\io\netty\netty-transport\4.1.82.Final\netty-transport-4.1.82.Final.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.9\fastutil-8.5.9.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.19.0\log4j-slf4j2-impl-2.19.0.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\libraries\org\slf4j\slf4j-api\2.0.1\slf4j-api-2.0.1.jar;C:\Users\Vicky\AppData\Roaming\.minecraft\versions\1.20.1\1.20.1.jar --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\Vicky\AppData\Roaming\.minecraft -Dlog4j.configurationFile=C:\Users\Vicky\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml net.minecraft.launchwrapper.Launch --username Vicky --version 1.20.1 --gameDir C:\Users\Vicky\AppData\Roaming\.minecraft --assetsDir C:\Users\Vicky\AppData\Roaming\.minecraft\assets --assetIndex 5 --uuid 91d519811e5844279199ef1e67a09b70 --accessToken null --clientId null --xuid null --userType mojang --versionType release --width 925 --height 530 --tweakClass org.tlauncher.tweaker.Tweaker
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after C:\Users\Vicky\AppData\Roaming\.minecraft\mods\(34) How To Install Minecraft Mods (2022) - YouTube.url C:\Users\Vicky\AppData\Roaming\.minecraft\mods\CProgram FilesJavajre1.8.0_351bin.png C:\Users\Vicky\AppData\Roaming\.minecraft\mods\forge-1.20.1-47.2.0-installer.jar
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=Minecraft Server, address=top.twerion.net, ip=top.twerion.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=play.ragnarockmc.in, ip=play.ragnarockmc.in, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=bwhub.net, ip=bwhub.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=as.azerithmc.com, ip=as.azerithmc.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=play.endermc.fun, ip=play.endermc.fun, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=jenominers.de, ip=jenominers.de, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=play.fourleafsea.xyz, ip=play.fourleafsea.xyz, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=play.wondercraft.fun, ip=play.wondercraft.fun, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=play.exoticnetwork.in, ip=play.exoticnetwork.in, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=play.minetop.fun, ip=play.minetop.fun, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=tms.chickencraft.nl, ip=tms.chickencraft.nl, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=nationsglory.com, ip=nationsglory.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=top.ultimis.net, ip=top.ultimis.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=herobrine.org, ip=herobrine.org, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=armamc.com, ip=armamc.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Minecraft Server, address=127.0.0.1, ip=127.0.0.1, port=null, hideAddress=false, acceptTextures=0)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Game skin type: TLAUNCHER
+[Launcher] Starting Minecraft 1.20.1...
+[Launcher] Launching in: C:\Users\Vicky\AppData\Roaming\.minecraft
+Starting garbage collector: 184 / 372 MB
+Garbage collector completed: 45 / 372 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[12:06:08] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+[12:06:10] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+[12:06:10] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+Log Path: C:\Users\Vicky\AppData\Roaming\.minecraft\.\tlLoader\Tweaker.log
+[main INFO] Using Tweaker
+[main INFO] Tweaker: acceptOptions
+[main INFO] Tweaker: injectIntoClassLoader
+[Injection] Injection Class Transformer started
+[TLSkinCape] Current TLSkinCape version is 1.32
+[TLSkinCape] Current Minecraft version is 1.20.
+[main INFO] Loaded as a library.
+[Injection] Injection into euw ended successfully with 1 injections.
+[Injection] Injection into fiv ended successfully with 1 injections.
+2023-11-04 12:06:03,813 main WARN Error parsing URI C:\Users\Vicky\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml
+[main INFO] Tweaker: getLaunchArguments
+[main INFO] Tweaker: getLaunchTarget
+[Injection] Injection into net.minecraft.client.main.Main ended successfully with 1 injections.
+[12:06:04] [main/INFO]: Launching wrapped minecraft [net.minecraft.client.main.Main]
+[Injection] Injection into enn ended successfully with 1 injections.
+[12:06:98] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 589 milliseconds
+[12:06:06] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:06:89] [Render thread/ERROR]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56)
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:147)
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:63)
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124)
+	at enn.a(SourceFile:733)
+	at enn.<init>(SourceFile:442)
+	at net.minecraft.client.main.Main.main(SourceFile:211)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:136)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:31)
+Caused by: MinecraftClientHttpException[type=HTTP_ERROR, status=401, response=ErrorResponse[path='/player/attributes', error='null', details=null, errorMessage='null']]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48)
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:122)
+	... 11 more
+
+[12:06:93] [Render thread/INFO]: Setting user: Vicky
+[12:06:11] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[12:06:71] [Render thread/WARN]: Missing metadata in pack file/Halloween-V1.17.zip
+[12:06:77] [Render thread/INFO]: Reloading ResourceManager: vanilla, file/redstone.zip
+[12:06:06] [Worker-Main-5/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[12:06:30] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[12:06:53] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=east:
+    minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[12:06:53] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=north:
+    minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[12:06:53] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=south:
+    minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[12:06:54] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=down:
+    minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[12:06:54] [Worker-Main-2/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=west:
+    minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[12:06:73] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[12:06:73] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[12:06:80] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Airdopes 141)
+[12:06:80] [Render thread/INFO]: Sound engine started
+[12:06:05] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[12:06:08] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[12:06:09] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[12:06:09] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[12:06:09] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[12:06:10] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[12:06:13] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[12:06:14] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[12:06:14] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Injection] Injection into fck ended successfully with 1 injections.
+[12:06:24] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[12:06:32] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[12:06:33] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[12:06:33] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[12:08:24] [Render thread/INFO]: Loaded 7 recipes
+[12:08:62] [Render thread/INFO]: Loaded 1271 advancements
+[12:08:12] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[12:08:12] [Server thread/INFO]: Generating keypair
+[12:08:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:09:20] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:23] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:32] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:37] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:39] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:46] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:51] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:58] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:63] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:89] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:91] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:94] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:96] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:00] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:09] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:14] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:18] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:23] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:27] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:30] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:30] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:30] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:42] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:44] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:48] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:08] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:50] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:98] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:72] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:99] [Render thread/INFO]: Preparing spawn area: 0%
+[12:09:51] [Render thread/INFO]: Preparing spawn area: 10%
+[12:09:97] [Render thread/INFO]: Preparing spawn area: 34%
+[12:09:46] [Render thread/INFO]: Preparing spawn area: 66%
+[12:09:98] [Render thread/INFO]: Preparing spawn area: 97%
+[12:09:09] [Render thread/INFO]: Time elapsed: 16623 ms
+[12:09:59] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:09:59] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[12:09:87] [Server thread/INFO]: Vicky[local:E:bbc6dfcf] logged in with entity id 112 at (261.3747221375154, 44.0, 64.65755821786438)
+[12:09:27] [Server thread/INFO]: Vicky joined the game
+[12:09:65] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3115ms or 62 ticks behind
+[12:09:13] [Render thread/INFO]: Loaded 171 advancements
+[12:10:25] [Render thread/WARN]: Received passengers for unknown entity
+[12:10:75] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 4.166666666666667
+[12:10:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2300ms or 46 ticks behind
+[12:10:64] [Server thread/INFO]: Saving and pausing game...
+[12:10:74] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[12:10:81] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[12:10:81] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[12:11:52] [Render thread/INFO]: Loaded 171 advancements
+[12:12:65] [Render thread/ERROR]: error
+java.lang.IllegalStateException: Image is not allocated.
+	at ehk.j(SourceFile:157)
+	at ehk.b(SourceFile:409)
+	at ehk.a(SourceFile:402)
+	at ehk.a(SourceFile:391)
+	at ehk.a(SourceFile:387)
+	at org.tlauncher.renderer.image.NativeImageWrap.uploadTexture(NativeImageWrap.java:83)
+	at org.tlauncher.renderer.texture.LightTexture.upload(LightTexture.java:26)
+	at org.tlauncher.renderer.texture.LightTexture.<init>(LightTexture.java:19)
+	at org.tlauncher.renderer.texture.FramedTexture.initByOneImage(FramedTexture.java:44)
+	at org.tlauncher.renderer.TextureManager.fillCape(TextureManager.java:200)
+	at org.tlauncher.renderer.TextureManager.createFramedTextures(TextureManager.java:146)
+	at org.tlauncher.TLSkinCape.createTexture(TLSkinCape.java:235)
+	at org.tlauncher.TLSkinCape.getLocationSkin(TLSkinCape.java:121)
+	at fiv.d(SourceFile)
+	at fjt.a(SourceFile:299)
+	at fjt.a(SourceFile:482)
+	at fjt.a(SourceFile:399)
+	at fjq.a(SourceFile:816)
+	at fjq.a(SourceFile:1137)
+	at fjq.a(SourceFile:880)
+	at enn.f(SourceFile:1219)
+	at enn.e(SourceFile:802)
+	at net.minecraft.client.main.Main.main(SourceFile:250)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:136)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:31)
+
+[12:12:72] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Image is not allocated.
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at ehk.j(SourceFile:157)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at ehk.b(SourceFile:409)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at ehk.a(SourceFile:402)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at ehk.a(SourceFile:391)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at ehk.a(SourceFile:387)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.renderer.image.NativeImageWrap.uploadTexture(NativeImageWrap.java:83)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.renderer.texture.LightTexture.upload(LightTexture.java:26)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.renderer.texture.LightTexture.<init>(LightTexture.java:19)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.renderer.texture.FramedTexture.initByOneImage(FramedTexture.java:44)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.renderer.TextureManager.fillCape(TextureManager.java:200)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.renderer.TextureManager.createFramedTextures(TextureManager.java:146)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.TLSkinCape.createTexture(TLSkinCape.java:235)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at org.tlauncher.TLSkinCape.getLocationSkin(TLSkinCape.java:121)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at fiv.d(SourceFile)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at fjt.a(SourceFile:299)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at fjt.a(SourceFile:482)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at fjt.a(SourceFile:399)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at fjq.a(SourceFile:816)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at fjq.a(SourceFile:1137)
+[12:12:72] [Render thread/INFO]: [STDERR]: 	at fjq.a(SourceFile:880)
+[12:12:73] [Render thread/INFO]: [STDERR]: 	at enn.f(SourceFile:1219)
+[12:12:73] [Render thread/INFO]: [STDERR]: 	at enn.e(SourceFile:802)
+[12:12:73] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(SourceFile:250)
+[12:12:73] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[12:12:73] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[12:12:73] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[12:12:73] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[12:12:73] [Render thread/INFO]: [STDERR]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:136)
+[12:12:73] [Render thread/INFO]: [STDERR]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:31)
+[12:12:73] [Render thread/INFO]: textures 'elitra_test_272' was added, skin: false,cape: true, max waiting: 82 ,during : 357403 
+[12:12:74] [Render thread/INFO]: can use texture size:TEXTURE_272, middle time: 6.6
+[12:12:66] [Render thread/INFO]: Loaded 171 advancements
+[12:13:63] [Render thread/INFO]: Loaded 171 advancements
+[12:14:61] [Render thread/INFO]: Loaded 171 advancements
+[12:14:82] [Server thread/INFO]: Vicky fell out of the world
+[12:14:84] [Render thread/INFO]: [System] [CHAT] Vicky fell out of the world
+[12:14:69] [Server thread/INFO]: Saving and pausing game...
+[12:14:73] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[12:14:77] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[12:14:79] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[12:16:66] [Server thread/INFO]: Saving and pausing game...
+[12:16:69] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[12:16:70] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[12:16:71] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[12:16:56] [Server thread/INFO]: Saving and pausing game...
+[12:16:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[12:16:61] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[12:16:62] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[12:17:39] [Server thread/INFO]: Saving and pausing game...
+[12:17:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[12:17:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[12:17:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[12:17:15] [Server thread/INFO]: Vicky lost connection: Disconnected
+[12:17:15] [Server thread/INFO]: Vicky left the game
+[12:17:17] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[12:17:19] [Server thread/INFO]: Stopping server
+[12:17:19] [Server thread/INFO]: Saving players
+[12:17:19] [Server thread/INFO]: Saving worlds
+[12:17:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:overworld
+[12:17:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_end
+[12:17:92] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Exposed Stronghold]'/minecraft:the_nether
+[12:17:94] [Server thread/INFO]: ThreadedAnvilChunkStorage (Exposed Stronghold): All chunks are saved
+[12:17:94] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:17:94] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:17:94] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:18:10] [Render thread/INFO]: Stopping!
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (60 ms)
+[Launcher] Minecraft closed with exit code: 0
+[Launcher] Launcher exited.
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary C:\Users\Vicky\AppData\Roaming\.minecraft\mods\(34) How To Install Minecraft Mods (2022) - YouTube.url C:\Users\Vicky\AppData\Roaming\.minecraft\mods\CProgram FilesJavajre1.8.0_351bin.png C:\Users\Vicky\AppData\Roaming\.minecraft\mods\forge-1.20.1-47.2.0-installer.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary C:\Users\Vicky\AppData\Roaming\.minecraft\mods\(34) How To Install Minecraft Mods (2022) - YouTube.url C:\Users\Vicky\AppData\Roaming\.minecraft\mods\CProgram FilesJavajre1.8.0_351bin.png C:\Users\Vicky\AppData\Roaming\.minecraft\mods\forge-1.20.1-47.2.0-installer.jar
+flush now
