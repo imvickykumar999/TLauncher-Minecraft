@@ -1,0 +1,71 @@
+
+-------------------------------------------------------------------
+[Downloader2] Loaded configuration: normal
+[Bootstrapper] createLauncher
+[Bootstrapper] choose jvm:C:\Users\Vicky\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+[Bootstrapper] validate files
+[Bootstrapper] end validated files
+[Bootstrapper] Starting launcher...
+[Double running] clear time label
+> Loading configuration from file: C:\Users\Vicky\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+> [Configuration] Constant values: {}
+> [Loading] INITIALIZING
+> Starting TLauncher 2.894 RELEASE
+> For more information, visit https://tlauncher.org/
+> Startup time: 15 Nov, 2023 2:36:07 PM
+> Running folder C:\Users\Vicky\AppData\Roaming\.minecraft
+> ---
+> [Loading] LOADING_CONFIGURATION
+> Machine info: -------------------------------------------------------
+> Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 7617 MB RAM
+> java path=C:\Users\Vicky\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+> AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx
+>  AMD Radeon(TM) Vega 8 Graphics, AMD Radeon Graphics Processor (0x15D8), 4306 MB, NVIDIA GeForce GTX 1650, NVIDIA GeForce GTX 1650, 7757 MB
+> -------------------------------------------------------
+> Selected locale: en
+> Locale fil doesn't contain key button.update.update
+> Locale nb_NO doesn't contain key button.update.update
+> Locale vi doesn't contain key button.update.update
+> [Loading] LOADING_CONSOLE
+> [Downloader2] Loaded configuration: good
+> [Updater] Requesting an update...
+> [Updater] Requesting from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+> [Updater] Making request: https://repo.tlauncher.org/update/lch/release_update_2.3.json?version=2.894&client=f2d004ad-49e4-438b-9a85-cae4170ae3d1
+> [Updater] Request time: 1242 ms
+> [Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/release_update_2.3.json
+> [JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/pages/index_en.html
+> [JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/pages/index_en.html during 0
+> [Browser] Loading resources...
+> [Browser] Cleaning up after loading:
+> Starting garbage collector: 93 / 233 MB
+> Garbage collector completed: 29 / 295 MB
+> [Browser] Running in JavaFX Thread
+> [Browser] Preparing JavaFX...
+> [Loading] LOADING_MANAGERS
+> [LocalVersionList] Base directory: C:\Users\Vicky\AppData\Roaming\.minecraft
+> [ProfileManager] Refreshing profiles from: C:\Users\Vicky\AppData\Roaming\.minecraft\TlauncherProfiles.json
+> [AdvertisingStatusObserver]  started to get ad information
+> [AdvertisingStatusObserver]  finished to get add information
+> save profiles
+> [GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+> [Loading] LOADING_WINDOW
+> [Browser] Initializing...
+> [Browser@1255239554] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/pages/index_en.html"
+> [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+> [Loading] PREPARING_MAINPANE
+> [Browser] add listens into server_choose
+> [Browser] finished listens into server_choose
+> [REPO][SERVER_LIST_REPO] Success: Reached the repo in 648 ms.
+> [Update:2.895] Set state: DOWNLOADING
+> [Update:2.895] dest C:\Users\Vicky\AppData\Roaming\.minecraft\TLauncher.exe.update
+> [Update:2.895] url: https://securerepository.net/client/TLauncher-2.895.exe
+> [Downloader2] Files in queue 1
+> [Downloader2] Starting download 1 files...
+> [Update:2.895] Set state: READY
+> [Double running] clear time label
+> [Update:2.895] Set state: APPLYING
+> [Bootstrapper] choose jvm for restart:C:\Users\Vicky\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+> Good bye!
+> [Double running] clear time label
+> flush now
+[Bootstrapper] I can be terminated now: 0

@@ -10,6 +10,9 @@
       "minecraft:savanna_plateau": "2023-09-09 11:27:05 +0530",
       "minecraft:stony_peaks": "2023-09-09 10:16:51 +0530",
       "minecraft:lukewarm_ocean": "2023-09-09 10:17:09 +0530",
+      "minecraft:river": "2023-11-15 15:24:26 +0530",
+      "minecraft:stony_shore": "2023-11-15 15:32:27 +0530",
+      "minecraft:deep_lukewarm_ocean": "2023-11-15 15:33:46 +0530",
       "minecraft:deep_dark": "2023-09-09 11:26:17 +0530",
       "minecraft:savanna": "2023-09-09 10:17:00 +0530",
       "minecraft:plains": "2023-09-09 10:47:32 +0530"
@@ -132,6 +135,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2023-11-15 15:20:15 +0530",
+      "minecraft:ghast": "2023-11-15 15:19:09 +0530",
+      "minecraft:magma_cube": "2023-11-15 15:19:59 +0530",
+      "minecraft:creeper": "2023-11-15 15:33:36 +0530",
+      "minecraft:zombified_piglin": "2023-11-15 15:20:06 +0530",
       "minecraft:zombie": "2023-09-09 16:36:39 +0530"
     },
     "done": false
@@ -139,6 +147,121 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2023-09-09 16:36:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-11-15 15:38:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-11-15 15:37:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-11-15 15:18:39 +0530",
+      "minecraft:soul_sand_valley": "2023-11-15 15:18:24 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2023-11-15 15:37:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-11-15 15:18:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2023-11-15 15:37:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-11-15 15:35:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-11-15 15:18:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-11-15 16:05:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-11-15 15:15:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2023-11-15 15:35:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-11-15 15:37:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2023-11-15 15:33:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2023-11-15 15:33:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-11-15 15:11:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-11-15 15:38:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-11-15 15:39:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-11-15 15:38:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-11-15 15:37:44 +0530"
     },
     "done": true
   },
