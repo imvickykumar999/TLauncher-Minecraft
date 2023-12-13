@@ -45,7 +45,7 @@ renderClouds:"true"
 resourcePacks:["vanilla","file/redstone.zip"]
 incompatibleResourcePacks:["file/redstone.zip"]
 lastServer:127.0.0.1
-lang:en
+lang:en_us
 soundDevice:""
 chatVisibility:0
 chatOpacity:1.0

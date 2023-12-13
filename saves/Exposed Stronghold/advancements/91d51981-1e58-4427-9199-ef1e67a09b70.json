@@ -8,14 +8,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-11-04 12:12:57 +0530",
+      "minecraft:taiga": "2023-12-13 12:26:18 +0530",
       "minecraft:sunflower_plains": "2023-09-18 16:29:51 +0530",
       "minecraft:cherry_grove": "2023-11-04 12:11:05 +0530",
+      "minecraft:birch_forest": "2023-12-13 12:26:54 +0530",
       "minecraft:beach": "2023-09-18 16:30:09 +0530",
+      "minecraft:dark_forest": "2023-12-13 12:29:27 +0530",
       "minecraft:river": "2023-09-18 16:30:15 +0530",
       "minecraft:dripstone_caves": "2023-09-18 15:41:20 +0530",
+      "minecraft:forest": "2023-12-13 12:20:38 +0530",
       "minecraft:ocean": "2023-09-18 16:38:46 +0530",
+      "minecraft:old_growth_spruce_taiga": "2023-12-13 12:29:51 +0530",
       "minecraft:flower_forest": "2023-09-18 15:35:27 +0530",
       "minecraft:frozen_peaks": "2023-11-04 12:13:29 +0530",
+      "minecraft:old_growth_birch_forest": "2023-12-13 12:27:54 +0530",
       "minecraft:deep_dark": "2023-11-04 12:14:24 +0530",
       "minecraft:meadow": "2023-09-18 15:41:07 +0530",
       "minecraft:plains": "2023-09-18 15:33:39 +0530"
@@ -84,8 +90,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2023-12-13 12:42:48 +0530",
       "minecraft:ender_dragon": "2023-09-18 15:58:32 +0530",
-      "minecraft:shulker": "2023-09-18 16:09:49 +0530"
+      "minecraft:shulker": "2023-09-18 16:09:49 +0530",
+      "minecraft:enderman": "2023-12-13 12:37:08 +0530"
     },
     "done": false
   },
@@ -578,7 +586,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2023-09-18 16:51:09 +0530",
-      "minecraft:soul_sand_valley": "2023-09-18 16:57:12 +0530"
+      "minecraft:soul_sand_valley": "2023-09-18 16:57:12 +0530",
+      "minecraft:basalt_deltas": "2023-12-13 12:58:38 +0530"
     },
     "done": false
   },
@@ -627,6 +636,78 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2023-09-18 17:05:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-12-13 12:19:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-12-13 12:23:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-12-13 12:23:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2023-12-13 13:02:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2023-12-13 12:23:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2023-12-13 12:23:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2023-12-13 12:23:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2023-12-13 12:47:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2023-12-13 12:47:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2023-12-13 12:23:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-12-13 12:58:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-12-13 12:18:36 +0530"
     },
     "done": true
   },
