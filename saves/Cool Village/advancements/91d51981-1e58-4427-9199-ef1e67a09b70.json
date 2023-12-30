@@ -140,6 +140,7 @@
       "minecraft:magma_cube": "2023-11-15 15:19:59 +0530",
       "minecraft:creeper": "2023-11-15 15:33:36 +0530",
       "minecraft:zombified_piglin": "2023-11-15 15:20:06 +0530",
+      "minecraft:piglin": "2023-12-21 15:11:30 +0530",
       "minecraft:zombie": "2023-09-09 16:36:39 +0530"
     },
     "done": false
@@ -150,58 +151,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "has_rail": "2023-11-15 15:38:56 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2023-11-15 15:37:44 +0530"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2023-11-15 15:18:39 +0530",
-      "minecraft:soul_sand_valley": "2023-11-15 15:18:24 +0530"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2023-11-15 15:37:44 +0530"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2023-11-15 15:18:23 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2023-11-15 15:37:44 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2023-11-15 15:35:14 +0530"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2023-11-15 15:18:23 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2023-11-15 16:05:40 +0530"
+      "consumed_item": "2023-11-15 15:11:10 +0530"
     },
     "done": true
   },
@@ -211,15 +163,25 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_logs": "2023-11-15 15:35:14 +0530"
+      "entered_nether": "2023-11-15 15:18:23 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_minecart": "2023-11-15 15:37:44 +0530"
+      "entered_nether": "2023-11-15 15:18:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-12-21 15:02:24 +0530",
+      "minecraft:nether_wastes": "2023-11-15 15:18:39 +0530",
+      "minecraft:soul_sand_valley": "2023-11-15 15:18:24 +0530",
+      "minecraft:basalt_deltas": "2023-12-21 14:55:53 +0530",
+      "minecraft:warped_forest": "2023-12-21 15:10:26 +0530"
     },
     "done": true
   },
@@ -235,13 +197,61 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "consumed_item": "2023-11-15 15:11:10 +0530"
+      "has_log": "2023-11-15 15:35:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2023-11-15 15:35:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-11-15 15:37:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2023-11-15 15:37:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2023-11-15 15:37:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-11-15 15:37:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-11-15 15:37:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-11-15 15:38:56 +0530"
     },
     "done": true
   },
   "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-11-15 15:38:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2023-11-15 15:38:56 +0530"
     },
@@ -253,15 +263,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_rail": "2023-11-15 15:38:56 +0530"
+      "has_lots_of_items": "2023-11-15 16:05:40 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "has_minecart": "2023-11-15 15:37:44 +0530"
+      "has_andesite": "2023-12-21 15:14:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2023-12-21 15:04:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2023-12-21 15:14:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-12-21 15:14:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2023-12-21 15:14:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-12-21 15:14:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-12-21 15:05:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-12-21 15:14:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2023-12-21 15:14:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2023-12-21 15:14:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-12-21 15:14:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2023-12-21 15:03:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-12-21 14:57:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-12-21 15:14:25 +0530"
     },
     "done": true
   },

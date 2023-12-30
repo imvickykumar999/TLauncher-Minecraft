@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 12/11/2023, 12:33:34
+      Time of this report: 12/21/2023, 14:43:08
              Machine name: LAPTOP-HDJL6CHO
                Machine Id: {983D6974-39EE-4C93-92F1-59821168E1BE}
          Operating System: Windows 11 Home Single Language 64-bit (10.0, Build 22635) (22621.ni_release.220506-1250)
@@ -12,7 +12,7 @@ System Information
                 Processor: AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx   (8 CPUs), ~2.1GHz
                    Memory: 8192MB RAM
       Available OS Memory: 7618MB RAM
-                Page File: 12363MB used, 2871MB available
+                Page File: 11567MB used, 5778MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -381,7 +381,7 @@ USB Devices
 | Vendor/Product ID: 0x1022, 0x15E0
 | Matching Device ID: USB\ROOT_HUB30
 | Service: USBHUB3
-| Driver: USBHUB3.SYS, 12/5/2023 13:34:41, 726400 bytes
+| Driver: USBHUB3.SYS, 12/16/2023 14:54:31, 726488 bytes
 | 
 +-+ USB Input Device
 | | Vendor/Product ID: 0x093A, 0x2510
@@ -429,7 +429,7 @@ File System: NTFS
       Model: INTEL SSDPEKNW512G8
 
       Drive: C:
- Free Space: 11.0 GB
+ Free Space: 139.2 GB
 Total Space: 485.2 GB
 File System: NTFS
       Model: INTEL SSDPEKNW512G8
@@ -606,19 +606,19 @@ Device ID: PCI\VEN_1002&DEV_15D8&SUBSYS_18F11043&REV_C2\4&18C8F581&0&0041
 
      Name: PCI Express Root Port
 Device ID: PCI\VEN_1022&DEV_15D3&SUBSYS_18F11043&REV_00\3&11583659&1&0F
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.22621.2841 (English), 12/5/2023 13:34:06, 579040 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.22621.2915 (English), 12/16/2023 14:54:17, 579040 bytes
 
      Name: PCI Express Root Port
 Device ID: PCI\VEN_1022&DEV_15D3&SUBSYS_18F11043&REV_00\3&11583659&1&0B
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.22621.2841 (English), 12/5/2023 13:34:06, 579040 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.22621.2915 (English), 12/16/2023 14:54:17, 579040 bytes
 
      Name: PCI Express Root Port
 Device ID: PCI\VEN_1022&DEV_15D3&SUBSYS_18F11043&REV_00\3&11583659&1&0A
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.22621.2841 (English), 12/5/2023 13:34:06, 579040 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.22621.2915 (English), 12/16/2023 14:54:17, 579040 bytes
 
      Name: PCI Express Root Port
 Device ID: PCI\VEN_1022&DEV_15D3&SUBSYS_18F11043&REV_00\3&11583659&1&09
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.22621.2841 (English), 12/5/2023 13:34:06, 579040 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.22621.2915 (English), 12/16/2023 14:54:17, 579040 bytes
 
      Name: AMD USB 3.10 eXtensible Host Controller - 1.10 (Microsoft)
 Device ID: PCI\VEN_1022&DEV_15E1&SUBSYS_201F1043&REV_00\4&18C8F581&0&0441
@@ -1027,7 +1027,7 @@ Device ID: PCI\VEN_1022&DEV_790E&SUBSYS_18F11043&REV_51\3&11583659&1&A3
 
      Name: PCI Express Root Port
 Device ID: PCI\VEN_1022&DEV_15DB&SUBSYS_00001022&REV_00\3&11583659&1&41
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.22621.2841 (English), 12/5/2023 13:34:06, 579040 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.22621.2915 (English), 12/16/2023 14:54:17, 579040 bytes
 
      Name: PCI standard host CPU bridge
 Device ID: PCI\VEN_1022&DEV_15EA&SUBSYS_00000000&REV_00\3&11583659&1&C2
@@ -1075,19 +1075,19 @@ Color Space Converter,0x00400001,1,1,quartz.dll,10.00.22621.2706
 WM ASF Reader,0x00400000,0,0,qasf.dll,12.00.22621.0001
 AVI Splitter,0x00600000,1,1,quartz.dll,10.00.22621.2706
 VGA 16 Color Ditherer,0x00400000,1,1,quartz.dll,10.00.22621.2706
-SBE2MediaTypeProfile,0x00200000,0,0,sbe.dll,10.00.22621.2706
+SBE2MediaTypeProfile,0x00200000,0,0,sbe.dll,10.00.22621.2915
 XSplitMJPEGDecoder,0x00200002,1,1,,
-Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.22621.2850
+Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.22621.2915
 AC3 Parser Filter,0x00600000,1,1,mpg2splt.ax,10.00.22621.0001
 XSplitQsMJPEGDecoder,0x00200001,1,1,,
-StreamBufferSink,0x00200000,0,0,sbe.dll,10.00.22621.2706
+StreamBufferSink,0x00200000,0,0,sbe.dll,10.00.22621.2915
 MJPEG Decompressor,0x00600000,1,1,quartz.dll,10.00.22621.2706
 MPEG-I Stream Splitter,0x00600000,1,2,quartz.dll,10.00.22621.2706
 SAMI (CC) Parser,0x00400000,1,1,quartz.dll,10.00.22621.2706
 VBI Codec,0x00600000,1,4,VBICodec.ax,10.00.22621.0001
 MPEG-2 Splitter,0x005fffff,1,0,mpg2splt.ax,10.00.22621.0001
 Closed Captions Analysis Filter,0x00200000,2,5,cca.dll,10.00.22621.0001
-SBE2FileScan,0x00200000,0,0,sbe.dll,10.00.22621.2706
+SBE2FileScan,0x00200000,0,0,sbe.dll,10.00.22621.2915
 Microsoft MPEG-2 Video Encoder,0x00200000,1,1,msmpeg2enc.dll,10.00.22621.2706
 XSplit FF Audio Decoder,0x00200001,1,1,,
 Internal Script Command Renderer,0x00800001,1,0,quartz.dll,10.00.22621.2706
@@ -1097,7 +1097,7 @@ Video Mixing Renderer 9,0x00200000,1,0,quartz.dll,10.00.22621.2706
 Microsoft MPEG-2 Encoder,0x00200000,2,1,msmpeg2enc.dll,10.00.22621.2706
 ACM Wrapper,0x00600000,1,1,quartz.dll,10.00.22621.2706
 Video Renderer,0x00800001,1,0,quartz.dll,10.00.22621.2706
-MPEG-2 Video Stream Analyzer,0x00200000,0,0,sbe.dll,10.00.22621.2706
+MPEG-2 Video Stream Analyzer,0x00200000,0,0,sbe.dll,10.00.22621.2915
 Line 21 Decoder,0x00600000,1,1,,
 Video Port Manager,0x00600000,2,1,quartz.dll,10.00.22621.2706
 Video Renderer,0x00400000,1,0,quartz.dll,10.00.22621.2706
@@ -1119,7 +1119,7 @@ SampleGrabber,0x00200000,1,1,qedit.dll,10.00.22621.0001
 Null Renderer,0x00200000,1,0,qedit.dll,10.00.22621.0001
 MPEG-2 Sections and Tables,0x005fffff,1,0,Mpeg2Data.ax,10.00.22621.0001
 Microsoft AC3 Encoder,0x00200000,1,1,msac3enc.dll,10.00.22621.2706
-StreamBufferSource,0x00200000,0,0,sbe.dll,10.00.22621.2706
+StreamBufferSource,0x00200000,0,0,sbe.dll,10.00.22621.2915
 Smart Tee,0x00200000,1,2,qcap.dll,10.00.22621.0001
 Overlay Mixer,0x00200000,0,0,,
 AVI Decompressor,0x00600000,1,1,quartz.dll,10.00.22621.2706
@@ -1129,7 +1129,7 @@ MIDI Parser,0x00400000,1,1,quartz.dll,10.00.22621.2706
 Multi-file Parser,0x00400000,1,1,quartz.dll,10.00.22621.2706
 File stream renderer,0x00400000,1,1,quartz.dll,10.00.22621.2706
 Microsoft DTV-DVD Audio Decoder,0x005fffff,1,1,msmpeg2adec.dll,10.00.22621.2706
-StreamBufferSink2,0x00200000,0,0,sbe.dll,10.00.22621.2706
+StreamBufferSink2,0x00200000,0,0,sbe.dll,10.00.22621.2915
 AVI Mux,0x00200000,1,0,qcap.dll,10.00.22621.0001
 Bandicam MPEG-1 Audio Decoder,0xff800001,1,1,bdfilters64.dll,1.00.0005.0017
 Line 21 Decoder 2,0x00600002,1,1,quartz.dll,10.00.22621.2706
@@ -1169,9 +1169,9 @@ Headset (Airdopes 141),0x00200000,0,0,qcap.dll,10.00.22621.0001
 XSplit Audio (Broadcaster),0x00200000,0,0,qcap.dll,10.00.22621.0001
 
 PBDA CP Filters:
-PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.22621.2850
-PBDA ETFilter,0x00200000,0,0,CPFilters.dll,10.00.22621.2850
-PBDA PTFilter,0x00200000,0,0,CPFilters.dll,10.00.22621.2850
+PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.22621.2915
+PBDA ETFilter,0x00200000,0,0,CPFilters.dll,10.00.22621.2915
+PBDA PTFilter,0x00200000,0,0,CPFilters.dll,10.00.22621.2915
 
 Midi Renderers:
 Default MidiOut Device,0x00800000,1,0,quartz.dll,10.00.22621.2706
@@ -1291,7 +1291,7 @@ WMMEDIASUBTYPE_WMSP1, WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject
 Media Foundation File Versions
 ---------------------------
 
-  mfcore.dll, 10.00.22621.2850
+  mfcore.dll, 10.00.22621.2915
   mfreadwrite.dll, 10.00.22621.2706
   mfcaptureengine.dll, 10.00.22621.0001
   mfsensorgroup.dll, 10.00.22621.2706
@@ -1315,10 +1315,10 @@ Video Decoders:
   NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpegx.dll, 31.00.0015.2866
   AMD D3D11 Hardware MFT Playback Decoder, {17796AEB-0F66-4663-B8FB-99CBEE0224CE}, 0x4, 8, amdhwdecoder_64.dll, 27.20.22025.2003
   AMD MFT MJPEG Decoder, {687CBC51-25DA-4FFC-A678-1E64943285A7}, 0x4, 8, amf-mft-mjpeg-decoder64.dll, 27.20.22025.2003
-  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.22621.2850
+  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.22621.2915
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.22621.0001
   Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.22621.0001
-  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.22621.2850
+  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.22621.2915
   WMV Screen decoder MFT, CLSID_CMSSCDecMediaObject, 0x1, wmvsdecd.dll, 10.00.22621.0001
   WMVideo Decoder MFT, CLSID_CWMVDecMediaObject, 0x1, wmvdecod.dll, 10.00.22621.2706
   MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}, 0x1, mfmjpegdec.dll, 10.00.22621.0001
@@ -1357,23 +1357,23 @@ Audio Decoders:
   MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}, 0x1, MSAMRNBDecoder.dll, 10.00.22621.0001
   WMAudio Decoder MFT, CLSID_CWMADecMediaObject, 0x1, WMADMOD.DLL, 10.00.22621.2706
   Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFT, 0x1, MSAudDecMFT.dll, 10.00.22621.2841
-  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 10.00.22621.2850
-  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 10.00.22621.2850
+  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 10.00.22621.2915
+  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 10.00.22621.2915
   WMAPro over S/PDIF MFT, CLSID_CWMAudioSpdTxDMO, 0x1, WMADMOD.DLL, 10.00.22621.2706
   Microsoft Opus Audio Decoder MFT, {63E17C10-2D43-4C42-8FE3-8D8B63E46A6A}, 0x1, MSOpusDecoder.dll, 10.00.22621.0001
   Microsoft FLAC Audio Decoder MFT, {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}, 0x1, MSFlacDecoder.dll, 10.00.22621.0001
   Microsoft MPEG Audio Decoder MFT, {70707B39-B2CA-4015-ABEA-F8447D22D88B}, 0x1, MSAudDecMFT.dll, 10.00.22621.2841
   WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject, 0x1, WMSPDMOD.DLL, 10.00.22621.2706
-  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 10.00.22621.2850
-  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 10.00.22621.2850
+  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 10.00.22621.2915
+  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 10.00.22621.2915
   MP3 Decoder MFT, CLSID_CMP3DecMediaObject, 0x1, mp3dmod.dll, 10.00.22621.2706
   Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}, 0x1, MSAlacDecoder.dll, 10.00.22621.0001
-  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.22621.2850
+  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.22621.2915
   Dolby TrueHD IEC-61937 converter MFT, {CF5EEEDF-0E92-4B3B-A161-BD0FFE545E4B}, 0x1, mfaudiocnv.dll, 10.00.22621.2706
   DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}, 0x1, mfaudiocnv.dll, 10.00.22621.2706
 Audio Encoders:
   LPCM DVD-Audio MFT, {068A8476-9229-4CC0-9D49-2FC699DCD30A}, 0x1, mfaudiocnv.dll, 10.00.22621.2706
-  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 10.00.22621.2850
+  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 10.00.22621.2915
   Microsoft FLAC Audio Encoder MFT, {128509E9-C44E-45DC-95E9-C255B8F466A6}, 0x1, MSFlacEncoder.dll, 10.00.22621.0001
   WM Speech Encoder DMO, CLSID_CWMSPEncMediaObject2, 0x1, WMSPDMOE.DLL, 10.00.22621.0001
   MS AMRNB Encoder MFT, {2FAE8AFE-04A3-423A-A814-85DB454712B0}, 0x1, MSAMRNBEncoder.dll, 10.00.22621.0001
@@ -1386,9 +1386,9 @@ Audio Effects:
   AEC, CLSID_CWMAudioAEC, 0x1, mfwmaaec.dll, 10.00.22621.0001
   Resampler MFT, CLSID_CResamplerMediaObject, 0x1, resampledmo.dll, 10.00.22621.2706
 Multiplexers:
-  Microsoft MPEG2 Multiplexer MFT, {AB300F71-01AB-46D2-AB6C-64906CB03258}, 0x2, mfmpeg2srcsnk.dll, 10.00.22621.2850
+  Microsoft MPEG2 Multiplexer MFT, {AB300F71-01AB-46D2-AB6C-64906CB03258}, 0x2, mfmpeg2srcsnk.dll, 10.00.22621.2915
 Others:
-  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.22621.2850
+  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.22621.2915
 
 
 --------------------------------------------
@@ -1629,7 +1629,7 @@ Disabled Media Sources
 ---------------
 EVR Power Information
 ---------------
-Current Setting: {5C67A112-A4C9-483F-B4A7-1D473BECAFDC} (Quality) 
+Current Setting: {16260968-C914-4AA1-8736-B7A6F3C5AE9B} (Power)
   Quality Flags: 2576
     Enabled:
     Force throttling
@@ -1657,17 +1657,17 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 1647922900575931229, type 5
-Event Name: AppHangB1
+Fault bucket 1852464729085131463, type 5
+Event Name: RADAR_PRE_LEAK_64
 Response: Not available
-Cab Id: 0
+Cab Id: 1951412836949990792
 
 Problem signature:
-P1: regedit.exe
-P2: 10.0.22621.1
-P3: c07fb98a
-P4: 3e69
-P5: 134217728
+P1: screenrec.exe
+P2: 1.0.98.0
+P3: 10.0.22635.2.0.0
+P4: 
+P5: 
 P6: 
 P7: 
 P8: 
@@ -1676,14 +1676,14 @@ P10:
 
 
 +++ WER1 +++:
-Fault bucket 1386804752339633106, type 5
+Fault bucket 2145223990233860794, type 5
 Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: ctfmon.exe
-P2: 10.0.22621.1
+P1: chrome.exe
+P2: 120.0.6099.110
 P3: 10.0.22635.2.0.0
 P4: 
 P5: 
@@ -1695,14 +1695,14 @@ P10:
 
 
 +++ WER2 +++:
-Fault bucket 1501567488719374470, type 5
-Event Name: RADAR_PRE_LEAK_64
+Fault bucket 1389816418465719816, type 5
+Event Name: RADAR_PRE_LEAK_WOW64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: java.exe
-P2: 17.0.9.0
+P1: Telegram.exe
+P2: 4.12.2.0
 P3: 10.0.22635.2.0.0
 P4: 
 P5: 
@@ -1714,18 +1714,18 @@ P10:
 
 
 +++ WER3 +++:
-Fault bucket 1230769340258465337, type 5
-Event Name: WindowsWcpOtherFailure3
+Fault bucket 2291551822323544351, type 5
+Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.22621.2850:1
-P2: wcp\componentstore\storelayout.cpp
-P3: ComponentStore::CRawStoreLayout::HydrateFile
-P4: 2196
-P5: 800f0983
-P6: 0x2e2c8283
+P1: svchost.exe_defragsvc
+P2: 10.0.22621.1
+P3: 10.0.22635.2.0.0
+P4: 
+P5: 
+P6: 
 P7: 
 P8: 
 P9: 
@@ -1733,13 +1733,13 @@ P10:
 
 
 +++ WER4 +++:
-Fault bucket , type 0
+Fault bucket 1203908597788491390, type 5
 Event Name: WindowsWcpOtherFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.22621.2850:1
+P1: 10.0.22621.2915:1
 P2: wcp\componentstore\storelayout.cpp
 P3: ComponentStore::CRawStoreLayout::HydrateFile
 P4: 2196
@@ -1758,7 +1758,7 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.22621.2850:1
+P1: 10.0.22621.2915:1
 P2: wcp\componentstore\storelayout.cpp
 P3: ComponentStore::CRawStoreLayout::HydrateFile
 P4: 2196
@@ -1771,18 +1771,18 @@ P10:
 
 
 +++ WER6 +++:
-Fault bucket 1198465801294746490, type 5
-Event Name: MoAppHang
+Fault bucket , type 0
+Event Name: WindowsWcpOtherFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 5319275A.WhatsAppDesktop_2.2347.1.0_x64__cv1g1gvanyjgm
-P2: praid:App
-P3: 0.0.0.0
-P4: 65673cd3
-P5: 001f
-P6: 2097152
+P1: 10.0.22621.2915:1
+P2: wcp\componentstore\storelayout.cpp
+P3: ComponentStore::CRawStoreLayout::HydrateFile
+P4: 2196
+P5: 800f0983
+P6: 0x2e2c8283
 P7: 
 P8: 
 P9: 
@@ -1790,14 +1790,14 @@ P10:
 
 
 +++ WER7 +++:
-Fault bucket 1298831297754173699, type 5
+Fault bucket 1233968203349946496, type 5
 Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: GitHubDesktop.exe
-P2: 3.3.5.0
+P1: Zoom.exe
+P2: 5.16.10.26186
 P3: 10.0.22635.2.0.0
 P4: 
 P5: 
@@ -1809,14 +1809,14 @@ P10:
 
 
 +++ WER8 +++:
-Fault bucket 1630540781945145078, type 5
+Fault bucket 2256419023689611344, type 5
 Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: git.exe
-P2: 2.39.3.1
+P1: Postman.exe
+P2: 10.19.7.0
 P3: 10.0.22635.2.0.0
 P4: 
 P5: 
@@ -1828,17 +1828,17 @@ P10:
 
 
 +++ WER9 +++:
-Fault bucket 1906198280390917142, type 5
-Event Name: RADAR_PRE_LEAK_64
+Fault bucket 1737008106235039215, type 5
+Event Name: AppHangB1
 Response: Not available
-Cab Id: 1306947566057555674
+Cab Id: 1711847686336923286
 
 Problem signature:
-P1: PhotosApp.exe
-P2: 0.0.0.0
-P3: 10.0.22635.2.0.0
-P4: 
-P5: 
+P1: javaw.exe
+P2: 17.0.3.0
+P3: 82c09a73
+P4: f3d5
+P5: 67246080
 P6: 
 P7: 
 P8: 

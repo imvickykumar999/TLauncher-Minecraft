@@ -1,6 +1,6 @@
-[2023-12-15 10:27:39] [main INFO] Using Tweaker
-[2023-12-15 10:27:39] [main INFO] Tweaker: acceptOptions
-[2023-12-15 10:27:39] [main INFO] Tweaker: injectIntoClassLoader
-[2023-12-15 10:27:40] [main INFO] Loaded as a library.
-[2023-12-15 10:27:41] [main INFO] Tweaker: getLaunchArguments
-[2023-12-15 10:27:41] [main INFO] Tweaker: getLaunchTarget
+[2023-12-21 14:45:16] [main INFO] Using Tweaker
+[2023-12-21 14:45:16] [main INFO] Tweaker: acceptOptions
+[2023-12-21 14:45:16] [main INFO] Tweaker: injectIntoClassLoader
+[2023-12-21 14:45:17] [main INFO] Loaded as a library.
+[2023-12-21 14:45:18] [main INFO] Tweaker: getLaunchArguments
+[2023-12-21 14:45:18] [main INFO] Tweaker: getLaunchTarget
