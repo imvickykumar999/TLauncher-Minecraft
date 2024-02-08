@@ -3,9 +3,9 @@
 >![image](https://github.com/imvickykumar999/TLauncher-Minecraft/assets/50515418/b02dc5eb-885a-4961-a5a5-96ba7f2d0aea)
 >
 >![ss](https://github.com/imvickykumar999/TLauncher-Minecraft/blob/main/TLauncher.png?raw=true)
->- https://www.sportskeeda.com/minecraft/5-best-minecraft-seeds-strongholds
->- https://www.pcgamesn.com/minecraft/30-best-minecraft-seeds
+>- https://www.pcgamesn.com/minecraft/30-best-minecraft-seeds#Pretty-1-20-seed
 >- https://beebom.com/best-minecraft-1-20-seeds/
+>- https://www.sportskeeda.com/minecraft/5-best-minecraft-seeds-strongholds
 
 <br>
 
