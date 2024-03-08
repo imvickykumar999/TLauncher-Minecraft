@@ -13,3 +13,7 @@
     
 https://github.com/imvickykumar999/TLauncher-Minecraft/blob/8b7e23ca480032422ad637d0e5cf67ce23eb62b1/saves/Pretty%20icy/WriteMCA.py#L25
 ![image](https://github.com/imvickykumar999/TLauncher-Minecraft/assets/50515418/44a28fd6-f5ba-4593-91c6-b55c5d302a24)
+
+# `Diamond Tower`
+
+https://github.com/imvickykumar999/TLauncher-Minecraft/blob/8b7e23ca480032422ad637d0e5cf67ce23eb62b1/saves/Cherry%20Grove%20seed/WriteMCA.py#L17
